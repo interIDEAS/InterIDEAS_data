@@ -1,0 +1,1350 @@
+{
+    "Montesquieu": [
+        {
+            "type": "Nominal",
+            "intertextual_function": [
+                "1"
+            ],
+            "semantic": "Negative"
+        },
+        {
+            "type": "Nominal",
+            "intertextual_function": [],
+            "semantic": "Neutral"
+        },
+        {
+            "type": "Nominal",
+            "intertextual_function": [
+                "3"
+            ],
+            "semantic": "Positive"
+        },
+        {
+            "type": "Nominal",
+            "intertextual_function": [],
+            "semantic": "Positive"
+        },
+        {
+            "type": "Nominal",
+            "intertextual_function": [
+                "3"
+            ],
+            "semantic": "Negative"
+        },
+        {
+            "type": "Nominal",
+            "intertextual_function": [],
+            "semantic": "Positive"
+        },
+        {
+            "type": "Nominal",
+            "intertextual_function": [
+                "4"
+            ],
+            "semantic": "Positive"
+        },
+        {
+            "type": "Nominal",
+            "intertextual_function": [],
+            "semantic": "Positive"
+        },
+        {
+            "type": "Nominal",
+            "intertextual_function": [
+                "2"
+            ],
+            "semantic": "Neutral"
+        },
+        {
+            "type": "Nominal",
+            "intertextual_function": [],
+            "semantic": "Positive"
+        },
+        {
+            "type": "Nominal",
+            "intertextual_function": [],
+            "semantic": "Positive"
+        },
+        {
+            "type": "Nominal",
+            "intertextual_function": [],
+            "semantic": "Neutral"
+        },
+        {
+            "type": "Nominal",
+            "intertextual_function": [
+                "2"
+            ],
+            "semantic": "Positive"
+        },
+        {
+            "type": "Verbal",
+            "intertextual_function": [],
+            "semantic": "Positive"
+        },
+        {
+            "type": "Nominal",
+            "intertextual_function": [],
+            "semantic": "Negative"
+        },
+        {
+            "type": "Nominal",
+            "intertextual_function": [],
+            "semantic": "Positive"
+        },
+        {
+            "type": "Nominal",
+            "intertextual_function": [
+                "3"
+            ],
+            "semantic": "Neutral"
+        },
+        {
+            "type": "Nominal",
+            "intertextual_function": [],
+            "semantic": "Positive"
+        },
+        {
+            "type": "Nominal",
+            "intertextual_function": [
+                "2"
+            ],
+            "semantic": "Positive"
+        },
+        {
+            "type": "Nominal",
+            "intertextual_function": [],
+            "semantic": "Neutral"
+        },
+        {
+            "type": "Nominal",
+            "intertextual_function": [],
+            "semantic": "Positive"
+        },
+        {
+            "type": "Nominal",
+            "intertextual_function": [],
+            "semantic": "Positive"
+        }
+    ],
+    "No external textual references are explicitly mentioned.": [
+        {
+            "type": "Nominal",
+            "intertextual_function": [
+                "1"
+            ],
+            "semantic": ""
+        }
+    ],
+    "Aristotle": [
+        {
+            "type": "Nominal",
+            "intertextual_function": [
+                "1"
+            ],
+            "semantic": "Positive"
+        },
+        {
+            "type": "Nominal",
+            "intertextual_function": [],
+            "semantic": "Neutral"
+        },
+        {
+            "type": "Nominal",
+            "intertextual_function": [],
+            "semantic": "Positive"
+        },
+        {
+            "type": "Thematic",
+            "intertextual_function": [
+                "4"
+            ],
+            "semantic": "Positive"
+        },
+        {
+            "type": "Nominal",
+            "intertextual_function": [],
+            "semantic": "Positive"
+        },
+        {
+            "type": "Nominal",
+            "intertextual_function": [],
+            "semantic": "Neutral"
+        },
+        {
+            "type": "Thematic",
+            "intertextual_function": [],
+            "semantic": "Neutral"
+        },
+        {
+            "type": "Nominal",
+            "intertextual_function": [],
+            "semantic": "Negative"
+        },
+        {
+            "type": "Nominal",
+            "intertextual_function": [],
+            "semantic": "Neutral"
+        },
+        {
+            "type": "Nominal",
+            "intertextual_function": [],
+            "semantic": "Positive"
+        },
+        {
+            "type": "Verbal",
+            "intertextual_function": [],
+            "semantic": "Positive"
+        },
+        {
+            "type": "Nominal",
+            "intertextual_function": [],
+            "semantic": "Positive"
+        }
+    ],
+    "Demosthenes": [
+        {
+            "type": "Verbal",
+            "intertextual_function": [
+                "1"
+            ],
+            "semantic": "Neutral"
+        }
+    ],
+    "Rousseau": [
+        {
+            "type": "Nominal",
+            "intertextual_function": [
+                "1"
+            ],
+            "semantic": "Neutral"
+        },
+        {
+            "type": "Nominal",
+            "intertextual_function": [
+                "3"
+            ],
+            "semantic": "Positive"
+        },
+        {
+            "type": "Nominal",
+            "intertextual_function": [],
+            "semantic": "Positive"
+        },
+        {
+            "type": "Nominal",
+            "intertextual_function": [
+                "1"
+            ],
+            "semantic": "Neutral"
+        },
+        {
+            "type": "Nominal",
+            "intertextual_function": [
+                "3"
+            ],
+            "semantic": "Neutral"
+        },
+        {
+            "type": "Verbal",
+            "intertextual_function": [],
+            "semantic": "Positive"
+        }
+    ],
+    "Greek ????????????? (Opportunity)": [
+        {
+            "type": "Thematic",
+            "intertextual_function": [
+                "1"
+            ],
+            "semantic": "Neutral"
+        }
+    ],
+    "Vos non vobis": [
+        {
+            "type": "Nominal",
+            "intertextual_function": [
+                "1"
+            ],
+            "semantic": "Neutral"
+        }
+    ],
+    "Voltaire": [
+        {
+            "type": "Thematic",
+            "intertextual_function": [
+                "3"
+            ],
+            "semantic": "Neutral"
+        },
+        {
+            "type": "Nominal",
+            "intertextual_function": [
+                "3"
+            ],
+            "semantic": "Neutral"
+        },
+        {
+            "type": "Nominal",
+            "intertextual_function": [],
+            "semantic": "Negative"
+        },
+        {
+            "type": "Verbal",
+            "intertextual_function": [
+                "3"
+            ],
+            "semantic": "Neutral"
+        }
+    ],
+    "Suidas--Anastasius": [
+        {
+            "type": "Nominal",
+            "intertextual_function": [
+                "2"
+            ],
+            "semantic": "Neutral"
+        }
+    ],
+    "Jesuits in Paraguay": [
+        {
+            "type": "Nominal",
+            "intertextual_function": [
+                "2"
+            ],
+            "semantic": "Neutral"
+        }
+    ],
+    "Cicero": [
+        {
+            "type": "Verbal",
+            "intertextual_function": [
+                "3"
+            ],
+            "semantic": "Positive"
+        },
+        {
+            "type": "Nominal",
+            "intertextual_function": [],
+            "semantic": "Neutral"
+        }
+    ],
+    "Charlemagne": [
+        {
+            "type": "Thematic",
+            "intertextual_function": [
+                "2"
+            ],
+            "semantic": "Neutral"
+        }
+    ],
+    "Moli\u00e8re": [
+        {
+            "type": "Nominal",
+            "intertextual_function": [
+                "3"
+            ],
+            "semantic": "Negative"
+        }
+    ],
+    "Aristophanes": [
+        {
+            "type": "Verbal",
+            "intertextual_function": [
+                "1"
+            ],
+            "semantic": "Negative"
+        }
+    ],
+    "Plautus": [
+        {
+            "type": "Thematic",
+            "intertextual_function": [
+                "1"
+            ],
+            "semantic": "Negative"
+        }
+    ],
+    "Terence": [
+        {
+            "type": "Nominal",
+            "intertextual_function": [
+                "1"
+            ],
+            "semantic": "Neutral"
+        }
+    ],
+    "Edgar Quinet": [
+        {
+            "type": "Thematic",
+            "intertextual_function": [
+                "1"
+            ],
+            "semantic": "Positive"
+        }
+    ],
+    "England (King's Bench)": [
+        {
+            "type": "Nominal",
+            "intertextual_function": [
+                "2"
+            ],
+            "semantic": "Neutral"
+        }
+    ],
+    "Suidas": [
+        {
+            "type": "Nominal",
+            "intertextual_function": [
+                "2"
+            ],
+            "semantic": "Neutral"
+        }
+    ],
+    "Napoleon I": [
+        {
+            "type": "Nominal",
+            "intertextual_function": [
+                "1"
+            ],
+            "semantic": ""
+        }
+    ],
+    "Solon": [
+        {
+            "type": "Nominal",
+            "intertextual_function": [
+                "1"
+            ],
+            "semantic": ""
+        },
+        {
+            "type": "Verbal",
+            "intertextual_function": [
+                "2"
+            ],
+            "semantic": "Positive"
+        },
+        {
+            "type": "Thematic",
+            "intertextual_function": [],
+            "semantic": "Positive"
+        }
+    ],
+    "Lycurgus": [
+        {
+            "type": "Nominal",
+            "intertextual_function": [
+                "1"
+            ],
+            "semantic": ""
+        },
+        {
+            "type": "Verbal",
+            "intertextual_function": [],
+            "semantic": "Neutral"
+        }
+    ],
+    "Charondas": [
+        {
+            "type": "Nominal",
+            "intertextual_function": [
+                "1"
+            ],
+            "semantic": ""
+        }
+    ],
+    "Ph\u00e6do (referring to a work": [
+        {
+            "type": "Nominal",
+            "intertextual_function": [
+                "1"
+            ],
+            "semantic": ""
+        }
+    ],
+    "Ancient sociologists": [
+        {
+            "type": "Verbal",
+            "intertextual_function": [
+                "1"
+            ],
+            "semantic": "Positive"
+        }
+    ],
+    "Louis XIV": [
+        {
+            "type": "Nominal",
+            "intertextual_function": [
+                "1"
+            ],
+            "semantic": "Neutral"
+        },
+        {
+            "type": "Nominal",
+            "intertextual_function": [
+                "2"
+            ],
+            "semantic": "Neutral"
+        },
+        {
+            "type": "Verbal",
+            "intertextual_function": [],
+            "semantic": "Positive"
+        },
+        {
+            "type": "Nominal",
+            "intertextual_function": [],
+            "semantic": "Neutral"
+        }
+    ],
+    "Nietzsche": [
+        {
+            "type": "Nominal",
+            "intertextual_function": [
+                "1"
+            ],
+            "semantic": "Positive"
+        },
+        {
+            "type": "Verbal",
+            "intertextual_function": [
+                "3"
+            ],
+            "semantic": "Neutral"
+        },
+        {
+            "type": "Nominal",
+            "intertextual_function": [
+                "3"
+            ],
+            "semantic": "Positive"
+        },
+        {
+            "type": "Nominal",
+            "intertextual_function": [],
+            "semantic": "Neutral"
+        },
+        {
+            "type": "Nominal",
+            "intertextual_function": [],
+            "semantic": "Neutral"
+        },
+        {
+            "type": "Nominal",
+            "intertextual_function": [],
+            "semantic": "Neutral"
+        },
+        {
+            "type": "Nominal",
+            "intertextual_function": [
+                "3"
+            ],
+            "semantic": "Neutral"
+        }
+    ],
+    "Napoleon": [
+        {
+            "type": "Thematic",
+            "intertextual_function": [
+                "2"
+            ],
+            "semantic": "Neutral"
+        },
+        {
+            "type": "Thematic",
+            "intertextual_function": [
+                "2"
+            ],
+            "semantic": "Neutral"
+        }
+    ],
+    "Roman Republic": [
+        {
+            "type": "Thematic",
+            "intertextual_function": [
+                "2"
+            ],
+            "semantic": "Neutral"
+        }
+    ],
+    "French Republic of": [
+        {
+            "type": "Thematic",
+            "intertextual_function": [
+                "1"
+            ],
+            "semantic": ""
+        }
+    ],
+    "Cour de Cassation\"]": [
+        {
+            "type": "Nominal",
+            "intertextual_function": [
+                "1"
+            ],
+            "semantic": ""
+        }
+    ],
+    "French Senate": [
+        {
+            "type": "Thematic",
+            "intertextual_function": [
+                "1"
+            ],
+            "semantic": "Negative"
+        }
+    ],
+    "Law of July": [
+        {
+            "type": "Thematic",
+            "intertextual_function": [
+                "1"
+            ],
+            "semantic": ""
+        }
+    ],
+    "The revolution of": [
+        {
+            "type": "Thematic",
+            "intertextual_function": [
+                "1"
+            ],
+            "semantic": ""
+        }
+    ],
+    "M. Fouill\u00e9e": [
+        {
+            "type": "Nominal",
+            "intertextual_function": [
+                "1"
+            ],
+            "semantic": "Neutral"
+        },
+        {
+            "type": "Nominal",
+            "intertextual_function": [
+                "3"
+            ],
+            "semantic": "Neutral"
+        }
+    ],
+    "The God of Israel": [
+        {
+            "type": "Thematic",
+            "intertextual_function": [
+                "2"
+            ],
+            "semantic": "Neutral"
+        }
+    ],
+    "Democratic system": [
+        {
+            "type": "Nominal",
+            "intertextual_function": [
+                "2"
+            ],
+            "semantic": "Negative"
+        }
+    ],
+    "Dandin": [
+        {
+            "type": "Nominal",
+            "intertextual_function": [
+                "1"
+            ],
+            "semantic": "Neutral"
+        }
+    ],
+    "Rabelais": [
+        {
+            "type": "Nominal",
+            "intertextual_function": [
+                "1"
+            ],
+            "semantic": "Neutral"
+        }
+    ],
+    "Busiris (referenced by Voltaire)": [
+        {
+            "type": "Nominal",
+            "intertextual_function": [
+                "1"
+            ],
+            "semantic": "Negative"
+        }
+    ],
+    "La": [
+        {
+            "type": "Nominal",
+            "intertextual_function": [
+                "1"
+            ],
+            "semantic": ""
+        }
+    ],
+    "D'Etalonde (referenced by Voltaire)": [
+        {
+            "type": "Nominal",
+            "intertextual_function": [
+                "1"
+            ],
+            "semantic": "Neutral"
+        }
+    ],
+    "Calas (referenced by Voltaire)": [
+        {
+            "type": "Nominal",
+            "intertextual_function": [
+                "1"
+            ],
+            "semantic": "Neutral"
+        }
+    ],
+    "Montesquieu\"]": [
+        {
+            "type": "Nominal",
+            "intertextual_function": [
+                "1"
+            ],
+            "semantic": ""
+        },
+        {
+            "type": "Nominal",
+            "intertextual_function": [],
+            "semantic": ""
+        }
+    ],
+    "Germans": [
+        {
+            "type": "Nominal",
+            "intertextual_function": [
+                "1"
+            ],
+            "semantic": "Neutral"
+        }
+    ],
+    "Baron Joann\u00e8s": [
+        {
+            "type": "Nominal",
+            "intertextual_function": [
+                "1"
+            ],
+            "semantic": "Neutral"
+        }
+    ],
+    "Beaumarchais": [
+        {
+            "type": "Nominal",
+            "intertextual_function": [
+                "1"
+            ],
+            "semantic": "Positive"
+        }
+    ],
+    "Carnot": [
+        {
+            "type": "Verbal",
+            "intertextual_function": [
+                "1"
+            ],
+            "semantic": "Neutral"
+        }
+    ],
+    "Marcel Lestranger": [
+        {
+            "type": "Nominal",
+            "intertextual_function": [
+                "1"
+            ],
+            "semantic": "Neutral"
+        }
+    ],
+    "Bruneti\u00e8re": [
+        {
+            "type": "Nominal",
+            "intertextual_function": [
+                "1"
+            ],
+            "semantic": "Neutral"
+        }
+    ],
+    "Athens (Pnyx at Athens)": [
+        {
+            "type": "Verbal",
+            "intertextual_function": [
+                "1"
+            ],
+            "semantic": "Neutral"
+        }
+    ],
+    "St. Francis of Assize\"]": [
+        {
+            "type": "Nominal",
+            "intertextual_function": [
+                "1"
+            ],
+            "semantic": ""
+        }
+    ],
+    "St. Louis": [
+        {
+            "type": "Verbal",
+            "intertextual_function": [
+                "2"
+            ],
+            "semantic": ""
+        }
+    ],
+    "Proudhon": [
+        {
+            "type": "Nominal",
+            "intertextual_function": [
+                "1"
+            ],
+            "semantic": "Neutral"
+        }
+    ],
+    "Sylla": [
+        {
+            "type": "Nominal",
+            "intertextual_function": [
+                "1"
+            ],
+            "semantic": "Positive"
+        }
+    ],
+    "Nietzsche\"]": [
+        {
+            "type": "Nominal",
+            "intertextual_function": [
+                "1"
+            ],
+            "semantic": ""
+        }
+    ],
+    "An Indian author": [
+        {
+            "type": "Nominal",
+            "intertextual_function": [
+                "1"
+            ],
+            "semantic": "Neutral"
+        }
+    ],
+    "Renan": [
+        {
+            "type": "Thematic",
+            "intertextual_function": [
+                "1"
+            ],
+            "semantic": "Neutral"
+        }
+    ],
+    "Plato": [
+        {
+            "type": "Nominal",
+            "intertextual_function": [
+                "1"
+            ],
+            "semantic": "Neutral"
+        },
+        {
+            "type": "Nominal",
+            "intertextual_function": [],
+            "semantic": "Neutral"
+        },
+        {
+            "type": "Thematic",
+            "intertextual_function": [
+                "3"
+            ],
+            "semantic": "Neutral"
+        },
+        {
+            "type": "Thematic",
+            "intertextual_function": [],
+            "semantic": "Neutral"
+        },
+        {
+            "type": "Nominal",
+            "intertextual_function": [],
+            "semantic": "Neutral"
+        }
+    ],
+    "Machiavelli--Duke": [
+        {
+            "type": "Verbal",
+            "intertextual_function": [
+                "1"
+            ],
+            "semantic": ""
+        }
+    ],
+    "Thomas More": [
+        {
+            "type": "Thematic",
+            "intertextual_function": [
+                "1"
+            ],
+            "semantic": "Neutral"
+        }
+    ],
+    "Harrington": [
+        {
+            "type": "Nominal",
+            "intertextual_function": [
+                "1"
+            ],
+            "semantic": "Neutral"
+        }
+    ],
+    "Greece and Rome (as civilizations, not direct": [
+        {
+            "type": "Thematic",
+            "intertextual_function": [
+                "1"
+            ],
+            "semantic": ""
+        }
+    ],
+    "Thrasybulus": [
+        {
+            "type": "Nominal",
+            "intertextual_function": [
+                "1"
+            ],
+            "semantic": "Neutral"
+        }
+    ],
+    "Periander": [
+        {
+            "type": "Verbal",
+            "intertextual_function": [
+                "1"
+            ],
+            "semantic": "Neutral"
+        }
+    ],
+    "Louis XVI": [
+        {
+            "type": "Thematic",
+            "intertextual_function": [
+                "2"
+            ],
+            "semantic": "Neutral"
+        }
+    ],
+    "M. Lestranger\"]": [
+        {
+            "type": "Nominal",
+            "intertextual_function": [
+                "1"
+            ],
+            "semantic": ""
+        }
+    ],
+    "Diderot": [
+        {
+            "type": "Nominal",
+            "intertextual_function": [
+                "1"
+            ],
+            "semantic": ""
+        }
+    ],
+    "Holbach": [
+        {
+            "type": "Nominal",
+            "intertextual_function": [
+                "1"
+            ],
+            "semantic": ""
+        }
+    ],
+    "Robespierre": [
+        {
+            "type": "Nominal",
+            "intertextual_function": [
+                "1"
+            ],
+            "semantic": "Neutral"
+        }
+    ],
+    "Goncourts": [
+        {
+            "type": "Nominal",
+            "intertextual_function": [
+                "1"
+            ],
+            "semantic": "Neutral"
+        }
+    ],
+    "Emile Faguet": [
+        {
+            "type": "Verbal",
+            "intertextual_function": [
+                "1"
+            ],
+            "semantic": "Negative"
+        }
+    ],
+    "Ecclesiastical law": [
+        {
+            "type": "Nominal",
+            "intertextual_function": [
+                "2"
+            ],
+            "semantic": "Neutral"
+        }
+    ],
+    "French customs": [
+        {
+            "type": "Nominal",
+            "intertextual_function": [
+                "1"
+            ],
+            "semantic": "Negative"
+        }
+    ],
+    "Minister of Justice": [
+        {
+            "type": "Nominal",
+            "intertextual_function": [
+                "1"
+            ],
+            "semantic": "Positive"
+        }
+    ],
+    "Plato\"]": [
+        {
+            "type": "Nominal",
+            "intertextual_function": [
+                "1"
+            ],
+            "semantic": ""
+        }
+    ],
+    "Louis XIV\"]": [
+        {
+            "type": "Nominal",
+            "intertextual_function": [
+                "1"
+            ],
+            "semantic": ""
+        }
+    ],
+    "Sedan": [
+        {
+            "type": "Verbal",
+            "intertextual_function": [
+                "2"
+            ],
+            "semantic": "Neutral"
+        }
+    ],
+    "Bismarck": [
+        {
+            "type": "Nominal",
+            "intertextual_function": [
+                "2"
+            ],
+            "semantic": "Neutral"
+        }
+    ],
+    "Moses": [
+        {
+            "type": "Nominal",
+            "intertextual_function": [
+                "2"
+            ],
+            "semantic": "Neutral"
+        }
+    ],
+    "Neither God nor Master": [
+        {
+            "type": "Nominal",
+            "intertextual_function": [
+                "1"
+            ],
+            "semantic": ""
+        }
+    ],
+    "Victor Hugo": [
+        {
+            "type": "Nominal",
+            "intertextual_function": [
+                "1"
+            ],
+            "semantic": "Positive"
+        }
+    ],
+    "The People": [
+        {
+            "type": "Nominal",
+            "intertextual_function": [
+                "1"
+            ],
+            "semantic": "Positive"
+        }
+    ],
+    "M. Renouvier": [
+        {
+            "type": "Nominal",
+            "intertextual_function": [
+                "1"
+            ],
+            "semantic": "Positive"
+        }
+    ],
+    "Seneca": [
+        {
+            "type": "Thematic",
+            "intertextual_function": [
+                "1"
+            ],
+            "semantic": "Neutral"
+        }
+    ],
+    "Schopenhauer": [
+        {
+            "type": "Thematic",
+            "intertextual_function": [
+                "1"
+            ],
+            "semantic": "Neutral"
+        }
+    ],
+    "Democratic republic of Athens": [
+        {
+            "type": "Nominal",
+            "intertextual_function": [
+                "1"
+            ],
+            "semantic": "Neutral"
+        }
+    ],
+    "Democratic C\u00e6sarism of Rome": [
+        {
+            "type": "Nominal",
+            "intertextual_function": [
+                "1"
+            ],
+            "semantic": "Neutral"
+        }
+    ],
+    "Antisthenes": [
+        {
+            "type": "Nominal",
+            "intertextual_function": [
+                "2"
+            ],
+            "semantic": "Neutral"
+        }
+    ],
+    "Mythology - Argonauts": [
+        {
+            "type": "Verbal",
+            "intertextual_function": [
+                "2"
+            ],
+            "semantic": "Neutral"
+        }
+    ],
+    "Heracles": [
+        {
+            "type": "Thematic",
+            "intertextual_function": [
+                "2"
+            ],
+            "semantic": "Neutral"
+        }
+    ],
+    "C\u00e6sar": [
+        {
+            "type": "Nominal",
+            "intertextual_function": [
+                "1"
+            ],
+            "semantic": "Positive"
+        }
+    ],
+    "Democrat": [
+        {
+            "type": "Thematic",
+            "intertextual_function": [
+                "1"
+            ],
+            "semantic": ""
+        }
+    ],
+    "None": [
+        {
+            "type": "Nominal",
+            "intertextual_function": [
+                "1"
+            ],
+            "semantic": ""
+        }
+    ],
+    "Procureur-g\u00e9n\u00e9ral\"]": [
+        {
+            "type": "Nominal",
+            "intertextual_function": [
+                "1"
+            ],
+            "semantic": ""
+        }
+    ],
+    "Bonald": [
+        {
+            "type": "Nominal",
+            "intertextual_function": [
+                "1"
+            ],
+            "semantic": "Neutral"
+        }
+    ],
+    "Communism": [
+        {
+            "type": "Nominal",
+            "intertextual_function": [
+                "1"
+            ],
+            "semantic": "Positive"
+        }
+    ],
+    "Collectivism": [
+        {
+            "type": "Nominal",
+            "intertextual_function": [
+                "1"
+            ],
+            "semantic": "Positive"
+        }
+    ],
+    "Homer": [
+        {
+            "type": "Nominal",
+            "intertextual_function": [
+                "1"
+            ],
+            "semantic": "Negative"
+        }
+    ],
+    "Demos": [
+        {
+            "type": "Verbal",
+            "intertextual_function": [
+                "1"
+            ],
+            "semantic": ""
+        }
+    ],
+    "Pascal": [
+        {
+            "type": "Nominal",
+            "intertextual_function": [
+                "2"
+            ],
+            "semantic": "Neutral"
+        },
+        {
+            "type": "Verbal",
+            "intertextual_function": [
+                "2"
+            ],
+            "semantic": "Positive"
+        }
+    ],
+    "Athenian system": [
+        {
+            "type": "Thematic",
+            "intertextual_function": [
+                "2"
+            ],
+            "semantic": "Neutral"
+        }
+    ],
+    "Social Contract": [
+        {
+            "type": "Nominal",
+            "intertextual_function": [
+                "1"
+            ],
+            "semantic": ""
+        }
+    ],
+    "Ancien r\u00e9gime": [
+        {
+            "type": "Nominal",
+            "intertextual_function": [
+                "4"
+            ],
+            "semantic": "Neutral"
+        }
+    ],
+    "Usbek to Rh\u00e9di": [
+        {
+            "type": "Nominal",
+            "intertextual_function": [
+                "1"
+            ],
+            "semantic": "Neutral"
+        }
+    ],
+    "Xenophon": [
+        {
+            "type": "Thematic",
+            "intertextual_function": [
+                "2"
+            ],
+            "semantic": "Neutral"
+        }
+    ],
+    "Aristides": [
+        {
+            "type": "Nominal",
+            "intertextual_function": [
+                "2"
+            ],
+            "semantic": "Neutral"
+        }
+    ],
+    "Edict of Nantes": [
+        {
+            "type": "Verbal",
+            "intertextual_function": [
+                "1"
+            ],
+            "semantic": "Neutral"
+        }
+    ],
+    "Socrates": [
+        {
+            "type": "Nominal",
+            "intertextual_function": [
+                "1"
+            ],
+            "semantic": "Negative"
+        }
+    ],
+    "Abb\u00e9 Barth\u00e9lemy": [
+        {
+            "type": "Nominal",
+            "intertextual_function": [
+                "2"
+            ],
+            "semantic": "Positive"
+        }
+    ],
+    "John Stuart Mill": [
+        {
+            "type": "Nominal",
+            "intertextual_function": [
+                "1"
+            ],
+            "semantic": "Positive"
+        }
+    ]
+}

@@ -1,0 +1,974 @@
+{
+    "Locke": [
+        {
+            "type": "Nominal",
+            "intertextual_function": [
+                "2"
+            ],
+            "semantic": "Neutral"
+        },
+        {
+            "type": "Nominal",
+            "intertextual_function": [],
+            "semantic": ""
+        },
+        {
+            "type": "Nominal",
+            "intertextual_function": [
+                "1"
+            ],
+            "semantic": ""
+        }
+    ],
+    "Descartes": [
+        {
+            "type": "Verbal",
+            "intertextual_function": [
+                "2"
+            ],
+            "semantic": "Neutral"
+        }
+    ],
+    "Cataline": [
+        {
+            "type": "Nominal",
+            "intertextual_function": [
+                "1"
+            ],
+            "semantic": "Neutral"
+        }
+    ],
+    "De Tocqueville": [
+        {
+            "type": "Nominal",
+            "intertextual_function": [
+                "1"
+            ],
+            "semantic": "Positive"
+        }
+    ],
+    "Samuel J. Tilden": [
+        {
+            "type": "Nominal",
+            "intertextual_function": [
+                "1"
+            ],
+            "semantic": "Positive"
+        }
+    ],
+    "French Revolution": [
+        {
+            "type": "Nominal",
+            "intertextual_function": [
+                "2"
+            ],
+            "semantic": "Neutral"
+        }
+    ],
+    "Bacon": [
+        {
+            "type": "Verbal",
+            "intertextual_function": [
+                "2"
+            ],
+            "semantic": "Neutral"
+        }
+    ],
+    "Adam Smith": [
+        {
+            "type": "Thematic",
+            "intertextual_function": [
+                "3"
+            ],
+            "semantic": "Neutral"
+        },
+        {
+            "type": "Nominal",
+            "intertextual_function": [
+                "2"
+            ],
+            "semantic": "Positive"
+        }
+    ],
+    "mercantilism": [
+        {
+            "type": "Nominal",
+            "intertextual_function": [
+                "1"
+            ],
+            "semantic": "Neutral"
+        }
+    ],
+    "John Locke": [
+        {
+            "type": "Nominal",
+            "intertextual_function": [
+                "2"
+            ],
+            "semantic": "Positive"
+        }
+    ],
+    "American revolution": [
+        {
+            "type": "Verbal",
+            "intertextual_function": [
+                "2"
+            ],
+            "semantic": "Positive"
+        }
+    ],
+    "Columbus": [
+        {
+            "type": "Nominal",
+            "intertextual_function": [
+                "2"
+            ],
+            "semantic": "Neutral"
+        }
+    ],
+    "Great Britain and Japan\",": [
+        {
+            "type": "Nominal",
+            "intertextual_function": [
+                "1"
+            ],
+            "semantic": ""
+        }
+    ],
+    "Germany and Turkey\",": [
+        {
+            "type": "Verbal",
+            "intertextual_function": [
+                "1"
+            ],
+            "semantic": ""
+        }
+    ],
+    "Roman": [
+        {
+            "type": "Thematic",
+            "intertextual_function": [
+                "1"
+            ],
+            "semantic": ""
+        }
+    ],
+    "Carlyle": [
+        {
+            "type": "Nominal",
+            "intertextual_function": [
+                "1"
+            ],
+            "semantic": "Negative"
+        },
+        {
+            "type": "Nominal",
+            "intertextual_function": [],
+            "semantic": "Positive"
+        }
+    ],
+    "Macaulay": [
+        {
+            "type": "Verbal",
+            "intertextual_function": [
+                "1"
+            ],
+            "semantic": "Negative"
+        }
+    ],
+    "Lenin": [
+        {
+            "type": "Nominal",
+            "intertextual_function": [
+                "1"
+            ],
+            "semantic": ""
+        }
+    ],
+    "Mussolini": [
+        {
+            "type": "Nominal",
+            "intertextual_function": [
+                "1"
+            ],
+            "semantic": ""
+        }
+    ],
+    "Platonic": [
+        {
+            "type": "Nominal",
+            "intertextual_function": [
+                "1"
+            ],
+            "semantic": "Neutral"
+        }
+    ],
+    "Sir Isaac Newton": [
+        {
+            "type": "Nominal",
+            "intertextual_function": [
+                "2"
+            ],
+            "semantic": "Neutral"
+        }
+    ],
+    "Faraday": [
+        {
+            "type": "Nominal",
+            "intertextual_function": [
+                "2"
+            ],
+            "semantic": "Neutral"
+        }
+    ],
+    "Santayana": [
+        {
+            "type": "Nominal",
+            "intertextual_function": [
+                "4"
+            ],
+            "semantic": "Positive"
+        }
+    ],
+    "Physical science\"]": [
+        {
+            "type": "Nominal",
+            "intertextual_function": [
+                "1"
+            ],
+            "semantic": ""
+        }
+    ],
+    "Aristotle": [
+        {
+            "type": "Nominal",
+            "intertextual_function": [
+                "1"
+            ],
+            "semantic": "Neutral"
+        },
+        {
+            "type": "Nominal",
+            "intertextual_function": [],
+            "semantic": "Neutral"
+        },
+        {
+            "type": "Nominal",
+            "intertextual_function": [],
+            "semantic": ""
+        },
+        {
+            "type": "Nominal",
+            "intertextual_function": [
+                "1"
+            ],
+            "semantic": ""
+        }
+    ],
+    "Greek states": [
+        {
+            "type": "Nominal",
+            "intertextual_function": [
+                "1"
+            ],
+            "semantic": "Positive"
+        }
+    ],
+    "Jeffersonian political ideas": [
+        {
+            "type": "Nominal",
+            "intertextual_function": [
+                "2"
+            ],
+            "semantic": "Neutral"
+        }
+    ],
+    "Hamiltonian political ideas": [
+        {
+            "type": "Nominal",
+            "intertextual_function": [
+                "1"
+            ],
+            "semantic": "Neutral"
+        }
+    ],
+    "Physical science\",": [
+        {
+            "type": "Nominal",
+            "intertextual_function": [
+                "1"
+            ],
+            "semantic": ""
+        }
+    ],
+    "Individualism\",": [
+        {
+            "type": "Verbal",
+            "intertextual_function": [
+                "1"
+            ],
+            "semantic": ""
+        }
+    ],
+    "Collectivism\"]": [
+        {
+            "type": "Thematic",
+            "intertextual_function": [
+                "1"
+            ],
+            "semantic": ""
+        }
+    ],
+    "Philosophical anarchism": [
+        {
+            "type": "Nominal",
+            "intertextual_function": [
+                "3"
+            ],
+            "semantic": "Negative"
+        }
+    ],
+    "Herbert Spencer": [
+        {
+            "type": "Nominal",
+            "intertextual_function": [
+                "1"
+            ],
+            "semantic": "Neutral"
+        },
+        {
+            "type": "Nominal",
+            "intertextual_function": [],
+            "semantic": "Negative"
+        }
+    ],
+    "the treaty of Versailles": [
+        {
+            "type": "Thematic",
+            "intertextual_function": [
+                "1"
+            ],
+            "semantic": "Neutral"
+        }
+    ],
+    "Hamiltonians": [
+        {
+            "type": "Nominal",
+            "intertextual_function": [
+                "1"
+            ],
+            "semantic": "Neutral"
+        }
+    ],
+    "Jeffersonian": [
+        {
+            "type": "Verbal",
+            "intertextual_function": [
+                "1"
+            ],
+            "semantic": "Neutral"
+        }
+    ],
+    "Bagehot": [
+        {
+            "type": "Nominal",
+            "intertextual_function": [
+                "1"
+            ],
+            "semantic": "Neutral"
+        }
+    ],
+    "Hume\",": [
+        {
+            "type": "Nominal",
+            "intertextual_function": [
+                "1"
+            ],
+            "semantic": ""
+        }
+    ],
+    "Spinoza": [
+        {
+            "type": "Nominal",
+            "intertextual_function": [
+                "3"
+            ],
+            "semantic": "Neutral"
+        }
+    ],
+    "Hegel": [
+        {
+            "type": "Nominal",
+            "intertextual_function": [
+                "3"
+            ],
+            "semantic": "Neutral"
+        },
+        {
+            "type": "Nominal",
+            "intertextual_function": [],
+            "semantic": "Negative"
+        },
+        {
+            "type": "Nominal",
+            "intertextual_function": [],
+            "semantic": ""
+        }
+    ],
+    "Individualism": [
+        {
+            "type": "Nominal",
+            "intertextual_function": [
+                "1"
+            ],
+            "semantic": ""
+        }
+    ],
+    "Plato": [
+        {
+            "type": "Nominal",
+            "intertextual_function": [
+                "1"
+            ],
+            "semantic": "Neutral"
+        }
+    ],
+    "Rousseau": [
+        {
+            "type": "Thematic",
+            "intertextual_function": [
+                "1"
+            ],
+            "semantic": "Neutral"
+        },
+        {
+            "type": "Nominal",
+            "intertextual_function": [],
+            "semantic": "Neutral"
+        },
+        {
+            "type": "Nominal",
+            "intertextual_function": [
+                "3"
+            ],
+            "semantic": "Neutral"
+        },
+        {
+            "type": "Verbal",
+            "intertextual_function": [],
+            "semantic": ""
+        },
+        {
+            "type": "Nominal",
+            "intertextual_function": [
+                "1"
+            ],
+            "semantic": ""
+        }
+    ],
+    "James": [
+        {
+            "type": "Verbal",
+            "intertextual_function": [
+                "1"
+            ],
+            "semantic": "Positive"
+        }
+    ],
+    "Lippmann": [
+        {
+            "type": "Nominal",
+            "intertextual_function": [
+                "1"
+            ],
+            "semantic": "Neutral"
+        }
+    ],
+    "Hudson\"]": [
+        {
+            "type": "Nominal",
+            "intertextual_function": [
+                "1"
+            ],
+            "semantic": ""
+        }
+    ],
+    "German metaphysics": [
+        {
+            "type": "Verbal",
+            "intertextual_function": [
+                "3"
+            ],
+            "semantic": "Neutral"
+        }
+    ],
+    "Ku Klux": [
+        {
+            "type": "Nominal",
+            "intertextual_function": [
+                "2"
+            ],
+            "semantic": "Negative"
+        }
+    ],
+    "Mrs. Partington": [
+        {
+            "type": "Thematic",
+            "intertextual_function": [
+                "2"
+            ],
+            "semantic": "Neutral"
+        }
+    ],
+    "Radical socialists": [
+        {
+            "type": "Thematic",
+            "intertextual_function": [
+                "1"
+            ],
+            "semantic": "Neutral"
+        }
+    ],
+    "Bolshevists": [
+        {
+            "type": "Thematic",
+            "intertextual_function": [
+                "1"
+            ],
+            "semantic": "Negative"
+        }
+    ],
+    "Hume\"]": [
+        {
+            "type": "Nominal",
+            "intertextual_function": [
+                "1"
+            ],
+            "semantic": ""
+        }
+    ],
+    "The Stoics": [
+        {
+            "type": "Verbal",
+            "intertextual_function": [
+                "1"
+            ],
+            "semantic": ""
+        }
+    ],
+    "St. Thomas": [
+        {
+            "type": "Thematic",
+            "intertextual_function": [
+                "1"
+            ],
+            "semantic": ""
+        },
+        {
+            "type": "Nominal",
+            "intertextual_function": [],
+            "semantic": ""
+        }
+    ],
+    "Kant": [
+        {
+            "type": "Thematic",
+            "intertextual_function": [
+                "1"
+            ],
+            "semantic": ""
+        }
+    ],
+    "Socrates": [
+        {
+            "type": "Nominal",
+            "intertextual_function": [
+                "1"
+            ],
+            "semantic": ""
+        }
+    ],
+    "Buddha": [
+        {
+            "type": "Verbal",
+            "intertextual_function": [
+                "1"
+            ],
+            "semantic": ""
+        }
+    ],
+    "Jesus": [
+        {
+            "type": "Thematic",
+            "intertextual_function": [
+                "1"
+            ],
+            "semantic": ""
+        }
+    ],
+    "Confucius": [
+        {
+            "type": "Nominal",
+            "intertextual_function": [
+                "1"
+            ],
+            "semantic": ""
+        }
+    ],
+    "Homer": [
+        {
+            "type": "Nominal",
+            "intertextual_function": [
+                "1"
+            ],
+            "semantic": ""
+        }
+    ],
+    "Vergil": [
+        {
+            "type": "Nominal",
+            "intertextual_function": [
+                "1"
+            ],
+            "semantic": ""
+        }
+    ],
+    "Dante": [
+        {
+            "type": "Nominal",
+            "intertextual_function": [
+                "1"
+            ],
+            "semantic": ""
+        }
+    ],
+    "Shakespeare": [
+        {
+            "type": "Nominal",
+            "intertextual_function": [
+                "1"
+            ],
+            "semantic": ""
+        }
+    ],
+    "Copernicus": [
+        {
+            "type": "Nominal",
+            "intertextual_function": [
+                "1"
+            ],
+            "semantic": ""
+        }
+    ],
+    "Galileo": [
+        {
+            "type": "Nominal",
+            "intertextual_function": [
+                "1"
+            ],
+            "semantic": ""
+        }
+    ],
+    "Newton": [
+        {
+            "type": "Nominal",
+            "intertextual_function": [
+                "1"
+            ],
+            "semantic": ""
+        }
+    ],
+    "Boyle": [
+        {
+            "type": "Nominal",
+            "intertextual_function": [
+                "1"
+            ],
+            "semantic": ""
+        }
+    ],
+    "Pericles": [
+        {
+            "type": "Nominal",
+            "intertextual_function": [
+                "1"
+            ],
+            "semantic": ""
+        }
+    ],
+    "Alexander": [
+        {
+            "type": "Nominal",
+            "intertextual_function": [
+                "1"
+            ],
+            "semantic": ""
+        }
+    ],
+    "Julius Caesar": [
+        {
+            "type": "Nominal",
+            "intertextual_function": [
+                "1"
+            ],
+            "semantic": ""
+        }
+    ],
+    "Augustus Caesar": [
+        {
+            "type": "Nominal",
+            "intertextual_function": [
+                "1"
+            ],
+            "semantic": ""
+        }
+    ],
+    "Elizabeth": [
+        {
+            "type": "Nominal",
+            "intertextual_function": [
+                "1"
+            ],
+            "semantic": ""
+        }
+    ],
+    "Cromwell": [
+        {
+            "type": "Nominal",
+            "intertextual_function": [
+                "1"
+            ],
+            "semantic": ""
+        }
+    ],
+    "Richelieu": [
+        {
+            "type": "Nominal",
+            "intertextual_function": [
+                "1"
+            ],
+            "semantic": ""
+        }
+    ],
+    "Napoleon": [
+        {
+            "type": "Nominal",
+            "intertextual_function": [
+                "1"
+            ],
+            "semantic": ""
+        }
+    ],
+    "Bismarck": [
+        {
+            "type": "Nominal",
+            "intertextual_function": [
+                "1"
+            ],
+            "semantic": ""
+        }
+    ],
+    "Mill\"]": [
+        {
+            "type": "Nominal",
+            "intertextual_function": [
+                "1"
+            ],
+            "semantic": ""
+        }
+    ],
+    "Walt Whitman": [
+        {
+            "type": "Nominal",
+            "intertextual_function": [
+                "1"
+            ],
+            "semantic": "Positive"
+        }
+    ],
+    "James Mill": [
+        {
+            "type": "Nominal",
+            "intertextual_function": [
+                "3"
+            ],
+            "semantic": "Neutral"
+        },
+        {
+            "type": "Nominal",
+            "intertextual_function": [],
+            "semantic": "Positive"
+        }
+    ],
+    "Reform Bill of": [
+        {
+            "type": "Thematic",
+            "intertextual_function": [
+                "1"
+            ],
+            "semantic": ""
+        }
+    ],
+    "philosophy of \u00d2natural\u00d3 economics": [
+        {
+            "type": "Nominal",
+            "intertextual_function": [
+                "1"
+            ],
+            "semantic": "Negative"
+        }
+    ],
+    "philosophers of\n\u00d2Individualism\u00d3": [
+        {
+            "type": "Nominal",
+            "intertextual_function": [
+                "1"
+            ],
+            "semantic": ""
+        }
+    ],
+    "primitive Hebrew people": [
+        {
+            "type": "Nominal",
+            "intertextual_function": [
+                "1"
+            ],
+            "semantic": "Neutral"
+        }
+    ],
+    "scientific inquiry": [
+        {
+            "type": "Verbal",
+            "intertextual_function": [
+                "1"
+            ],
+            "semantic": "Neutral"
+        }
+    ],
+    "John Doe": [
+        {
+            "type": "Nominal",
+            "intertextual_function": [
+                "1"
+            ],
+            "semantic": "Neutral"
+        }
+    ],
+    "Richard Roe": [
+        {
+            "type": "Nominal",
+            "intertextual_function": [
+                "1"
+            ],
+            "semantic": "Neutral"
+        }
+    ],
+    "John Smith": [
+        {
+            "type": "Nominal",
+            "intertextual_function": [
+                "1"
+            ],
+            "semantic": "Neutral"
+        }
+    ],
+    "Emerson": [
+        {
+            "type": "Verbal",
+            "intertextual_function": [
+                "4"
+            ],
+            "semantic": "Positive"
+        }
+    ],
+    "Socialists\"]": [
+        {
+            "type": "Nominal",
+            "intertextual_function": [
+                "1"
+            ],
+            "semantic": ""
+        }
+    ],
+    "English literature of the eighteenth century": [
+        {
+            "type": "Nominal",
+            "intertextual_function": [
+                "2"
+            ],
+            "semantic": ""
+        }
+    ],
+    "Early": [
+        {
+            "type": "Verbal",
+            "intertextual_function": [
+                "1"
+            ],
+            "semantic": ""
+        }
+    ],
+    "Authors of the individualistic doctrine": [
+        {
+            "type": "Thematic",
+            "intertextual_function": [
+                "1"
+            ],
+            "semantic": ""
+        }
+    ],
+    "Nature\nabhors a vacuum": [
+        {
+            "type": "Nominal",
+            "intertextual_function": [
+                "1"
+            ],
+            "semantic": ""
+        }
+    ],
+    "Cooley": [
+        {
+            "type": "Nominal",
+            "intertextual_function": [
+                "1"
+            ],
+            "semantic": "Neutral"
+        }
+    ],
+    "liberalist school": [
+        {
+            "type": "Nominal",
+            "intertextual_function": [
+                "1"
+            ],
+            "semantic": ""
+        }
+    ],
+    "Graham Wallas": [
+        {
+            "type": "Nominal",
+            "intertextual_function": [
+                "2"
+            ],
+            "semantic": "Neutral"
+        }
+    ],
+    "Woodrow Wilson--The New Freedom": [
+        {
+            "type": "Verbal",
+            "intertextual_function": [
+                "2"
+            ],
+            "semantic": "Positive"
+        }
+    ],
+    "Supreme Court\",": [
+        {
+            "type": "Nominal",
+            "intertextual_function": [
+                "1"
+            ],
+            "semantic": ""
+        }
+    ]
+}
