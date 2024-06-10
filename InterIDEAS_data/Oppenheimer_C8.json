@@ -1,0 +1,167 @@
+{
+    "Unidentified": [
+        {
+            "type": "Nominal",
+            "intertextual_function": 1,
+            "semantic": "Neutral"
+        },
+        {
+            "type": "Nominal",
+            "intertextual_function": 1,
+            "semantic": "Neutral"
+        },
+        {
+            "type": "Nominal",
+            "intertextual_function": 1,
+            "semantic": "Neutral"
+        },
+        {
+            "type": "Thematic",
+            "intertextual_function": 3,
+            "semantic": "Neutral"
+        },
+        {
+            "type": "Nominal",
+            "intertextual_function": 1,
+            "semantic": "Neutral"
+        },
+        {
+            "type": "Nominal",
+            "intertextual_function": 1,
+            "semantic": "Neutral"
+        },
+        {
+            "type": "Nominal",
+            "intertextual_function": 1,
+            "semantic": "Neutral"
+        },
+        {
+            "type": "Nominal",
+            "intertextual_function": 1,
+            "semantic": "Neutral"
+        }
+    ],
+    "St. Simon": [
+        {
+            "type": "Nominal",
+            "intertextual_function": [
+                "1"
+            ],
+            "semantic": "Neutral"
+        }
+    ],
+    "Hegel": [
+        {
+            "type": "Thematic",
+            "intertextual_function": [
+                "1"
+            ],
+            "semantic": "Neutral"
+        }
+    ],
+    "Herder": [
+        {
+            "type": "Nominal",
+            "intertextual_function": [
+                "1"
+            ],
+            "semantic": "Neutral"
+        }
+    ],
+    "Schleiermacher": [
+        {
+            "type": "Thematic",
+            "intertextual_function": [
+                "1"
+            ],
+            "semantic": "Neutral"
+        }
+    ],
+    "Goethe—Prometheus": [
+        {
+            "type": "Nominal",
+            "intertextual_function": 1,
+            "semantic": "Neutral"
+        }
+    ],
+    "Ludwig Gumplowicz": [
+        {
+            "type": "Nominal",
+            "intertextual_function": [
+                "3"
+            ],
+            "semantic": "Negative"
+        }
+    ],
+    "Proletarian theory": [
+        {
+            "type": "Thematic",
+            "intertextual_function": [
+                "2"
+            ],
+            "semantic": "Neutral"
+        }
+    ],
+    "Anarchistic theory": [
+        {
+            "type": "Thematic",
+            "intertextual_function": [
+                "2"
+            ],
+            "semantic": "Negative"
+        }
+    ],
+    "German _Freizuegigkeit_": [
+        {
+            "type": "Thematic",
+            "intertextual_function": [
+                "2"
+            ],
+            "semantic": "Neutral"
+        }
+    ],
+    "Quesnay": [
+        {
+            "type": "Nominal",
+            "intertextual_function": 1,
+            "semantic": "Positive"
+        }
+    ],
+    "Adam Smith": [
+        {
+            "type": "Nominal",
+            "intertextual_function": 1,
+            "semantic": "Positive"
+        }
+    ],
+    "Henry George": [
+        {
+            "type": "Nominal",
+            "intertextual_function": 1,
+            "semantic": "Positive"
+        }
+    ],
+    "Theodore Hertzka": [
+        {
+            "type": "Nominal",
+            "intertextual_function": 1,
+            "semantic": "Positive"
+        }
+    ],
+    "Karl Marx": [
+        {
+            "type": "Nominal",
+            "intertextual_function": [
+                "3"
+            ],
+            "semantic": "Neutral"
+        }
+    ],
+    "bourgeois": [
+        {
+            "type": "Thematic",
+            "intertextual_function": 3,
+            "semantic": "Neutral"
+        }
+    ]
+}

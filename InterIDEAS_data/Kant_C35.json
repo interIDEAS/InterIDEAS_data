@@ -1,0 +1,38 @@
+{
+    "Unidentified": [
+        {
+            "type": "Nominal",
+            "intertextual_function": [
+                "1"
+            ],
+            "semantic": "Neutral"
+        }
+    ],
+    "Descartes": [
+        {
+            "type": "Nominal",
+            "intertextual_function": [
+                "3"
+            ],
+            "semantic": "Neutral"
+        }
+    ],
+    "Berkeley": [
+        {
+            "type": "Thematic",
+            "intertextual_function": [
+                "3"
+            ],
+            "semantic": "Negative"
+        }
+    ],
+    "Idealism": [
+        {
+            "type": "Nominal",
+            "intertextual_function": [
+                "1"
+            ],
+            "semantic": "Neutral"
+        }
+    ]
+}

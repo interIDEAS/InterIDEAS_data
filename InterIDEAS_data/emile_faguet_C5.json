@@ -1,0 +1,85 @@
+{
+    "Unidentified": [
+        {
+            "type": "Nominal",
+            "intertextual_function": 1,
+            "semantic": "Neutral"
+        },
+        {
+            "type": "Nominal",
+            "intertextual_function": 1,
+            "semantic": "Neutral"
+        },
+        {
+            "type": "Nominal",
+            "intertextual_function": 1,
+            "semantic": "Neutral"
+        }
+    ],
+    "Aristotle": [
+        {
+            "type": "Nominal",
+            "intertextual_function": 1,
+            "semantic": "Positive"
+        },
+        {
+            "type": "Nominal",
+            "intertextual_function": 1,
+            "semantic": "Positive"
+        }
+    ],
+    "Montesquieu": [
+        {
+            "type": "Nominal",
+            "intertextual_function": 1,
+            "semantic": "Neutral"
+        },
+        {
+            "type": "Nominal",
+            "intertextual_function": 1,
+            "semantic": "Positive"
+        }
+    ],
+    "Demosthenes": [
+        {
+            "type": "Verbal",
+            "intertextual_function": 2,
+            "semantic": "Neutral"
+        }
+    ],
+    "Solon": [
+        {
+            "type": "Nominal",
+            "intertextual_function": 1,
+            "semantic": "Neutral"
+        }
+    ],
+    "Lycurgus": [
+        {
+            "type": "Nominal",
+            "intertextual_function": 1,
+            "semantic": "Neutral"
+        }
+    ],
+    "Charondas": [
+        {
+            "type": "Nominal",
+            "intertextual_function": 1,
+            "semantic": "Neutral"
+        }
+    ],
+    "Phædo (referring to a work": [
+        {
+            "type": "Nominal",
+            "intertextual_function": 1,
+            "semantic": "Neutral"
+        }
+    ],
+    "Ancient sociologists": [
+        {
+            "type": "Verbal",
+            "intertextual_function": 2,
+            "semantic": "Positive"
+        }
+    ]
+}

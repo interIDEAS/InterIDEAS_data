@@ -1,0 +1,90 @@
+{
+    "The Bible": [
+        {
+            "type": "Nominal",
+            "intertextual_function": [
+                "1"
+            ],
+            "semantic": "Neutral"
+        }
+    ],
+    "Times representative": [
+        {
+            "type": "Thematic",
+            "intertextual_function": [
+                "3"
+            ],
+            "semantic": "Neutral"
+        }
+    ],
+    "Mr. Gandhi": [
+        {
+            "type": "Verbal",
+            "intertextual_function": [
+                "2"
+            ],
+            "semantic": "Neutral"
+        },
+        {
+            "type": "Verbal",
+            "intertextual_function": [
+                "2"
+            ],
+            "semantic": "Neutral"
+        }
+    ],
+    "_Times_ representative": [
+        {
+            "type": "Nominal",
+            "intertextual_function": [
+                "1"
+            ],
+            "semantic": "Neutral"
+        }
+    ],
+    "British people": [
+        {
+            "type": "Thematic",
+            "intertextual_function": [
+                "3"
+            ],
+            "semantic": "Neutral"
+        }
+    ],
+    "Somaliland": [
+        {
+            "type": "Thematic",
+            "intertextual_function": [
+                "3"
+            ],
+            "semantic": "Neutral"
+        }
+    ],
+    "Mr. Andrews": [
+        {
+            "type": "Nominal",
+            "intertextual_function": [
+                "1"
+            ],
+            "semantic": "Neutral"
+        }
+    ],
+    "Shaukat Ali": [
+        {
+            "type": "Nominal",
+            "intertextual_function": [
+                "1"
+            ],
+            "semantic": "Neutral"
+        }
+    ],
+    "Unidentified": [
+        {
+            "type": "Thematic",
+            "intertextual_function": [
+                "3"
+            ],
+            "semantic": "Positive"
+        }
+    ]
+}

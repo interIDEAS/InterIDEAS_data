@@ -1,0 +1,2431 @@
+{
+    "The Rambler": [
+        {
+            "type": "Nominal",
+            "intertextual_function": 1,
+            "semantic": "Neutral"
+        }
+    ],
+    "Puritans": [
+        {
+            "type": "Nominal",
+            "intertextual_function": 1,
+            "semantic": "Neutral"
+        }
+    ],
+    "Catholics": [
+        {
+            "type": "Nominal",
+            "intertextual_function": 1,
+            "semantic": "Neutral"
+        },
+        {
+            "type": "Nominal",
+            "intertextual_function": [
+                "3"
+            ],
+            "semantic": "Negative"
+        },
+        {
+            "type": "Thematic",
+            "intertextual_function": 3,
+            "semantic": "Neutral"
+        },
+        {
+            "type": "Nominal",
+            "intertextual_function": [
+                "2"
+            ],
+            "semantic": "Neutral"
+        }
+    ],
+    "Stuarts": [
+        {
+            "type": "Nominal",
+            "intertextual_function": 1,
+            "semantic": "Neutral"
+        }
+    ],
+    "Massachusetts": [
+        {
+            "type": "Nominal",
+            "intertextual_function": 1,
+            "semantic": "Neutral"
+        }
+    ],
+    "Maryland": [
+        {
+            "type": "Nominal",
+            "intertextual_function": 1,
+            "semantic": "Neutral"
+        }
+    ],
+    "Virginia": [
+        {
+            "type": "Nominal",
+            "intertextual_function": 1,
+            "semantic": "Neutral"
+        }
+    ],
+    "Rhode Island": [
+        {
+            "type": "Nominal",
+            "intertextual_function": 1,
+            "semantic": "Neutral"
+        }
+    ],
+    "Calvin": [
+        {
+            "type": "Nominal",
+            "intertextual_function": 1,
+            "semantic": "Negative"
+        },
+        {
+            "type": "Nominal",
+            "intertextual_function": [
+                "3"
+            ],
+            "semantic": "Neutral"
+        },
+        {
+            "type": "Nominal",
+            "intertextual_function": [
+                "3"
+            ],
+            "semantic": "Neutral"
+        },
+        {
+            "type": "Nominal",
+            "intertextual_function": 1,
+            "semantic": "Negative"
+        },
+        {
+            "type": "Nominal",
+            "intertextual_function": [
+                "3"
+            ],
+            "semantic": "Neutral"
+        },
+        {
+            "type": "Verbal",
+            "intertextual_function": 2,
+            "semantic": "Neutral"
+        },
+        {
+            "type": "Verbal",
+            "intertextual_function": [
+                "3"
+            ],
+            "semantic": "Neutral"
+        },
+        {
+            "type": "Nominal",
+            "intertextual_function": 1,
+            "semantic": "Neutral"
+        },
+        {
+            "type": "Nominal",
+            "intertextual_function": 1,
+            "semantic": "Negative"
+        }
+    ],
+    "Protestantism": [
+        {
+            "type": "Verbal",
+            "intertextual_function": 2,
+            "semantic": "Neutral"
+        },
+        {
+            "type": "Nominal",
+            "intertextual_function": 1,
+            "semantic": "Neutral"
+        },
+        {
+            "type": "Nominal",
+            "intertextual_function": 1,
+            "semantic": "Neutral"
+        }
+    ],
+    "Luther": [
+        {
+            "type": "Thematic",
+            "intertextual_function": 3,
+            "semantic": "Neutral"
+        },
+        {
+            "type": "Nominal",
+            "intertextual_function": [
+                "2"
+            ],
+            "semantic": "Neutral"
+        },
+        {
+            "type": "Nominal",
+            "intertextual_function": [
+                "3"
+            ],
+            "semantic": "Neutral"
+        },
+        {
+            "type": "Nominal",
+            "intertextual_function": 1,
+            "semantic": "Negative"
+        },
+        {
+            "type": "Verbal",
+            "intertextual_function": 2,
+            "semantic": "Neutral"
+        },
+        {
+            "type": "Nominal",
+            "intertextual_function": [
+                "3"
+            ],
+            "semantic": "Positive"
+        },
+        {
+            "type": "Nominal",
+            "intertextual_function": 1,
+            "semantic": "Negative"
+        },
+        {
+            "type": "Nominal",
+            "intertextual_function": [
+                "2"
+            ],
+            "semantic": "Neutral"
+        },
+        {
+            "type": "Nominal",
+            "intertextual_function": 1,
+            "semantic": "Positive"
+        },
+        {
+            "type": "Thematic",
+            "intertextual_function": 3,
+            "semantic": "Neutral"
+        },
+        {
+            "type": "Thematic",
+            "intertextual_function": [
+                "1"
+            ],
+            "semantic": "Negative"
+        },
+        {
+            "type": "Nominal",
+            "intertextual_function": [
+                "3"
+            ],
+            "semantic": "Neutral"
+        },
+        {
+            "type": "Thematic",
+            "intertextual_function": 3,
+            "semantic": "Negative"
+        },
+        {
+            "type": "Nominal",
+            "intertextual_function": [
+                "3"
+            ],
+            "semantic": "Neutral"
+        },
+        {
+            "type": "Verbal",
+            "intertextual_function": [
+                "2"
+            ],
+            "semantic": "Neutral"
+        },
+        {
+            "type": "Nominal",
+            "intertextual_function": [
+                "3"
+            ],
+            "semantic": "Negative"
+        },
+        {
+            "type": "Nominal",
+            "intertextual_function": 1,
+            "semantic": "Neutral"
+        },
+        {
+            "type": "Verbal",
+            "intertextual_function": [
+                "3"
+            ],
+            "semantic": "Negative"
+        },
+        {
+            "type": "Nominal",
+            "intertextual_function": [
+                "2"
+            ],
+            "semantic": "Neutral"
+        },
+        {
+            "type": "Thematic",
+            "intertextual_function": [
+                "1"
+            ],
+            "semantic": "Neutral"
+        }
+    ],
+    "Anabaptists": [
+        {
+            "type": "Nominal",
+            "intertextual_function": [
+                "2"
+            ],
+            "semantic": "Neutral"
+        },
+        {
+            "type": "Verbal",
+            "intertextual_function": 2,
+            "semantic": "Positive"
+        },
+        {
+            "type": "Nominal",
+            "intertextual_function": 1,
+            "semantic": "Neutral"
+        },
+        {
+            "type": "Nominal",
+            "intertextual_function": 1,
+            "semantic": "Neutral"
+        },
+        {
+            "type": "Thematic",
+            "intertextual_function": 3,
+            "semantic": "Negative"
+        },
+        {
+            "type": "Nominal",
+            "intertextual_function": [
+                "2"
+            ],
+            "semantic": "Neutral"
+        },
+        {
+            "type": "Nominal",
+            "intertextual_function": [
+                "3"
+            ],
+            "semantic": "Neutral"
+        },
+        {
+            "type": "Nominal",
+            "intertextual_function": 1,
+            "semantic": "Neutral"
+        },
+        {
+            "type": "Nominal",
+            "intertextual_function": 1,
+            "semantic": "Negative"
+        },
+        {
+            "type": "Nominal",
+            "intertextual_function": 1,
+            "semantic": "Negative"
+        },
+        {
+            "type": "Nominal",
+            "intertextual_function": [
+                "1"
+            ],
+            "semantic": "Negative"
+        },
+        {
+            "type": "Nominal",
+            "intertextual_function": [
+                "2"
+            ],
+            "semantic": "Neutral"
+        },
+        {
+            "type": "Nominal",
+            "intertextual_function": 1,
+            "semantic": "Neutral"
+        },
+        {
+            "type": "Thematic",
+            "intertextual_function": [
+                "1"
+            ],
+            "semantic": "Neutral"
+        },
+        {
+            "type": "Verbal",
+            "intertextual_function": 2,
+            "semantic": "Negative"
+        }
+    ],
+    "Jews": [
+        {
+            "type": "Nominal",
+            "intertextual_function": [
+                "1"
+            ],
+            "semantic": "Neutral"
+        },
+        {
+            "type": "Verbal",
+            "intertextual_function": 2,
+            "semantic": "Neutral"
+        },
+        {
+            "type": "Nominal",
+            "intertextual_function": 1,
+            "semantic": "Negative"
+        }
+    ],
+    "Mohammedans": [
+        {
+            "type": "Nominal",
+            "intertextual_function": [
+                "1"
+            ],
+            "semantic": "Neutral"
+        }
+    ],
+    "Protestants": [
+        {
+            "type": "Nominal",
+            "intertextual_function": [
+                "3"
+            ],
+            "semantic": "Negative"
+        }
+    ],
+    "Spanish Moors": [
+        {
+            "type": "Nominal",
+            "intertextual_function": [
+                "2"
+            ],
+            "semantic": "Positive"
+        }
+    ],
+    "Turks in Europe": [
+        {
+            "type": "Nominal",
+            "intertextual_function": [
+                "2"
+            ],
+            "semantic": "Positive"
+        }
+    ],
+    "Romans": [
+        {
+            "type": "Nominal",
+            "intertextual_function": [
+                "2"
+            ],
+            "semantic": "Neutral"
+        }
+    ],
+    "Catholic": [
+        {
+            "type": "Nominal",
+            "intertextual_function": [
+                "3"
+            ],
+            "semantic": "Negative"
+        },
+        {
+            "type": "Nominal",
+            "intertextual_function": [
+                "2"
+            ],
+            "semantic": "Neutral"
+        }
+    ],
+    "Protestant": [
+        {
+            "type": "Nominal",
+            "intertextual_function": [
+                "3"
+            ],
+            "semantic": "Negative"
+        },
+        {
+            "type": "Thematic",
+            "intertextual_function": 3,
+            "semantic": "Neutral"
+        }
+    ],
+    "OEcolampadius": [
+        {
+            "type": "Nominal",
+            "intertextual_function": 1,
+            "semantic": "Positive"
+        }
+    ],
+    "Apostles": [
+        {
+            "type": "Nominal",
+            "intertextual_function": 1,
+            "semantic": "Neutral"
+        }
+    ],
+    "Beza": [
+        {
+            "type": "Verbal",
+            "intertextual_function": [
+                "3"
+            ],
+            "semantic": "Positive"
+        },
+        {
+            "type": "Nominal",
+            "intertextual_function": 1,
+            "semantic": "Negative"
+        },
+        {
+            "type": "Nominal",
+            "intertextual_function": [
+                "3"
+            ],
+            "semantic": "Positive"
+        }
+    ],
+    "Jews Turks and heathen": [
+        {
+            "type": "Thematic",
+            "intertextual_function": 3,
+            "semantic": "Neutral"
+        }
+    ],
+    "the leading\nreformers": [
+        {
+            "type": "Nominal",
+            "intertextual_function": 1,
+            "semantic": "Neutral"
+        }
+    ],
+    "the Papacy": [
+        {
+            "type": "Verbal",
+            "intertextual_function": [
+                "2"
+            ],
+            "semantic": "Negative"
+        }
+    ],
+    "Melanchthon": [
+        {
+            "type": "Nominal",
+            "intertextual_function": [
+                "2"
+            ],
+            "semantic": "Positive"
+        },
+        {
+            "type": "Nominal",
+            "intertextual_function": [
+                "3"
+            ],
+            "semantic": "Neutral"
+        },
+        {
+            "type": "Nominal",
+            "intertextual_function": [
+                "3"
+            ],
+            "semantic": "Neutral"
+        },
+        {
+            "type": "Nominal",
+            "intertextual_function": [
+                "2"
+            ],
+            "semantic": "Neutral"
+        },
+        {
+            "type": "Nominal",
+            "intertextual_function": [
+                "3"
+            ],
+            "semantic": "Negative"
+        },
+        {
+            "type": "Nominal",
+            "intertextual_function": [
+                "3"
+            ],
+            "semantic": "Negative"
+        },
+        {
+            "type": "Nominal",
+            "intertextual_function": 1,
+            "semantic": "Negative"
+        }
+    ],
+    "Lutheran": [
+        {
+            "type": "Verbal",
+            "intertextual_function": [
+                "1"
+            ],
+            "semantic": "Neutral"
+        },
+        {
+            "type": "Thematic",
+            "intertextual_function": 3,
+            "semantic": "Neutral"
+        }
+    ],
+    "English Calvinists": [
+        {
+            "type": "Thematic",
+            "intertextual_function": 3,
+            "semantic": "Neutral"
+        }
+    ],
+    "Mary Tudor": [
+        {
+            "type": "Nominal",
+            "intertextual_function": 1,
+            "semantic": "Neutral"
+        }
+    ],
+    "Wesel": [
+        {
+            "type": "Verbal",
+            "intertextual_function": [
+                "1"
+            ],
+            "semantic": "Neutral"
+        }
+    ],
+    "Frankfort": [
+        {
+            "type": "Thematic",
+            "intertextual_function": [
+                "1"
+            ],
+            "semantic": "Neutral"
+        }
+    ],
+    "Münzer": [
+        {
+            "type": "Verbal",
+            "intertextual_function": 2,
+            "semantic": "Neutral"
+        }
+    ],
+    "Catholicism": [
+        {
+            "type": "Nominal",
+            "intertextual_function": 1,
+            "semantic": "Neutral"
+        },
+        {
+            "type": "Thematic",
+            "intertextual_function": 3,
+            "semantic": "Neutral"
+        }
+    ],
+    "Farel": [
+        {
+            "type": "Nominal",
+            "intertextual_function": 1,
+            "semantic": "Negative"
+        }
+    ],
+    "Bullinger": [
+        {
+            "type": "Nominal",
+            "intertextual_function": 1,
+            "semantic": "Negative"
+        },
+        {
+            "type": "Nominal",
+            "intertextual_function": [
+                "3"
+            ],
+            "semantic": "Neutral"
+        },
+        {
+            "type": "Nominal",
+            "intertextual_function": [
+                "2"
+            ],
+            "semantic": "Neutral"
+        },
+        {
+            "type": "Nominal",
+            "intertextual_function": [
+                "1"
+            ],
+            "semantic": "Neutral"
+        }
+    ],
+    "Peter Martyr": [
+        {
+            "type": "Nominal",
+            "intertextual_function": 1,
+            "semantic": "Negative"
+        }
+    ],
+    "Bayle": [
+        {
+            "type": "Nominal",
+            "intertextual_function": 1,
+            "semantic": "Neutral"
+        }
+    ],
+    "Hallam": [
+        {
+            "type": "Nominal",
+            "intertextual_function": 1,
+            "semantic": "Neutral"
+        },
+        {
+            "type": "Thematic",
+            "intertextual_function": [
+                "2"
+            ],
+            "semantic": "Neutral"
+        }
+    ],
+    "Zwingli": [
+        {
+            "type": "Nominal",
+            "intertextual_function": [
+                "2"
+            ],
+            "semantic": "Neutral"
+        },
+        {
+            "type": "Nominal",
+            "intertextual_function": 1,
+            "semantic": "Neutral"
+        },
+        {
+            "type": "Nominal",
+            "intertextual_function": [
+                "2"
+            ],
+            "semantic": "Neutral"
+        },
+        {
+            "type": "Nominal",
+            "intertextual_function": [
+                "2"
+            ],
+            "semantic": "Neutral"
+        }
+    ],
+    "Zürich divines": [
+        {
+            "type": "Nominal",
+            "intertextual_function": [
+                "2"
+            ],
+            "semantic": "Positive"
+        }
+    ],
+    "Bern divines": [
+        {
+            "type": "Nominal",
+            "intertextual_function": [
+                "2"
+            ],
+            "semantic": "Positive"
+        }
+    ],
+    "Müntzer": [
+        {
+            "type": "Nominal",
+            "intertextual_function": 1,
+            "semantic": "Neutral"
+        }
+    ],
+    "Sacramentarians": [
+        {
+            "type": "Nominal",
+            "intertextual_function": 1,
+            "semantic": "Neutral"
+        }
+    ],
+    "De\nWette": [
+        {
+            "type": "Nominal",
+            "intertextual_function": 1,
+            "semantic": "Neutral"
+        }
+    ],
+    "Jarcke _Studien zur Geschichte der Reformation_": [
+        {
+            "type": "Nominal",
+            "intertextual_function": 1,
+            "semantic": "Neutral"
+        }
+    ],
+    "Janet": [
+        {
+            "type": "Nominal",
+            "intertextual_function": 1,
+            "semantic": "Neutral"
+        },
+        {
+            "type": "Nominal",
+            "intertextual_function": 1,
+            "semantic": "Neutral"
+        }
+    ],
+    "Leo X": [
+        {
+            "type": "Thematic",
+            "intertextual_function": 3,
+            "semantic": "Neutral"
+        }
+    ],
+    "Bucer": [
+        {
+            "type": "Nominal",
+            "intertextual_function": 1,
+            "semantic": "Neutral"
+        },
+        {
+            "type": "Thematic",
+            "intertextual_function": [
+                "2"
+            ],
+            "semantic": "Neutral"
+        }
+    ],
+    "Capito": [
+        {
+            "type": "Verbal",
+            "intertextual_function": 2,
+            "semantic": "Neutral"
+        }
+    ],
+    "Senate of Strasburg": [
+        {
+            "type": "Thematic",
+            "intertextual_function": 3,
+            "semantic": "Neutral"
+        }
+    ],
+    "German reformers": [
+        {
+            "type": "Nominal",
+            "intertextual_function": 1,
+            "semantic": "Neutral"
+        }
+    ],
+    "Erasmus": [
+        {
+            "type": "Nominal",
+            "intertextual_function": 1,
+            "semantic": "Neutral"
+        }
+    ],
+    "Planck": [
+        {
+            "type": "Nominal",
+            "intertextual_function": 1,
+            "semantic": "Neutral"
+        },
+        {
+            "type": "Thematic",
+            "intertextual_function": [
+                "2"
+            ],
+            "semantic": "Neutral"
+        }
+    ],
+    "Protestant classic": [
+        {
+            "type": "Nominal",
+            "intertextual_function": 1,
+            "semantic": "Neutral"
+        }
+    ],
+    "Werke": [
+        {
+            "type": "Nominal",
+            "intertextual_function": 1,
+            "semantic": "Neutral"
+        }
+    ],
+    "Schenkel": [
+        {
+            "type": "Nominal",
+            "intertextual_function": 1,
+            "semantic": "Neutral"
+        },
+        {
+            "type": "Nominal",
+            "intertextual_function": [
+                "3"
+            ],
+            "semantic": "Neutral"
+        },
+        {
+            "type": "Nominal",
+            "intertextual_function": [
+                "2"
+            ],
+            "semantic": "Neutral"
+        },
+        {
+            "type": "Nominal",
+            "intertextual_function": [
+                "2"
+            ],
+            "semantic": "Neutral"
+        }
+    ],
+    "Hagen": [
+        {
+            "type": "Nominal",
+            "intertextual_function": 1,
+            "semantic": "Neutral"
+        }
+    ],
+    "Menzel": [
+        {
+            "type": "Nominal",
+            "intertextual_function": 1,
+            "semantic": "Neutral"
+        }
+    ],
+    "Papists": [
+        {
+            "type": "Verbal",
+            "intertextual_function": 2,
+            "semantic": "Negative"
+        },
+        {
+            "type": "Nominal",
+            "intertextual_function": 1,
+            "semantic": "Negative"
+        }
+    ],
+    "Pope": [
+        {
+            "type": "Nominal",
+            "intertextual_function": [
+                "2"
+            ],
+            "semantic": "Neutral"
+        },
+        {
+            "type": "Thematic",
+            "intertextual_function": [
+                "3"
+            ],
+            "semantic": "Neutral"
+        }
+    ],
+    "Leo Judæ": [
+        {
+            "type": "Nominal",
+            "intertextual_function": [
+                "3"
+            ],
+            "semantic": "Neutral"
+        }
+    ],
+    "Jürgens": [
+        {
+            "type": "Nominal",
+            "intertextual_function": [
+                "2"
+            ],
+            "semantic": "Neutral"
+        },
+        {
+            "type": "Nominal",
+            "intertextual_function": [
+                "2"
+            ],
+            "semantic": "Neutral"
+        },
+        {
+            "type": "Nominal",
+            "intertextual_function": 1,
+            "semantic": "Neutral"
+        }
+    ],
+    "De Wette": [
+        {
+            "type": "Verbal",
+            "intertextual_function": [
+                "3",
+                "3",
+                "3",
+                "3",
+                "3",
+                "3"
+            ],
+            "semantic": "Neutral"
+        },
+        {
+            "type": "Verbal",
+            "intertextual_function": [
+                "3"
+            ],
+            "semantic": "Neutral"
+        },
+        {
+            "type": "Verbal",
+            "intertextual_function": [
+                "3"
+            ],
+            "semantic": "Neutral"
+        },
+        {
+            "type": "Thematic",
+            "intertextual_function": [
+                "2"
+            ],
+            "semantic": "Neutral"
+        },
+        {
+            "type": "Thematic",
+            "intertextual_function": [
+                "2"
+            ],
+            "semantic": "Neutral"
+        },
+        {
+            "type": "Nominal",
+            "intertextual_function": [
+                "3"
+            ],
+            "semantic": "Neutral"
+        },
+        {
+            "type": "Nominal",
+            "intertextual_function": 1,
+            "semantic": "Neutral"
+        },
+        {
+            "type": "Verbal",
+            "intertextual_function": [
+                "2"
+            ],
+            "semantic": "Neutral"
+        },
+        {
+            "type": "Verbal",
+            "intertextual_function": 2,
+            "semantic": "Neutral"
+        }
+    ],
+    "De": [
+        {
+            "type": "Verbal",
+            "intertextual_function": 2,
+            "semantic": "Neutral"
+        }
+    ],
+    "Holy See": [
+        {
+            "type": "Verbal",
+            "intertextual_function": [
+                "2"
+            ],
+            "semantic": "Negative"
+        }
+    ],
+    "Scriptures": [
+        {
+            "type": "Thematic",
+            "intertextual_function": [
+                "2"
+            ],
+            "semantic": "Neutral"
+        }
+    ],
+    "Charles Krauthammer": [
+        {
+            "type": "Nominal",
+            "intertextual_function": [
+                "4"
+            ],
+            "semantic": "Neutral"
+        }
+    ],
+    "Roman": [
+        {
+            "type": "Thematic",
+            "intertextual_function": 3,
+            "semantic": "Neutral"
+        }
+    ],
+    "Austro-Hungarian Empire": [
+        {
+            "type": "Nominal",
+            "intertextual_function": [
+                "4"
+            ],
+            "semantic": "Neutral"
+        }
+    ],
+    "British Empire": [
+        {
+            "type": "Thematic",
+            "intertextual_function": [
+                "4"
+            ],
+            "semantic": "Neutral"
+        }
+    ],
+    "Thammerus": [
+        {
+            "type": "Verbal",
+            "intertextual_function": [
+                "3"
+            ],
+            "semantic": "Neutral"
+        }
+    ],
+    "Mahometicas seu Ethnicas opiniones": [
+        {
+            "type": "Thematic",
+            "intertextual_function": [
+                "3"
+            ],
+            "semantic": "Neutral"
+        }
+    ],
+    "Scripture": [
+        {
+            "type": "Thematic",
+            "intertextual_function": [
+                "2"
+            ],
+            "semantic": "Neutral"
+        },
+        {
+            "type": "Nominal",
+            "intertextual_function": [
+                "1"
+            ],
+            "semantic": "Neutral"
+        }
+    ],
+    "Ranke": [
+        {
+            "type": "Nominal",
+            "intertextual_function": [
+                "2"
+            ],
+            "semantic": "Neutral"
+        },
+        {
+            "type": "Nominal",
+            "intertextual_function": 1,
+            "semantic": "Neutral"
+        }
+    ],
+    "Newman": [
+        {
+            "type": "Nominal",
+            "intertextual_function": [
+                "2"
+            ],
+            "semantic": "Neutral"
+        }
+    ],
+    "Bensen": [
+        {
+            "type": "Verbal",
+            "intertextual_function": 2,
+            "semantic": "Neutral"
+        },
+        {
+            "type": "Thematic",
+            "intertextual_function": [
+                "2"
+            ],
+            "semantic": "Positive"
+        }
+    ],
+    "Jarcke": [
+        {
+            "type": "Thematic",
+            "intertextual_function": 3,
+            "semantic": "Neutral"
+        }
+    ],
+    "Kaltenborn": [
+        {
+            "type": "Verbal",
+            "intertextual_function": [
+                "2"
+            ],
+            "semantic": "Neutral"
+        },
+        {
+            "type": "Nominal",
+            "intertextual_function": [
+                "2"
+            ],
+            "semantic": "Neutral"
+        }
+    ],
+    "Unidentified": [
+        {
+            "type": "Verbal",
+            "intertextual_function": 2,
+            "semantic": "Neutral"
+        },
+        {
+            "type": "Thematic",
+            "intertextual_function": 3,
+            "semantic": "Neutral"
+        },
+        {
+            "type": "Thematic",
+            "intertextual_function": 3,
+            "semantic": "Neutral"
+        }
+    ],
+    "Zwinglian schism": [
+        {
+            "type": "Nominal",
+            "intertextual_function": 1,
+            "semantic": "Neutral"
+        }
+    ],
+    "Peasants' War": [
+        {
+            "type": "Nominal",
+            "intertextual_function": 1,
+            "semantic": "Neutral"
+        }
+    ],
+    "Rome": [
+        {
+            "type": "Nominal",
+            "intertextual_function": 1,
+            "semantic": "Neutral"
+        },
+        {
+            "type": "Thematic",
+            "intertextual_function": 3,
+            "semantic": "Neutral"
+        }
+    ],
+    "the Turk": [
+        {
+            "type": "Nominal",
+            "intertextual_function": 1,
+            "semantic": "Neutral"
+        }
+    ],
+    "Bucholtz": [
+        {
+            "type": "Nominal",
+            "intertextual_function": [
+                "1"
+            ],
+            "semantic": "Neutral"
+        }
+    ],
+    "Servetus": [
+        {
+            "type": "Nominal",
+            "intertextual_function": 1,
+            "semantic": "Negative"
+        },
+        {
+            "type": "Verbal",
+            "intertextual_function": 2,
+            "semantic": "Neutral"
+        }
+    ],
+    "Thamer": [
+        {
+            "type": "Nominal",
+            "intertextual_function": 1,
+            "semantic": "Negative"
+        },
+        {
+            "type": "Verbal",
+            "intertextual_function": 2,
+            "semantic": "Negative"
+        }
+    ],
+    "Melanchthon to Calvin": [
+        {
+            "type": "Nominal",
+            "intertextual_function": 1,
+            "semantic": "Neutral"
+        }
+    ],
+    "Bible—Decalogus": [
+        {
+            "type": "Verbal",
+            "intertextual_function": 2,
+            "semantic": "Neutral"
+        }
+    ],
+    "Bible—Ezechias": [
+        {
+            "type": "Thematic",
+            "intertextual_function": 3,
+            "semantic": "Neutral"
+        }
+    ],
+    "Bible—Josias": [
+        {
+            "type": "Nominal",
+            "intertextual_function": 1,
+            "semantic": "Neutral"
+        }
+    ],
+    "Table-Talk": [
+        {
+            "type": "Nominal",
+            "intertextual_function": 1,
+            "semantic": "Neutral"
+        }
+    ],
+    "Bruns--Luther's Predigten": [
+        {
+            "type": "Verbal",
+            "intertextual_function": 2,
+            "semantic": "Neutral"
+        }
+    ],
+    "Frederic II": [
+        {
+            "type": "Nominal",
+            "intertextual_function": [
+                "2"
+            ],
+            "semantic": "Negative"
+        }
+    ],
+    "The Inquisition": [
+        {
+            "type": "Verbal",
+            "intertextual_function": [
+                "2"
+            ],
+            "semantic": "Negative"
+        }
+    ],
+    "Evangelio": [
+        {
+            "type": "Nominal",
+            "intertextual_function": [
+                "1"
+            ],
+            "semantic": "Neutral"
+        }
+    ],
+    "Anabaptistis": [
+        {
+            "type": "Nominal",
+            "intertextual_function": [
+                "1"
+            ],
+            "semantic": "Neutral"
+        }
+    ],
+    "Melanthonis Opera": [
+        {
+            "type": "Thematic",
+            "intertextual_function": [
+                "2"
+            ],
+            "semantic": "Neutral"
+        }
+    ],
+    "Bretschneider": [
+        {
+            "type": "Nominal",
+            "intertextual_function": [
+                "2"
+            ],
+            "semantic": "Neutral"
+        },
+        {
+            "type": "Nominal",
+            "intertextual_function": 1,
+            "semantic": "Neutral"
+        },
+        {
+            "type": "Nominal",
+            "intertextual_function": [
+                "2"
+            ],
+            "semantic": "Positive"
+        }
+    ],
+    "Moisen": [
+        {
+            "type": "Nominal",
+            "intertextual_function": [
+                "1"
+            ],
+            "semantic": "Neutral"
+        }
+    ],
+    "Melanchthon to Bucer": [
+        {
+            "type": "Nominal",
+            "intertextual_function": [
+                "3"
+            ],
+            "semantic": "Neutral"
+        }
+    ],
+    "Bussierre": [
+        {
+            "type": "Nominal",
+            "intertextual_function": [
+                "2"
+            ],
+            "semantic": "Neutral"
+        }
+    ],
+    "Baum": [
+        {
+            "type": "Nominal",
+            "intertextual_function": [
+                "2"
+            ],
+            "semantic": "Neutral"
+        },
+        {
+            "type": "Nominal",
+            "intertextual_function": [
+                "1"
+            ],
+            "semantic": "Neutral"
+        },
+        {
+            "type": "Nominal",
+            "intertextual_function": [
+                "1"
+            ],
+            "semantic": "Neutral"
+        },
+        {
+            "type": "Verbal",
+            "intertextual_function": [
+                "2"
+            ],
+            "semantic": "Neutral"
+        }
+    ],
+    "Erbkam": [
+        {
+            "type": "Nominal",
+            "intertextual_function": [
+                "2"
+            ],
+            "semantic": "Neutral"
+        }
+    ],
+    "Ursinus": [
+        {
+            "type": "Nominal",
+            "intertextual_function": [
+                "2"
+            ],
+            "semantic": "Negative"
+        }
+    ],
+    "Sudhoff": [
+        {
+            "type": "Nominal",
+            "intertextual_function": [
+                "2"
+            ],
+            "semantic": "Neutral"
+        }
+    ],
+    "Zuingli": [
+        {
+            "type": "Nominal",
+            "intertextual_function": [
+                "3"
+            ],
+            "semantic": "Positive"
+        }
+    ],
+    "Christoffel": [
+        {
+            "type": "Nominal",
+            "intertextual_function": [
+                "2"
+            ],
+            "semantic": "Neutral"
+        }
+    ],
+    "Copernicus": [
+        {
+            "type": "Nominal",
+            "intertextual_function": [
+                "3"
+            ],
+            "semantic": "Negative"
+        }
+    ],
+    "Joshua": [
+        {
+            "type": "Verbal",
+            "intertextual_function": 2,
+            "semantic": "Neutral"
+        }
+    ],
+    "Protestant theory of toleration": [
+        {
+            "type": "Nominal",
+            "intertextual_function": 1,
+            "semantic": "Neutral"
+        }
+    ],
+    "Tractatus Theologici": [
+        {
+            "type": "Nominal",
+            "intertextual_function": 1,
+            "semantic": "Neutral"
+        }
+    ],
+    "Duke William of Bavaria": [
+        {
+            "type": "Nominal",
+            "intertextual_function": 1,
+            "semantic": "Neutral"
+        }
+    ],
+    "Jörg": [
+        {
+            "type": "Nominal",
+            "intertextual_function": 1,
+            "semantic": "Neutral"
+        },
+        {
+            "type": "Nominal",
+            "intertextual_function": 1,
+            "semantic": "Neutral"
+        }
+    ],
+    "Heinrich Grosbeck": [
+        {
+            "type": "Nominal",
+            "intertextual_function": [
+                "2"
+            ],
+            "semantic": "Neutral"
+        }
+    ],
+    "Herzog": [
+        {
+            "type": "Nominal",
+            "intertextual_function": [
+                "2"
+            ],
+            "semantic": "Neutral"
+        },
+        {
+            "type": "Verbal",
+            "intertextual_function": [
+                "2"
+            ],
+            "semantic": "Neutral"
+        },
+        {
+            "type": "Nominal",
+            "intertextual_function": 1,
+            "semantic": "Neutral"
+        }
+    ],
+    "Commentary on Genesis": [
+        {
+            "type": "Verbal",
+            "intertextual_function": 2,
+            "semantic": "Neutral"
+        }
+    ],
+    "Jarcke _Studien_": [
+        {
+            "type": "Nominal",
+            "intertextual_function": [
+                "2"
+            ],
+            "semantic": "Neutral"
+        }
+    ],
+    "Bible": [
+        {
+            "type": "Verbal",
+            "intertextual_function": 2,
+            "semantic": "Neutral"
+        },
+        {
+            "type": "Nominal",
+            "intertextual_function": 1,
+            "semantic": "Neutral"
+        }
+    ],
+    "_Table-Talk_": [
+        {
+            "type": "Thematic",
+            "intertextual_function": 3,
+            "semantic": "Neutral"
+        },
+        {
+            "type": "Thematic",
+            "intertextual_function": 3,
+            "semantic": "Neutral"
+        },
+        {
+            "type": "Verbal",
+            "intertextual_function": [
+                "2"
+            ],
+            "semantic": "Negative"
+        }
+    ],
+    "Möhler": [
+        {
+            "type": "Nominal",
+            "intertextual_function": [
+                "2"
+            ],
+            "semantic": "Neutral"
+        }
+    ],
+    "Luther to Barnes": [
+        {
+            "type": "Nominal",
+            "intertextual_function": [
+                "3"
+            ],
+            "semantic": "Neutral"
+        }
+    ],
+    "Schmidt": [
+        {
+            "type": "Nominal",
+            "intertextual_function": 1,
+            "semantic": "Neutral"
+        }
+    ],
+    "Philipp Melanchthon": [
+        {
+            "type": "Nominal",
+            "intertextual_function": 1,
+            "semantic": "Neutral"
+        }
+    ],
+    "Zwinglians": [
+        {
+            "type": "Nominal",
+            "intertextual_function": 1,
+            "semantic": "Negative"
+        },
+        {
+            "type": "Nominal",
+            "intertextual_function": 1,
+            "semantic": "Negative"
+        }
+    ],
+    "Brenz and Melanchthon--Landgrave Philip of Hesse": [
+        {
+            "type": "Nominal",
+            "intertextual_function": 1,
+            "semantic": "Neutral"
+        }
+    ],
+    "Hardwicke": [
+        {
+            "type": "Nominal",
+            "intertextual_function": 1,
+            "semantic": "Neutral"
+        }
+    ],
+    "Reformation": [
+        {
+            "type": "Nominal",
+            "intertextual_function": 1,
+            "semantic": "Neutral"
+        }
+    ],
+    "Seidemann": [
+        {
+            "type": "Nominal",
+            "intertextual_function": 1,
+            "semantic": "Neutral"
+        }
+    ],
+    "Thomas Münzer": [
+        {
+            "type": "Nominal",
+            "intertextual_function": 1,
+            "semantic": "Neutral"
+        }
+    ],
+    "Historia Litteraria de Calvini Institutione.": [
+        {
+            "type": "Nominal",
+            "intertextual_function": 1,
+            "semantic": "Neutral"
+        }
+    ],
+    "Scrinium Antiquarium": [
+        {
+            "type": "Nominal",
+            "intertextual_function": 1,
+            "semantic": "Neutral"
+        }
+    ],
+    "De non comburendis Haereticis": [
+        {
+            "type": "Thematic",
+            "intertextual_function": 3,
+            "semantic": "Neutral"
+        }
+    ],
+    "De Haereticis a civili Magistratu puniendis": [
+        {
+            "type": "Nominal",
+            "intertextual_function": 1,
+            "semantic": "Neutral"
+        }
+    ],
+    "Catholic Church": [
+        {
+            "type": "Verbal",
+            "intertextual_function": 2,
+            "semantic": "Neutral"
+        }
+    ],
+    "the reformers": [
+        {
+            "type": "Thematic",
+            "intertextual_function": 3,
+            "semantic": "Neutral"
+        }
+    ],
+    "Farel to Blaarer": [
+        {
+            "type": "Nominal",
+            "intertextual_function": [
+                "2"
+            ],
+            "semantic": "Neutral"
+        }
+    ],
+    "Schmidt—Farel und Viret": [
+        {
+            "type": "Verbal",
+            "intertextual_function": [
+                "2"
+            ],
+            "semantic": "Neutral"
+        }
+    ],
+    "Bullinger to Beza": [
+        {
+            "type": "Thematic",
+            "intertextual_function": [
+                "2"
+            ],
+            "semantic": "Neutral"
+        }
+    ],
+    "Henry": [
+        {
+            "type": "Verbal",
+            "intertextual_function": [
+                "1"
+            ],
+            "semantic": "Neutral"
+        },
+        {
+            "type": "Thematic",
+            "intertextual_function": 3,
+            "semantic": "Neutral"
+        },
+        {
+            "type": "Verbal",
+            "intertextual_function": 2,
+            "semantic": "Neutral"
+        },
+        {
+            "type": "Thematic",
+            "intertextual_function": [
+                "2"
+            ],
+            "semantic": "Neutral"
+        }
+    ],
+    "Peter Martyr Vermili—Loci Communes": [
+        {
+            "type": "Thematic",
+            "intertextual_function": [
+                "2"
+            ],
+            "semantic": "Neutral"
+        }
+    ],
+    "Schlosser—Leben des Beza und des Peter Martyr": [
+        {
+            "type": "Nominal",
+            "intertextual_function": 1,
+            "semantic": "Neutral"
+        }
+    ],
+    "Calvin to the Duchess of Ferrara": [
+        {
+            "type": "Verbal",
+            "intertextual_function": 2,
+            "semantic": "Neutral"
+        },
+        {
+            "type": "Verbal",
+            "intertextual_function": 2,
+            "semantic": "Neutral"
+        }
+    ],
+    "Calvin to Beza": [
+        {
+            "type": "Verbal",
+            "intertextual_function": 2,
+            "semantic": "Neutral"
+        }
+    ],
+    "Bonnet": [
+        {
+            "type": "Verbal",
+            "intertextual_function": 2,
+            "semantic": "Neutral"
+        }
+    ],
+    "Heinrich Pestalozzi": [
+        {
+            "type": "Nominal",
+            "intertextual_function": [
+                "2"
+            ],
+            "semantic": "Neutral"
+        }
+    ],
+    "Pressel": [
+        {
+            "type": "Verbal",
+            "intertextual_function": [
+                "2"
+            ],
+            "semantic": "Neutral"
+        }
+    ],
+    "Joachim Vadian": [
+        {
+            "type": "Thematic",
+            "intertextual_function": [
+                "2"
+            ],
+            "semantic": "Neutral"
+        }
+    ],
+    "Pestalozzi": [
+        {
+            "type": "Nominal",
+            "intertextual_function": [
+                "2"
+            ],
+            "semantic": "Neutral"
+        },
+        {
+            "type": "Nominal",
+            "intertextual_function": [
+                "2"
+            ],
+            "semantic": "Neutral"
+        }
+    ],
+    "Heinrich": [
+        {
+            "type": "Verbal",
+            "intertextual_function": 2,
+            "semantic": "Neutral"
+        }
+    ],
+    "Leo Judä": [
+        {
+            "type": "Thematic",
+            "intertextual_function": 3,
+            "semantic": "Neutral"
+        }
+    ],
+    "Pr. in Danielem": [
+        {
+            "type": "Nominal",
+            "intertextual_function": 1,
+            "semantic": "Neutral"
+        },
+        {
+            "type": "Verbal",
+            "intertextual_function": 2,
+            "semantic": "Neutral"
+        }
+    ],
+    "Pr. in\nDanielem": [
+        {
+            "type": "Thematic",
+            "intertextual_function": 3,
+            "semantic": "Neutral"
+        }
+    ],
+    "Pr. in Nahum": [
+        {
+            "type": "Nominal",
+            "intertextual_function": 1,
+            "semantic": "Neutral"
+        }
+    ],
+    "Pr. in Jeremiam": [
+        {
+            "type": "Verbal",
+            "intertextual_function": 2,
+            "semantic": "Neutral"
+        }
+    ],
+    "Dr. Henry": [
+        {
+            "type": "Nominal",
+            "intertextual_function": [
+                "3"
+            ],
+            "semantic": "Neutral"
+        }
+    ],
+    "Bulletin de la Société de l'Histoire du Protestantisme": [
+        {
+            "type": "Verbal",
+            "intertextual_function": 2,
+            "semantic": "Neutral"
+        }
+    ],
+    "Servetus - Restitutio Christianismi": [
+        {
+            "type": "Thematic",
+            "intertextual_function": 3,
+            "semantic": "Neutral"
+        }
+    ],
+    "Calvin to Farel": [
+        {
+            "type": "Nominal",
+            "intertextual_function": 1,
+            "semantic": "Negative"
+        }
+    ],
+    "Audin - Vie de Calvin": [
+        {
+            "type": "Thematic",
+            "intertextual_function": 3,
+            "semantic": "Neutral"
+        }
+    ],
+    "Dyer": [
+        {
+            "type": "Nominal",
+            "intertextual_function": [
+                "2"
+            ],
+            "semantic": "Neutral"
+        },
+        {
+            "type": "Verbal",
+            "intertextual_function": [
+                "2"
+            ],
+            "semantic": "Neutral"
+        }
+    ],
+    "Institutio": [
+        {
+            "type": "Nominal",
+            "intertextual_function": 1,
+            "semantic": "Neutral"
+        },
+        {
+            "type": "Thematic",
+            "intertextual_function": 3,
+            "semantic": "Neutral"
+        }
+    ],
+    "Defensio Orthodoxae Fidei": [
+        {
+            "type": "Thematic",
+            "intertextual_function": 3,
+            "semantic": "Neutral"
+        }
+    ],
+    "Zanchi": [
+        {
+            "type": "Nominal",
+            "intertextual_function": [
+                "3"
+            ],
+            "semantic": "Positive"
+        }
+    ],
+    "Haag": [
+        {
+            "type": "Nominal",
+            "intertextual_function": [
+                "2"
+            ],
+            "semantic": "Neutral"
+        }
+    ],
+    "_La France": [
+        {
+            "type": "Nominal",
+            "intertextual_function": 1,
+            "semantic": "Neutral"
+        }
+    ],
+    "John of Nassau": [
+        {
+            "type": "Verbal",
+            "intertextual_function": 2,
+            "semantic": "Neutral"
+        }
+    ],
+    "Unidentified Dutch Divines": [
+        {
+            "type": "Thematic",
+            "intertextual_function": 3,
+            "semantic": "Neutral"
+        }
+    ],
+    "Scrinium": [
+        {
+            "type": "Nominal",
+            "intertextual_function": 1,
+            "semantic": "Neutral"
+        }
+    ],
+    "_De Haereticis an sint persequendi_": [
+        {
+            "type": "Nominal",
+            "intertextual_function": [
+                "2"
+            ],
+            "semantic": "Neutral"
+        }
+    ],
+    "Heppe": [
+        {
+            "type": "Verbal",
+            "intertextual_function": [
+                "2"
+            ],
+            "semantic": "Neutral"
+        }
+    ],
+    "Schlosser": [
+        {
+            "type": "Nominal",
+            "intertextual_function": [
+                "2"
+            ],
+            "semantic": "Neutral"
+        }
+    ],
+    "The Bible": [
+        {
+            "type": "Nominal",
+            "intertextual_function": [
+                "2"
+            ],
+            "semantic": "Neutral"
+        }
+    ],
+    "Mosaic code": [
+        {
+            "type": "Verbal",
+            "intertextual_function": [
+                "2"
+            ],
+            "semantic": "Neutral"
+        }
+    ],
+    "Confession of Schmalkald": [
+        {
+            "type": "Thematic",
+            "intertextual_function": [
+                "4"
+            ],
+            "semantic": "Neutral"
+        }
+    ],
+    "Apology of": [
+        {
+            "type": "Nominal",
+            "intertextual_function": 1,
+            "semantic": "Neutral"
+        }
+    ],
+    "Pr. in Michaeam": [
+        {
+            "type": "Nominal",
+            "intertextual_function": 1,
+            "semantic": "Neutral"
+        },
+        {
+            "type": "Verbal",
+            "intertextual_function": 2,
+            "semantic": "Negative"
+        }
+    ],
+    "Antéchrist de": [
+        {
+            "type": "Verbal",
+            "intertextual_function": 2,
+            "semantic": "Neutral"
+        }
+    ],
+    "Hundeshagen": [
+        {
+            "type": "Nominal",
+            "intertextual_function": [
+                "2"
+            ],
+            "semantic": "Neutral"
+        }
+    ],
+    "Institutio Christianae Religionis": [
+        {
+            "type": "Verbal",
+            "intertextual_function": 2,
+            "semantic": "Neutral"
+        }
+    ],
+    "Praelectiones in\nProphetas Opera": [
+        {
+            "type": "Thematic",
+            "intertextual_function": 3,
+            "semantic": "Neutral"
+        }
+    ],
+    "Osiander": [
+        {
+            "type": "Nominal",
+            "intertextual_function": [
+                "3"
+            ],
+            "semantic": "Neutral"
+        },
+        {
+            "type": "Nominal",
+            "intertextual_function": 1,
+            "semantic": "Neutral"
+        }
+    ],
+    "Margrave of": [
+        {
+            "type": "Nominal",
+            "intertextual_function": 1,
+            "semantic": "Neutral"
+        }
+    ],
+    "Riffel _Kirchengeschichte_": [
+        {
+            "type": "Verbal",
+            "intertextual_function": 2,
+            "semantic": "Neutral"
+        }
+    ],
+    "Christians": [
+        {
+            "type": "Thematic",
+            "intertextual_function": 3,
+            "semantic": "Neutral"
+        }
+    ],
+    "Dux Fridericus": [
+        {
+            "type": "Verbal",
+            "intertextual_function": 2,
+            "semantic": "Neutral"
+        }
+    ],
+    "Brentius": [
+        {
+            "type": "Thematic",
+            "intertextual_function": 3,
+            "semantic": "Neutral"
+        }
+    ],
+    "Heinrich Bullinger": [
+        {
+            "type": "Verbal",
+            "intertextual_function": [
+                "2"
+            ],
+            "semantic": "Neutral"
+        }
+    ],
+    "Socinus": [
+        {
+            "type": "Thematic",
+            "intertextual_function": [
+                "2"
+            ],
+            "semantic": "Neutral"
+        }
+    ],
+    "Lutherans": [
+        {
+            "type": "Nominal",
+            "intertextual_function": [
+                "2"
+            ],
+            "semantic": "Neutral"
+        }
+    ],
+    "Leben Oekolampads": [
+        {
+            "type": "Thematic",
+            "intertextual_function": [
+                "2"
+            ],
+            "semantic": "Neutral"
+        }
+    ],
+    "Evangelii": [
+        {
+            "type": "Verbal",
+            "intertextual_function": [
+                "1"
+            ],
+            "semantic": "Positive"
+        }
+    ],
+    "probatis scriptoribus": [
+        {
+            "type": "Nominal",
+            "intertextual_function": [
+                "1"
+            ],
+            "semantic": "Positive"
+        }
+    ],
+    "Christian freedom": [
+        {
+            "type": "Nominal",
+            "intertextual_function": 1,
+            "semantic": "Neutral"
+        }
+    ],
+    "Catholic Powers": [
+        {
+            "type": "Thematic",
+            "intertextual_function": 3,
+            "semantic": "Neutral"
+        }
+    ],
+    "Carlstadt": [
+        {
+            "type": "Nominal",
+            "intertextual_function": [
+                "2"
+            ],
+            "semantic": "Neutral"
+        }
+    ],
+    "Mosaic law": [
+        {
+            "type": "Nominal",
+            "intertextual_function": [
+                "2"
+            ],
+            "semantic": "Neutral"
+        }
+    ],
+    "New Testament": [
+        {
+            "type": "Nominal",
+            "intertextual_function": [
+                "2"
+            ],
+            "semantic": "Neutral"
+        }
+    ],
+    "Church": [
+        {
+            "type": "Nominal",
+            "intertextual_function": [
+                "1"
+            ],
+            "semantic": "Neutral"
+        }
+    ],
+    "Landgrave Philip": [
+        {
+            "type": "Nominal",
+            "intertextual_function": [
+                "2"
+            ],
+            "semantic": "Neutral"
+        }
+    ],
+    "Copernican system": [
+        {
+            "type": "Nominal",
+            "intertextual_function": [
+                "1"
+            ],
+            "semantic": "Negative"
+        }
+    ],
+    "Bucholtz _Geschichte Ferdinands I._": [
+        {
+            "type": "Nominal",
+            "intertextual_function": [
+                "2"
+            ],
+            "semantic": "Neutral"
+        }
+    ],
+    "Linde _Staatskirche_": [
+        {
+            "type": "Nominal",
+            "intertextual_function": [
+                "2"
+            ],
+            "semantic": "Neutral"
+        }
+    ],
+    "Declaration of the Protestants": [
+        {
+            "type": "Verbal",
+            "intertextual_function": 2,
+            "semantic": "Neutral"
+        }
+    ],
+    "Prälaten der römischen Kirche": [
+        {
+            "type": "Thematic",
+            "intertextual_function": 3,
+            "semantic": "Neutral"
+        }
+    ],
+    "Confession of Augsburg": [
+        {
+            "type": "Verbal",
+            "intertextual_function": [
+                "3"
+            ],
+            "semantic": "Neutral"
+        }
+    ],
+    "Protestant Church": [
+        {
+            "type": "Nominal",
+            "intertextual_function": 1,
+            "semantic": "Neutral"
+        }
+    ],
+    "Ezechiel": [
+        {
+            "type": "Nominal",
+            "intertextual_function": [
+                "2"
+            ],
+            "semantic": "Neutral"
+        }
+    ],
+    "Duke of Saxony": [
+        {
+            "type": "Thematic",
+            "intertextual_function": 3,
+            "semantic": "Neutral"
+        }
+    ],
+    "Catholic bishops": [
+        {
+            "type": "Verbal",
+            "intertextual_function": [
+                "3"
+            ],
+            "semantic": "Neutral"
+        }
+    ],
+    "Zwickau prophets": [
+        {
+            "type": "Nominal",
+            "intertextual_function": [
+                "2"
+            ],
+            "semantic": "Neutral"
+        }
+    ],
+    "Popes and Councils of the Catholic Church": [
+        {
+            "type": "Thematic",
+            "intertextual_function": 3,
+            "semantic": "Neutral"
+        }
+    ],
+    "Spanish": [
+        {
+            "type": "Nominal",
+            "intertextual_function": 1,
+            "semantic": "Neutral"
+        }
+    ],
+    "Swedish intolerance": [
+        {
+            "type": "Thematic",
+            "intertextual_function": [
+                "2"
+            ],
+            "semantic": "Neutral"
+        }
+    ],
+    "Edict of Nantes": [
+        {
+            "type": "Thematic",
+            "intertextual_function": [
+                "2"
+            ],
+            "semantic": "Neutral"
+        }
+    ],
+    "Albigenses": [
+        {
+            "type": "Thematic",
+            "intertextual_function": [
+                "1"
+            ],
+            "semantic": "Neutral"
+        }
+    ],
+    "Socinians": [
+        {
+            "type": "Nominal",
+            "intertextual_function": [
+                "1"
+            ],
+            "semantic": "Neutral"
+        }
+    ],
+    "Schwenkfeld": [
+        {
+            "type": "Thematic",
+            "intertextual_function": 3,
+            "semantic": "Negative"
+        }
+    ]
+}

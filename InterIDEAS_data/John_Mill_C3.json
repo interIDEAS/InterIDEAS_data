@@ -1,0 +1,141 @@
+{
+    "Colbert": [
+        {
+            "type": "Nominal",
+            "intertextual_function": 1,
+            "semantic": "Neutral"
+        }
+    ],
+    "our great historian of Greece": [
+        {
+            "type": "Thematic",
+            "intertextual_function": 3,
+            "semantic": "Positive"
+        }
+    ],
+    "Englishmen of the lower middle\nclass": [
+        {
+            "type": "Thematic",
+            "intertextual_function": 3,
+            "semantic": "Neutral"
+        }
+    ],
+    "Communism": [
+        {
+            "type": "Thematic",
+            "intertextual_function": 3,
+            "semantic": "Neutral"
+        }
+    ],
+    "Pythagoreans": [
+        {
+            "type": "Nominal",
+            "intertextual_function": [
+                "1"
+            ],
+            "semantic": "Negative"
+        }
+    ],
+    "Veds": [
+        {
+            "type": "Nominal",
+            "intertextual_function": [
+                "1"
+            ],
+            "semantic": "Negative"
+        }
+    ],
+    "Solon": [
+        {
+            "type": "Nominal",
+            "intertextual_function": 1,
+            "semantic": "Neutral"
+        }
+    ],
+    "Pittacus": [
+        {
+            "type": "Thematic",
+            "intertextual_function": 3,
+            "semantic": "Neutral"
+        }
+    ],
+    "Augustus": [
+        {
+            "type": "Nominal",
+            "intertextual_function": 1,
+            "semantic": "Negative"
+        }
+    ],
+    "Tiberius": [
+        {
+            "type": "Thematic",
+            "intertextual_function": 3,
+            "semantic": "Negative"
+        }
+    ],
+    "Unidentified": [
+        {
+            "type": "Nominal",
+            "intertextual_function": 1,
+            "semantic": "Neutral"
+        },
+        {
+            "type": "Nominal",
+            "intertextual_function": 1,
+            "semantic": "Neutral"
+        },
+        {
+            "type": "Nominal",
+            "intertextual_function": 1,
+            "semantic": "Neutral"
+        },
+        {
+            "type": "Nominal",
+            "intertextual_function": 1,
+            "semantic": "Neutral"
+        }
+    ],
+    "French philosophy in the eighteenth century": [
+        {
+            "type": "Nominal",
+            "intertextual_function": [
+                "2"
+            ],
+            "semantic": "Neutral"
+        }
+    ],
+    "Jesuits": [
+        {
+            "type": "Verbal",
+            "intertextual_function": [
+                "2"
+            ],
+            "semantic": "Neutral"
+        }
+    ],
+    "Christianity": [
+        {
+            "type": "Nominal",
+            "intertextual_function": 1,
+            "semantic": "Neutral"
+        }
+    ],
+    "Orientals": [
+        {
+            "type": "Nominal",
+            "intertextual_function": [
+                "2"
+            ],
+            "semantic": "Negative"
+        }
+    ],
+    "Catholicism": [
+        {
+            "type": "Nominal",
+            "intertextual_function": [
+                "2"
+            ],
+            "semantic": "Neutral"
+        }
+    ]
+}

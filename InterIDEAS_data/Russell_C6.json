@@ -1,0 +1,128 @@
+{
+    "Christian religion": [
+        {
+            "type": "Nominal",
+            "intertextual_function": [
+                "2"
+            ],
+            "semantic": "Neutral"
+        }
+    ],
+    "Church": [
+        {
+            "type": "Verbal",
+            "intertextual_function": [
+                "2"
+            ],
+            "semantic": "Neutral"
+        }
+    ],
+    "The Bible": [
+        {
+            "type": "Nominal",
+            "intertextual_function": 1,
+            "semantic": "Negative"
+        }
+    ],
+    "the Bible": [
+        {
+            "type": "Nominal",
+            "intertextual_function": 1,
+            "semantic": "Negative"
+        }
+    ],
+    "The Church": [
+        {
+            "type": "Nominal",
+            "intertextual_function": [
+                "2"
+            ],
+            "semantic": "Negative"
+        }
+    ],
+    "Unidentified": [
+        {
+            "type": "Verbal",
+            "intertextual_function": 2,
+            "semantic": "Neutral"
+        }
+    ],
+    "Germany": [
+        {
+            "type": "Thematic",
+            "intertextual_function": 3,
+            "semantic": "Positive"
+        }
+    ],
+    "Church of England": [
+        {
+            "type": "Nominal",
+            "intertextual_function": [
+                "2"
+            ],
+            "semantic": "Negative"
+        }
+    ],
+    "Nonconformists": [
+        {
+            "type": "Thematic",
+            "intertextual_function": [
+                "2"
+            ],
+            "semantic": "Neutral"
+        }
+    ],
+    "High Church": [
+        {
+            "type": "Nominal",
+            "intertextual_function": [
+                "3"
+            ],
+            "semantic": "Neutral"
+        }
+    ],
+    "Tolstoy": [
+        {
+            "type": "Nominal",
+            "intertextual_function": 1,
+            "semantic": "Neutral"
+        }
+    ],
+    "Catholic faith": [
+        {
+            "type": "Thematic",
+            "intertextual_function": [
+                "3"
+            ],
+            "semantic": "Negative"
+        }
+    ],
+    "Catholic religion": [
+        {
+            "type": "Nominal",
+            "intertextual_function": 1,
+            "semantic": "Neutral"
+        }
+    ],
+    "Irish": [
+        {
+            "type": "Verbal",
+            "intertextual_function": 2,
+            "semantic": "Neutral"
+        }
+    ],
+    "Bretons": [
+        {
+            "type": "Thematic",
+            "intertextual_function": 3,
+            "semantic": "Neutral"
+        }
+    ],
+    "Malthus": [
+        {
+            "type": "Nominal",
+            "intertextual_function": 1,
+            "semantic": "Neutral"
+        }
+    ]
+}

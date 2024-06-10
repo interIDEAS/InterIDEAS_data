@@ -1,0 +1,1319 @@
+ESSAY I.
+OF THE LAWS OF INTERCHANGE BETWEEN NATIONS; AND THE DISTRIBUTION OF THE
+GAINS OF COMMERCE AMONG THE COUNTRIES OF THE COMMERCIAL WORLD.
+
+
+Of the truths with which political economy has been enriched by Mr.
+Ricardo, none has contributed more to give to that branch of knowledge
+the comparatively precise and scientific character which it at present
+bears, than the more accurate analysis which he performed of the nature
+of the advantage which nations derive from a mutual interchange of their
+productions. Previously to his time, the benefits of foreign trade were
+deemed, even by the most philosophical enquirers, to consist in
+affording a vent for surplus produce, or in enabling a portion of the
+national capital to replace itself with a profit. The futility of the
+theory implied in these and similar phrases, was an obvious consequence
+from the speculations of writers even anterior to Mr. Ricardo. But it
+was he who first, in the chapter on Foreign Trade, of his immortal
+_Principles of Political Economy and Taxation_, substituted for the
+former vague and unscientific, if not positively false, conceptions with
+regard to the advantage of trade, a philosophical exposition which
+explains, with strict precision, the nature of that advantage, and
+affords an accurate measure of its amount.
+
+He shewed, that the advantage of an interchange of commodities between
+nations consists simply and solely in this, that it enables each to
+obtain, with a given amount of labour and capital, a greater quantity of
+all commodities taken together. This it accomplishes by enabling each,
+with a quantity of one commodity which has cost it so much labour and
+capital, to purchase a quantity of another commodity which, if produced
+at home, would have required labour and capital to a greater amount.
+To render the importation of an article more advantageous than its
+production, it is not necessary that the foreign country should be able
+to produce it with less labour and capital than ourselves. We may even
+have a positive advantage in its production: but, if we are so far
+favoured by circumstances as to have a still greater positive advantage
+in the production of some other article which is in demand in the
+foreign country, we may be able to obtain a greater return to our labour
+and capital by employing none of it in producing the article in which
+our advantage is least, but devoting it all to the production of that in
+which our advantage is greatest, and giving this to the foreign country
+in exchange for the other. It is not a difference in the _absolute_ cost
+of production, which determines the interchange, but a difference in the
+_comparative_ cost. It may be to our advantage to procure iron from
+Sweden in exchange for cottons, even although the mines of England as
+well as her manufactories should be more productive than those of
+Sweden; for if we have an advantage of one-half in cottons, and only an
+advantage of a quarter in iron, and could sell our cottons to Sweden at
+the price which Sweden must pay for them if she produced them herself,
+we should obtain our iron with an advantage of one-half, as well as our
+cottons. We may often, by trading with foreigners, obtain their
+commodities at a smaller expense of labour and capital than they cost
+to the foreigners themselves. The bargain is still advantageous to the
+foreigner, because the commodity which he receives in exchange, though
+it has cost us less, would have cost him more. As often as a country
+possesses two commodities, one of which it can produce with less labour,
+comparatively to what it would cost in a foreign country, than the
+other; so often it is the interest of the country to export the first
+mentioned commodity and to import the second; even though it might be
+able to produce both the one and the other at a less expense of labour
+than the foreign country can produce them, but not less in the same
+degree; or might be unable to produce either except at a greater
+expense, but not greater in the same degree.
+
+On the contrary, if it produces both commodities with greater facility,
+or both with greater difficulty, and greater in exactly the same degree,
+there will be no motive to interchange.
+
+"If the cloth and the corn, each of which required 100 days' labour in
+Poland, required each 150 days' labour in England; it would follow, that
+the cloth of 150 days' labour in England, if sent to Poland, would be
+equal to the cloth of 100 days' labour in Poland: if exchanged for corn,
+therefore, it would exchange for the corn of only 100 days' labour. But
+the corn of 100 days' labour in Poland, was supposed to be the same
+quantity with that of 150 days' labour in England. With 150 days' labour
+in cloth, therefore, England would only get as much corn in Poland as
+she could raise with 150 days' labour at home; and she would, in
+importing it, have the cost of carriage besides. In these circumstances
+no exchange would take place.
+
+"If, on the other hand, while the cloth produced with 100 days' labour
+in Poland was produced with 150 days' labour in England, the corn which
+was produced in Poland with 100 days' labour could not be produced in
+England with less than 200 days' labour; an adequate motive to exchange
+would immediately arise. With a quantity of cloth which England produced
+with 150 days' labour, she would be able to purchase as much corn in
+Poland as was there produced with 100 days' labour; but the quantity,
+which was there produced with 100 days' labour, would be as great as the
+quantity produced in England with 200 days' labour.
+
+"The power of Poland would be reciprocal. With a quantity of corn which
+cost her 100 days' labour, equal to the quantity produced in England by
+200 days' labour, she could in the supposed case purchase in England the
+produce of 200 days' labour in cloth." But "the produce of 150 days'
+labour in England in the article of cloth would be equal to the produce
+of 100 days' labour in Poland [1]."
+
+The remainder of what Mr. Ricardo has done for the philosophical
+exposition of the principles of foreign trade, is to shew, that the
+truth of the propositions now recapitulated is not affected by the
+introduction of money as a medium of exchange; the precious metals
+always tending to distribute themselves in such a manner throughout the
+commercial world, that every country shall import all that it would have
+imported, and export all that it would have exported, if exchanges had
+taken place, as in the example above supposed, by barter.
+
+To this branch of the subject we shall, in the sequel of this essay,
+return. At present it will be more convenient that we should continue to
+suppose, that exchanges take place by the direct trucking of one
+commodity against another.
+
+It is established, that the advantage which two countries derive from
+trading with each other, results from the more advantageous employment
+which thence arises, of the labour and capital--for shortness let us say
+the labour--of both jointly. The circumstances are such, that if each
+country confines itself to the production of one commodity, there is a
+greater total return to the labour of both together; and this increase
+of produce forms the whole of what the two countries taken together gain
+by the trade.
+
+It is the purpose of the present essay to inquire, in what proportion
+the increase of produce, arising from the saving of labour, is divided
+between the two countries.
+
+This question was not entered into by Mr. Ricardo, whose attention was
+engrossed by far more important questions, and who, having a science to
+create, had not time, or room, to occupy himself with much more than the
+leading principles. When he had done enough to enable any one who came
+after him, and who took the necessary pains, to do all the rest, he was
+satisfied. He very rarely followed out the principles of the science
+into the ramifications of their consequences. But we believe that to no
+one, who has thoroughly entered into the spirit of his discoveries, will
+even the minutiae of the science offer any difficulty but that which is
+constituted by the necessity of patience and circumspection in tracing
+principles to their results.
+
+Mr. Ricardo, while intending to go no further into the question of the
+advantage of foreign trade than to show what it consisted of, and under
+what circumstances it arose, unguardedly expressed himself as if each of
+the two countries making the exchange separately gained the whole of the
+difference between the comparative costs of the two commodities in one
+country and in the other. But, the whole gain of both countries
+together, consisting in the saving of labour; and the saving of labour
+being exactly equal to the difference between the costs, in the two
+countries, of the one commodity as compared with the other; the two
+countries taken together gain no more than this difference: and if
+either country gains the whole of it, the other country derives no
+advantage from the trade.
+
+Suppose, for example, that 10 yards of broad cloth cost in England as
+much labour as 15 yards of linen, and in Germany as much as 20. If
+England sends 10 yards of broad cloth to Germany, and is able to
+exchange them for linen according to the German cost of production, she
+will get 20 yards of linen, with a quantity of labour with which she
+could not have produced more than 15; and will gain, therefore, 5 yards
+on every 15, or 33-1/3 per cent. But in this case Germany would obtain
+only 10 yards of cloth for 20 of linen. Now, 10 yards of cloth cost
+exactly the same quantity of labour in Germany as 20 of linen; Germany,
+therefore, derives no advantage from the trade, more than she would
+possess if it did not exist.
+
+So, on the other hand, if Germany sends 15 yards of linen to England,
+and finding the relative value of the two articles in that country
+determined by the English costs of production, is enabled to purchase
+with 35 yards of linen 10 yards of cloth; Germany now gains 5 yards,
+just as England did before,--for with 15 yards of linen she purchases 10
+yards of cloth, when to produce these 10 yards she must have employed as
+much labour as would have enabled her to produce 20 yards of linen. But
+in this case England would gain nothing: she would only obtain, for her
+10 yards of cloth, 15 yards of linen, which is exactly the comparative
+cost at which she could have produced them.
+
+This, which was not an error, but a mere oversight of Mr. Ricardo,
+arising from his having left the question of the division of the
+advantage entirely unnoticed, was first corrected in the third edition
+of Mr. Mill's _Elements of Political Economy_. It can hardly, however,
+be said that Mr. Mill has prosecuted the inquiry any further; which,
+indeed, would have been quite as inconsistent with the nature of his
+plan as of Mr. Ricardo's.
+
+1. When the trade is established between the two countries, the two
+commodities will exchange for each other at the same rate of interchange
+in both countries--bating the cost of carriage, of which, for the present,
+it will be more convenient to omit the consideration. Supposing, therefore,
+for the sake of argument, that the carriage of the commodities from one
+country to another could be effected without labour and without cost, no
+sooner would the trade be opened than, it is self-evident, the value of
+the two commodities, estimated in each other, would come to a level in
+both countries.
+
+If we knew what this level would be, we should know in what proportion
+the two countries would share the advantage of the trade.
+
+When each country produced both commodities for itself, 10 yards of
+broad cloth exchanged for 15 yards of linen in England, and for 20 in
+Germany. They will now exchange for the same number of yards of linen in
+both. For what number? If for 15 yards, England will be just as she was,
+and Germany will gain all. If for 20 yards, Germany will be as before,
+and England will derive the whole of the benefit. If for any number
+intermediate between 15 and 20, the advantage will be shared between the
+two countries. If, for example, 10 yards of cloth exchange for 18 of
+linen, England will gain an advantage of 3 yards on every 15, Germany
+will save 2 out of every 20.
+
+The problem is, what are the causes which determine the proportion in
+which the cloth of England and the linen of Germany will exchange for
+each other?
+
+This, therefore, is a question concerning exchangeable value. There must
+be something which determines how much of one commodity another
+commodity will purchase; and there is no reason to suppose that the law
+of exchangeable value is more difficult of ascertainment in this case
+than in other cases.
+
+The law, however, cannot be precisely the same as in the common cases.
+When two articles are produced in the immediate vicinity of one another,
+so that, without expatriating himself, or moving to a distance, a
+capitalist has the choice of producing one or the other, the quantities
+of the two articles which will exchange for each other will be, on the
+average, those which are produced by equal quantities of labour. But
+this cannot be applied to the case where the two articles are produced
+in two different countries; because men do not usually leave their
+country, or even send their capital abroad, for the sake of those small
+differences of profit which are sufficient to determine their choice of
+a business, or of an investment, in their own country and neighbourhood.
+
+The principle, that value is proportional to cost of production, being
+consequently inapplicable, we must revert to a principle anterior to
+that of cost of production, and from which this last flows as a
+consequence,--namely, the principle of demand and supply.
+
+In order to apply this principle, with any advantage, to the solution of
+the question which now occupies us, the principle itself, and the idea
+attached to the term demand, must be conceived with a precision, which
+the loose manner in which the words are used generally prevents.
+
+It is well known that the quantity of any commodity which can be
+disposed of, varies with the price. The higher the price, the fewer will
+be the purchasers, and the smaller the quantity sold. The lower the
+price, the greater will in general be the number of purchasers, and the
+greater the quantity disposed of. This is true of almost all commodities
+whatever: though of some commodities, to diminish the consumption in any
+given degree would require a much greater rise of price than of others.
+
+Whatever be the commodity--the supply in any market being given, there
+is some price at which the whole of the supply exactly will find
+purchasers, and no more. That, whatever it be, is the price at which, by
+the effect of competition, the commodity will be sold. If the price be
+higher, the whole of the supply will not be disposed of, and the
+sellers, by their competition, will bring down the price. If the price
+be lower, there will be found purchasers for a larger supply, and the
+competition of these purchasers will raise the price.
+
+This, then, is what we mean, when we say that price, or exchangeable
+value, depends on demand and supply. We should express the principle
+more accurately, if we were to say, the price so regulates itself that
+the demand shall be exactly sufficient to carry off the supply.
+
+Let us now apply the principle of demand and supply, thus understood, to
+the interchange of broadcloth and linen between England and Germany.
+
+As exchangeable value in this case, as in every other, is proverbially
+fluctuating, it does not matter what we suppose it to be when we begin;
+we shall soon see whether there be any fixed point about which it
+oscillates--which it has a tendency always to approach to, and to remain
+at.
+
+Let us suppose, then, that by the effect of what Adam Smith calls the
+higgling of the market, 10 yards of cloth, in both countries, exchange
+for 17 yards of linen.
+
+The demand for a commodity, that is, the quantity of it which can find a
+purchaser, varies, as we have before remarked, according to the price.
+In Germany, the price of 10 yards of cloth is now 17 yards of linen; or
+whatever quantity of money is equivalent in Germany to 17 yards of
+linen. Now, that being the price, there is some particular number of
+yards of cloth, which will be in demand, or will find purchasers, at
+that price. There is some given quantity of cloth, more than which could
+not be disposed of at that price,--less than which, at that price, would
+not fully satisfy the demand. Let us suppose this quantity to be, 1000
+times 10 yards.
+
+Let us now turn our attention to England. There, the price of 17 yards
+of linen is 10 yards of cloth, or whatever quantity of money is
+equivalent in England to 10 yards of cloth. There is some particular
+number of yards of linen, which, at that price, will exactly satisfy the
+demand, and no more. Let us suppose that this number is 1000 times 17
+yards.
+
+As 17 yards of linen are to 30 yards of cloth, so are 1000 times 17
+yards to 1000 times 10 yards. At the existing exchangeable value, the
+linen which England requires, will exactly pay for the quantity of cloth
+which, on the same terms of interchange, Germany requires. The demand on
+each side is precisely sufficient to carry off the supply on the other.
+The conditions required by the principle of demand and supply are
+fulfilled, and the two commodities will continue to be interchanged, as
+we supposed them to be, in the ratio of 17 yards of linen for 10 yards
+of cloth.
+
+But our supposition might have been different. Suppose that, at the
+assumed rate of interchange, England had been disposed to consume no
+greater quantity of linen than 800 times 17 yards; it is evident that,
+at the rate supposed, this would not have sufficed to pay for the 1000
+times 10 yards of cloth, which we have supposed Germany to require at
+the assumed value. Germany would be able to procure no more than 800
+times 10 yards, at that price. To procure the remaining 200, which she
+would have no means of doing but by bidding higher for them, she would
+offer more than 17 yards of linen in exchange for 10 yards of cloth; let
+us suppose her to offer 18. At that price, perhaps, England would be
+inclined to purchase a greater quantity of linen. She could consume,
+possibly, at that price, 900 times 18 yards. On the other hand, cloth
+having risen in price, the demand of Germany for it would, probably,
+have diminished. If, instead of 1000 times 10 yards, she is now
+contented with 900 times ten yards, these will exactly pay for the 900
+times 18 yards of linen which England is willing to take at the altered
+price: the demand on each side will again exactly suffice to take off
+the corresponding supply; and 10 yards for 18 will be the rate at which,
+in both countries, cloth will exchange for linen.
+
+The converse of all this would have happened if instead of 800 times 17
+yards, we had supposed that England, at the rate of 10 for 17, would
+have taken 1200 times 17 yards of linen. In this case, it is England
+whose demand is not fully supplied; it is England who, by bidding for
+more linen, will alter the rate of interchange to her own disadvantage;
+and 10 yards of cloth will fall, in both countries, below the value of
+17 yards of linen. By this fall of cloth, or what is the same thing,
+this rise of linen, the demand of Germany for cloth will increase, and
+the demand of England for linen will diminish, till the rate of
+interchange has so adjusted itself that the cloth and the linen will
+exactly pay for another; and when once this point is attained, values
+will remain as they are.
+
+It may be considered, therefore, as established, that when two countries
+trade together in two commodities, the exchangeable value of these
+commodities relatively to each other will adjust itself to the
+inclinations and circumstances of the consumers on both sides, in such
+manner that the quantities required by each country, of the article
+which it imports from its neighbour, shall be exactly sufficient to pay
+for one another. As the inclinations and circumstances of consumers
+cannot be reduced to any rule, so neither can the proportions in which
+the two commodities will be interchanged. We know that the limits within
+which the variation is confined are the ratio between their costs of
+production in the one country, and the ratio between their costs of
+production in the other. Ten yards of cloth cannot exchange for more
+than 20 yards of linen, nor for less than 15. But they may exchange for
+any intermediate number. The ratios, therefore, in which the advantage
+of the trade may be divided between the two nations, are various. The
+circumstances on which the proportionate share of each country more
+remotely depends, admit only of a very general indication.
+
+It is even possible to conceive an extreme case, in which the whole of
+the advantage resulting from the interchange would be reaped by one
+party, the other country gaining nothing at all. There is no absurdity
+in the hypothesis, that of some given commodity a certain quantity is
+all that is wanted at any price, and that when that quantity is
+obtained, no fall in the exchangeable value would induce other consumers
+to come forward, or those who are already supplied to take more. Let us
+suppose that this is the case in Germany with cloth. Before her trade
+with England commenced, when 10 yards of cloth cost her as much labour
+as 20 yards of linen, she nevertheless consumed as much cloth as she
+wanted under any circumstances, and if she could obtain it at the rate
+of 10 yards of cloth for 15 of linen, she would not consume more. Let
+this fixed quantity be 1000 times 10 yards. At the rate, however, of 10
+for 20, England would want more linen than would be equivalent to this
+quantity of cloth. She would consequently offer a higher value for
+linen; or, what is the same thing, she would offer her cloth at a
+cheaper rate. But as by no lowering of the value could she prevail on
+Germany to take a greater quantity of cloth, there would be no limit to
+the rise of linen, or fall of cloth, until the demand of England for
+linen was reduced by the rise of its value, to the quantity which one
+thousand times ten yards of cloth would purchase. It might be, that to
+produce this diminution of the demand, a less fall would not suffice,
+than one which would make 10 yards of cloth exchange for 15 of linen.
+Germany would then gain the whole of the advantage, and England would be
+exactly as she was before the trade commenced. It would be for the
+interest, however, of Germany herself, to keep her linen a little below
+the value at which it could be produced in England, in order to keep
+herself from being supplanted by the home producer. England, therefore,
+would always benefit in some degree by the existence of the trade,
+though it might be in a very trifling one.
+
+But in general there will not be this extreme inequality in the degree
+in which the demand in the two countries varies with variations in the
+price. The advantage will probably be divided equally, oftener than in
+any one unequal ratio that can be named; though the division will be
+much oftener, on the whole, unequal than equal.
+
+2. We shall now examine whether the same law of interchange, which we
+have shown to apply upon the supposition of barter, holds good after the
+introduction of money. Mr. Ricardo found that his more general
+proposition stood this test; and as the proposition which we have just
+demonstrated is only a further developement of his principle, we shall
+probably find that it suffers a little, by a mere change in the mode
+(for it is no more) in which one commodity is exchanged against another.
+
+We may at first make whatever supposition we will with respect to the
+value of money. Let us suppose, therefore, that before the opening of
+the trade, the price of cloth is the same in both countries, namely, six
+shillings per yard [2]. As 10 yards of cloth were supposed to exchange in
+England for 5 yards of linen, in Germany for 20, we must suppose that
+linen is sold in England at four shillings per yard, in Germany at
+three. Cost of carriage and importer's profit are left as before, out of
+consideration.
+
+In this state of prices, cloth, it is evident, cannot yet be exported
+from England into Germany. But linen can be imported from Germany into
+England. It will be so, and, in the first instance, the linen will be
+paid for in money.
+
+The efflux of money from England, and its influx into Germany, will
+raise money prices in the latter country, and lower them in the former.
+Linen will rise in Germany above three shillings per yard, and cloth
+above six shillings. Linen in England being imported from Germany, will
+(since cost of carriage is not reckoned) sink to the same price as in
+that country, while cloth will fall below six shillings. As soon as the
+price of cloth is lower in England than in Germany, it will begin to be
+exported, and the price of cloth in Germany will fall to what it is in
+England. As long As the cloth exported does not suffice to pay for the
+linen imported, money will continue to flow from England into Germany,
+and prices generally will continue to fall in England, and rise in
+Germany. By the fall, however, of cloth in England, cloth will fall in
+Germany also, and the demand for it will increase. By the rise of linen
+in Germany, linen must rise in England also, and the demand for it will
+diminish. Although the increased exportation of cloth takes place at a
+lower price, and the diminished importation of linen at a higher, yet
+the total money value of the exportation would probably increase, that
+of the importation diminish. As cloth fell in price and linen rose,
+there would be some particular price of both articles at-which the cloth
+exported, and the linen imported, would exactly pay for each other. At
+this point prices would remain, because money would then cease to move
+out of England into Germany. What this point might be, would entirely
+depend upon the circumstances and inclinations of the purchasers on both
+sides. If the fall of cloth did not much increase the demand for it in
+Germany, and the rise of linen did not diminish very rapidly the demand
+for it in England, much money must pass before the equilibrium is
+restored; cloth would fall very much, and linen would rise, until
+England, perhaps, had to pay nearly as much for it as when she produced
+it for herself. But if, on the contrary, the fall of cloth caused a very
+rapid increase of the demand for it in Germany, and the rise of linen in
+Germany reduced very rapidly the demand in England from what it was
+under the influence of the first cheapness produced by the opening of
+the trade; the cloth would very soon suffice to pay for the linen,
+little money would pass between the two countries, and England would
+derive a large portion of the benefit of the trade. We have thus arrived
+at precisely the same conclusion, in supposing the employment of money,
+which we found to hold under the supposition of barter.
+
+In what shape the benefit accrues to the two nations from the trade, is
+clear enough. Germany, before the commencement of the trade, paid six
+shillings per yard for broad-cloth. She now obtains it at a lower price.
+This, however, is not the whole of her advantage. As the money prices of
+all her other commodities have risen, the money incomes of all her
+producers have increased. This is no advantage to them in buying from
+each other; because the price of what they buy has risen in the same
+ratio with their means of paying for it: but it is an advantage to them
+in buying any thing which has not risen; and still more, any thing which
+has fallen. They therefore benefit as consumers of cloth, not merely to
+the extent to which cloth has fallen, but also to the extent to which
+other prices have risen. Suppose that this is one-tenth. The same
+proportion of their money incomes as before, will suffice to supply
+their other wants, and the remainder, being increased one-tenth in
+amount, will enable them to purchase one-tenth more cloth than before,
+even though cloth had not fallen. But it has fallen: so that they are
+doubly gainers. If they do not choose to increase their consumption of
+cloth, this does not prevent them from being gainers. They purchase the
+same quantity with less money, and have more to expend upon their other
+wants.
+
+In England, on the contrary, general money-prices have fallen. Linen,
+however, has fallen more than the rest; having been lowered in price, by
+importation from a country where it was cheaper, whereas the others have
+fallen only from the consequent efflux of money. Notwithstanding,
+therefore, the general fall of money-prices, the English producers will
+be exactly as they were in all other respects, while they will gain as
+purchasers of linen.
+
+The greater the efflux of money required to restore the equilibrium, the
+greater will be the gain of Germany; both by the fall of cloth, and by
+the rise of her general prices. The less the efflux of money requisite,
+the greater will be the gain of England; because the price of linen will
+continue lower, and her general prices will not be reduced so much. It
+must not, however, be imagined that high money-prices are a good, and
+low money-prices an evil, in themselves. But the higher the general
+money-prices in any country, the greater will be that country's means
+of purchasing those commodities which, being imported from abroad, are
+independent of the causes which keep prices high at home.
+
+3. We have hitherto supposed the carriage to be performed without labour
+or expense. If we abandon this supposition, we must correct the
+statement of the case in a slight degree. The prices of the two articles
+will no longer, when the trade is opened, be the same in both countries,
+nor will the articles exchange for one another at the same rate in both.
+Ten yards of cloth will purchase in Germany a quantity of linen greater
+than in England by a per-centage equal to the entire cost of conveyance
+both of the cloth to Germany and of the linen to England. The
+money-price of linen will be higher in England than in Germany, by the
+cost of carriage of the linen. The money-price of cloth will be higher
+in Germany than in England, by the cost of carriage of the cloth.
+
+The expense of the carriage is evidently a deduction _pro tanto_ from
+the saving of labour produced by the establishment of the trade. The two
+countries together, therefore, have their gains by the trade diminished,
+by the amount of the cost of carriage of both commodities. But here the
+question arises, which of the two countries bears this deduction, or in
+what proportion it is divided between them.
+
+At the first inspection it would appear that each country bears its own
+cost of carriage, that is, that each country pays the carriage of the
+commodity which it imports. Upon this supposition, each country would
+gain whatever share of the joint saving of labour would otherwise fall
+to its lot, _minus_ the cost of bringing from the other country the
+commodity which it imports. This solution is rendered plausible by the
+circumstance just now mentioned, that the price of the commodity will be
+higher in the country which imports it, than in the country which
+exports it, by the amount of the cost of carriage. If linen is sold in
+England at a higher price than in Germany, by a per-centage equal to the
+cost of carriage of the linen, it appears obvious that England pays for
+the carriage of the linen, and Germany, by parity of reason, for that of
+the cloth.
+
+But if we apply to these questions the principles already explained, we
+shall see that this is not by any means a universal law: the fact may
+correspond with it, or it may not.
+
+For suppose that the prices have adjusted themselves, no matter how, and
+that the imports and exports balance one another, each commodity, of
+course, being dearer by the cost of carriage, in the country which
+imports than in that which exports it: and suppose now that the cost of
+carriage, both of the one and of the other, were suddenly and
+miraculously annihilated, and that the commodities could pass from
+country to country without expense. If each country bore its own cost of
+carriage before, each country will save its own cost of carriage now.
+Cloth, in Germany, will in that case fall exactly to what it is in
+England; linen in England, to what it is in Germany.
+
+Now this fall of price, supposing it to happen, will probably affect the
+demand on both sides; and it will either affect it alike in both
+countries, or it will affect it unequally. It will affect it alike, if
+the fall of price does not affect the demand at all, or if it affects it
+equally in both countries. If either of these results should take place,
+the cloth and the linen would continue to balance each other as before:
+no money would pass from one country to the other; prices in both would
+continue at the point to which they had fallen, and each country would
+exactly save the cost of carriage on the commodity which it imports from
+the other.
+
+But the result might be, that the fall of price might not have an effect
+exactly equal, on the demand in the two countries. Suppose, for
+instance, that the fall of cloth in Germany owing to the saving of the
+cost of carriage, did not increase the demand for cloth in Germany; but
+that the fall of linen in England from a like cause, did increase the
+demand for linen in England. The linen imported would be more than could
+be paid for by the cloth exported: the difference must be paid in money:
+the change in the distribution of the precious metals between the two
+countries would lower the price of cloth in England, (and consequently
+in Germany), while it would raise the price of linen in Germany, (and
+consequently in England). Germany, therefore, by the annihilation of
+cost of carriage, would save in price more than the cost of carriage of
+the cloth; England would save less in price than the cost of carriage of
+the linen. But if by the miraculous annihilation of cost of carriage,
+England would not _save_ the whole of the carriage of her imports, it
+follows that England did not previously _pay_ the whole of that cost of
+carriage.
+
+Thus, the division of the cost of trade, and the division of the
+advantage of trade, are governed by precisely the same principles; and
+the only general proposition which can be affirmed respecting the cost
+is, that it is _pro tanto_ a deduction from the advantage. It cannot
+even be maintained that the cost is shared in the same proportion as the
+advantage is; because the increase of the demand for a commodity as its
+price falls, is not governed by any fixed law. Suppose, for instance,
+that the advantage happened to be divided equally: this must be because
+the greater cheapness arising from the establishment of the trade,
+either did not affect the demand at all, or affected it in an equal
+proportion on both sides. Now, because such is the effect of the degree
+of increased cheapness resulting from importation burthened with cost of
+carriage, it would not follow that the still greater degree of
+cheapness, produced by the additional saving of the cost of carriage
+itself, would also affect the demand of both countries in precisely an
+equal degree. But we cannot be said to bear an expense, which, if saved,
+would be saved to somebody else, and not to us. Two countries may have
+equal shares of the clear benefit of the trade, while, if the cost of
+carriage were saved, they would divide that saving unequally. If so,
+they divide the gross gain in one unequal ratio, the cost in another
+unequal ratio, though their shares of the cost being deducted from their
+shares of the gain leave equal remainders.
+
+4. The question naturally suggests itself, whether any country, by its
+own legislative policy, can engross to itself a larger share of the
+benefits of foreign commerce, than would fall to it in the natural or
+spontaneous course of trade.
+
+The answer is, it can. By taxing exports, for instance, we may, under
+certain circumstances, produce a division of the advantage of the trade
+more favourable to ourselves. In some cases, we may draw into our
+coffers, at the expense of foreigners, not only the whole tax, but more
+than the tax: in other cases, we should gain exactly the tax,--in
+others, less than the tax. In this last case, a part of the tax is borne
+by ourselves: possibly the whole, possibly even, as we shall show, more
+than the whole.
+
+Suppose that England taxes her export of cloth: the tax not being
+supposed high enough to induce Germany to produce cloth for herself. The
+price at which cloth can be sold in Germany is augmented by the tax.
+This will probably diminish the quantity consumed. It may diminish it so
+much, that even at the increased price, there will not be required so
+great a money value as before. It may diminish it in such a ratio, that
+the money value of the quantity consumed will be exactly the same as
+before. Or it may not diminish it at all, or so little, that, in
+consequence of the higher price, a greater money value will be purchased
+than before. In this last case, England will gain, at the expense of
+Germany, not only the whole amount of the duty, but more. For the money
+value of her exports to Germany being increased, while her imports
+remain the same, money will flow into England from Germany. The price of
+cloth will rise in England, and consequently in Germany; but the price
+of linen will fall in Germany, and consequently in England, We shall
+export less cloth, and import more linen, till the equilibrium is
+restored. It thus appears, what is at first sight somewhat remarkable,
+that, by taxing her exports, England would, under some conceivable
+circumstances, not only gain from her foreign customers the whole amount
+of the tax, but would also get her imports cheaper. She would get them
+cheaper in two ways,--for she would obtain them for less money, and
+would have more money to purchase them with. Germany, on the other hand,
+would suffer doubly: she would have to pay for her cloth a price
+increased not only by the duty, but by the influx of money into England,
+while the same change in the distribution of the circulating medium
+would leave her less money to purchase it with.
+
+This, however, is only one of three possible cases. If, after the
+imposition of the duty, Germany requires so diminished a quantity of
+cloth, that its total money value is exactly the same as before, the
+balance of trade will be undisturbed; England will gain the duty,
+Germany will lose it, and nothing more. If, again, the imposition of the
+duty occasions such a falling off in the demand, that Germany requires a
+less pecuniary value than before, our exports will no longer pay for our
+imports, money must pass from England into Germany, and Germany's share
+of the advantage of the trade will be increased. By the change in the
+distribution of money, cloth will fall in England; and therefore it
+will, of course, fall in Germany. Thus Germany will not pay the whole of
+the tax. From the same cause, linen will rise in Germany, and
+consequently in England. When this alteration of prices has so adjusted
+the demand, that the cloth and the linen again pay for one another, the
+result is, that Germany has paid only a part of the tax, and the
+remainder of what has been received into our treasury has come
+indirectly out of the pockets of our own consumers of linen, who pay a
+higher price for that imported commodity, in consequence of the tax on
+our exports, which at the same time they, in consequence of the efflux
+of money and consequent fall of prices, have smaller money incomes
+wherewith to pay for the linen at that advanced price.
+
+It is not an impossible supposition that, by taxing our exports, we
+might not only gain nothing from the foreigner, the tax being paid out
+of our own pockets, but might even compel our own people to pay a second
+tax to the foreigner. Suppose, as before, that the demand of Germany for
+cloth falls off so much on the imposition of the duty, that she requires
+a smaller money value than before, but that the case is so different
+with linen in England, that when the price rises the demand either does
+not fall off at all, or so little that the money value required is
+greater than before. The first effect of laying on the duty is, as
+before, that the cloth exported will no longer pay for the linen
+imported. Money will, therefore, flow out of England into Germany. One
+effect is to raise the price of linen in Germany, and, consequently, in
+England. But this, by the supposition, instead of stopping the efflux of
+money, only makes it greater, because the higher the price, the greater
+the money value of the linen consumed. The balance, therefore, can only
+be restored by the other effect, which is going on at the same time,
+namely, the fall of cloth in the English, and, consequently, in the
+German market. Even when cloth has fallen so low that its price with the
+duty is only equal to what its price without the duty was at first, it
+is not a necessary consequence that the fall will stop; for the same
+amount of exportation as before will not now suffice to pay the
+increased money value of the imports; and although the German consumers
+have now not only cloth at the old price, but likewise increased money
+incomes, it is not certain that they will be inclined to employ the
+increase of their incomes in increasing their purchases of cloth. The
+price of cloth, therefore, must perhaps fall, to restore the
+equilibrium, more than the whole amount of the duty; Germany may be
+enabled to import cloth at a lower price when it is taxed, than when it
+was untaxed: and this gain she will acquire at the expense of the
+English consumers of linen, who, in addition, will be the real payers of
+the whole of what is received at their own custom-house under the name
+of duties on the export of cloth.
+
+Such are the extremely various effects which may result to ourselves,
+and to our customers, from the imposition of taxes on our exports [3]:
+and the determining circumstances are of a nature so imperfectly
+ascertainable, that it must be almost impossible to decide with any
+certainty, even after the tax has been imposed, whether we have been
+gainers by it or losers. It is certain, however, that whatever we gain,
+is lost by somebody else, and there is the expense of the collection
+besides: if international morality, therefore, were rightly understood
+and acted upon, such taxes, as being contrary to the universal weal,
+would not exist. Moreover, the imposition of such a tax frequently will,
+and always may, expose a country to lose this branch of its trade
+altogether, or to carry it on with diminished advantage, in consequence
+of the competition of untaxed exporters from other countries, or of the
+domestic producers in the country to which it exports. Even on the most
+selfish principles, therefore, the benefit of such a tax is always
+extremely precarious.
+
+5. We have had an example of a tax on exports, that is, on foreigners,
+falling in part on ourselves. We shall, therefore, not be surprised if
+we find a tax on imports, that is, on ourselves, partly falling upon
+foreigners.
+
+Instead of taxing the cloth which we export, suppose that we tax the
+linen which we import. The duty which we are now supposing must not be
+what is termed a protecting duty, that is, a duty sufficiently high to
+induce us to produce the article at home. If it had this effect, it
+would destroy entirely the trade both in cloth and in linen, and both
+countries would lose the whole of the advantage which they previously
+gained by exchanging those commodities with one another. We suppose a
+duty which might diminish the consumption of the article, but which
+would not prevent us from continuing to import, as before, whatever
+linen we did consume.
+
+The equilibrium of trade would be disturbed if the imposition of the tax
+diminished in the slightest degree the quantity of linen consumed. For,
+as the tax is levied at our own custom-house, the German exporter only
+receives the same price as formerly, though the English consumer pays a
+higher one. If, therefore, there be any diminution of the quantity
+bought, although a larger sum of money may be actually laid out in the
+article, a smaller one will be due from England to Germany: this sum
+will no longer be an equivalent for the sum due from Germany to England
+for cloth, the balance therefore must be paid in money. Prices will fall
+in Germany, and rise in England; linen will fall in the German market;
+cloth will rise in the English. The Germans will pay higher price for
+cloth, and will have smaller money incomes to buy it with; while the
+English will obtain linen cheaper, that is, its price will exceed what
+it previously was by less than the amount of the duty, while their means
+of purchasing it will be increased by the increase of their money
+incomes.
+
+If the imposition of the tax does not diminish the demand, it will leave
+the trade exactly as it was before. We shall import as much, and export
+as much; the whole of the tax will be paid out of our own pockets.
+
+But the imposition of a tax on a commodity, almost always diminishes the
+demand more or less; and it can never, or scarcely ever increase the
+demand. It may, therefore, be laid down as a principle, that a tax on
+imported commodities, when it really operates as a tax, and not as a
+prohibition, either total or partial, almost always falls in part upon
+the foreigners who consume our goods: and that this is a mode in which a
+nation may be almost sure of appropriating to itself, at the expense of
+foreigners, a larger share than would otherwise belong to it of the
+increase in the general productiveness of the labour and capital of the
+world, which results from the interchange of commodities among nations.
+
+It is scarcely necessary to observe, that no such advantage can result
+from the duty, if it operate as a protecting duty; if it induce the
+country which imposes it, to produce for herself that which she would
+otherwise have imported. The saving of labour--the increase in the
+general productiveness of the capital of the world--which is the effect
+of commerce, and which a non-protecting duty would enable the country
+imposing it to engross, could not be engrossed by a protecting duty,
+because such a duty prevents any such increased production from
+existing.
+
+With a view to practical legislation, therefore, duties on importation
+may be divided into two classes: those which have the effect of
+encouraging some particular branch of domestic industry, and those which
+have not.
+
+The former are purely mischievous, both to the country imposing them,
+and to those with whom it trades. They prevent a saving of labour and
+capital, which, if permitted to be made, would be divided in some
+proportion or other between the importing country and the countries
+which buy what that country does or might export.
+
+The other class of duties are those which do not encourage one mode of
+procuring an article at the expense of another, but allow interchange to
+take place just as if the duty did not exist--and to produce the saving
+of labour which constitutes the motive to international as to all other
+commerce. Of this kind, are duties on the importation of any commodity
+which could not by any possibility be produced at home; and duties not
+sufficiently high to counterbalance the difference of expense between
+the production of the article at home, and its importation. Of the money
+which is brought into the treasury of any country by taxes of this last
+description, a part only is paid by the people of that country; the
+remainder by the foreign consumers of their goods.
+
+Nevertheless, this latter kind of taxes are in principle as ineligible
+as the former, although not precisely on the same ground. A protecting
+duty can never be a cause of gain, but always and necessarily of loss,
+to the country imposing it, just so far as it is efficacious to its end.
+A non-protecting duty on the contrary would, in most cases, be a source
+of gain to the country imposing it, in so far as throwing part of the
+weight of its taxes upon other people is a gain; but it would be a means
+of gain which it could seldom be advisable to adopt, being so easily
+counteracted by a precisely similar proceeding on the other side.
+
+If England, in the case already supposed, sought to obtain for herself
+more than her natural share of the advantage of the trade with Germany,
+by imposing a duty upon cloth, Germany would only have to impose a duty
+upon linen, sufficient to diminish the demand for that article about as
+much as the demand for cloth had been diminished in England by the tax.
+Things would then be as before, and each country would pay its own tax.
+Unless, indeed, the sum of the two duties exceeded the entire advantage
+of the trade; for in that case the trade, and its advantage, would cease
+entirely.
+
+There would be no advantage, therefore, in imposing duties of this kind,
+with a view to gain by them, in the manner which has been pointed out.
+But so long as any other kind of taxes on commodities are retained, as a
+source of revenue, these may often be as unobjectionable as the rest. It
+is evident, moreover, that considerations of reciprocity, which are
+quite unessential when the matter in debate is a protecting duty, are of
+material importance when the repeal of duties of this other description
+is discussed. A country cannot be expected to renounce the power of
+taxing foreigners, unless foreigners will in return practise towards
+itself the same forbearance. The only mode in which a country can save
+itself from being a loser by the duties imposed by other countries on
+its commodities, is to impose corresponding duties on theirs. Only it
+must take care that these duties be not so high as to exceed all that
+remains of the advantage of the trade, and put an end to importation
+altogether; causing the article to be either produced at home, or
+imported from another and a dearer market.
+
+It is not necessary to apply the principles which we have stated to the
+case of bounties on exportation or importation. The application is easy,
+and the conclusions present nothing of particular interest or
+importance.
+
+6. Any cause which alters the exports or imports from one country into
+another, alters the division of the advantage of interchange between
+those two countries. Suppose the discovery of a new process, by which
+some article of export, or some article not previously exported, can be
+produced so cheap as to occasion a great demand for it in other
+countries. This of course produces a great influx of money from other
+countries, and lowers the prices of all articles imported from them,
+until the increase of importation produced by this cause has restored
+the equilibrium. Thus, the country which acquires a new article of
+export gets its imports cheaper. This is not a case of mere alteration
+in the division of the advantage; it is a new advantage created by the
+discovery.
+
+But suppose that the invention, to which the nation is indebted for this
+increase of the return to its industry, comes into use also in the other
+country, and that the process is one which can be as perfectly and as
+cheaply performed in the one country as in the other. The new
+exportation will cease; trade will revert to its old channels, the money
+which flowed in will again flow out, and the country which invented the
+process will lose that increase of its gain by trade, which it had
+derived from the discovery.
+
+Now the exportation of machinery comes within the case which we have
+just described.
+
+If the fact be, that by allowing to foreigners a participation in our
+machinery, we enable them to produce any of our leading articles of
+export, at a lower money price than we can sell those articles, it is
+certain that unless we possess as great an advantage in the production
+of the machinery itself as we have in the production of other articles
+by means of machinery, the permitting of its exportation would alter to
+our disadvantage the division of the benefit of trade. Our exports being
+diminished, we should have to pay a balance in money. This would raise,
+in foreign countries, the price of everything which we import from
+thence: while our incomes, being reduced in money value, would render
+us less able to buy those articles even if they had not risen. The
+equilibrium of exports and imports would only be restored, when either
+some of the latter became so dear that we could produce them cheaper at
+home, or some articles not previously exported became exportable from
+the fall of prices. In the one case, we lose the benefit of importation
+altogether, and are obliged to produce at home, at a greater cost. In
+the other case, we continue to import, but pay dearer for our imports.
+
+Notwithstanding what has now been observed, restrictions on the
+exportation of machinery are not, in our opinion, justifiable, either on
+the score of international morality or of sound policy. It is evidently
+the common interest of all nations that each of them should abstain from
+every measure by which the aggregate wealth of the commercial world
+would be diminished, although of this smaller sum total it might thereby
+be enabled to attract to itself a larger share. And the time will
+certainly come when nations in general will feel the importance of this
+rule, and will so direct their approbation and disapprobation as to
+enforce observance of it. Moreover, a country possessing machines should
+consider that if a similar advantage were extended to other countries,
+they would employ it above all in the production of those articles, in
+which they had already the greatest natural advantages; and if the
+former country would be a loser by their improvements in the production
+of articles which it sells, it would gain by their improvements in those
+which it buys. The exportation of machinery may, however, be a proper
+subject for adjustment with other nations, on the principle of
+reciprocity. Until, by the common consent of nations, all restrictions
+upon trade are done away, a nation cannot be required to abolish those
+from which she derives a real advantage, without stipulating for an
+equivalent.
+
+7. The case which we have just examined, is an example in how remarkable
+a manner every cause which materially influences exports, operates upon
+the prices of imports. According to the ancient theory of the balance of
+trade, and to the associations of the generality of what are termed
+practical men to this day, the sole benefit derived from commerce
+consists in the exports, and imports are rather an evil than otherwise.
+Political economists, seeing the folly of these views, and clearly
+perceiving that the advantage of commerce consists and must consist
+solely of the imports, have occasionally suffered themselves to employ
+language evincing inattention to the fact, that exports, though
+unimportant in themselves, are important by their influence on imports.
+So real and extensive is this influence, that every new market which is
+opened for any of our goods, and every increase in the demand for our
+commodities in foreign countries, enables us to supply ourselves with
+foreign commodities at a smaller cost.
+
+Let us revert to our earliest and simplest example, but which displays
+the real law of interchange more luminously than any formula into which
+money enters; the case of simple barter. We showed, that if at the rate
+of 10 yards of cloth for 17 of linen, the demand of Germany amounted to
+1000 times 10 yards of cloth, the two nations will trade together at
+that rate of interchange, provided that the linen required in England be
+exactly 1000 times 17 yards, neither more nor less. For the cloth and
+the linen will then exactly pay for one another, and nobody on either
+side will be obliged to offer what he has to sell at a lower rate, in
+order to procure what he wants to buy.
+
+Now if the increase of wealth and population in Germany should greatly
+increase the demand in that country for cloth, the demand for linen in
+England not increasing in the same ratio,--if, for instance, Germany
+became willing, at the above rate, to take 1500 times 10 yards; is it
+not evident, that to induce England to take in exchange for this the
+only article which Germany by supposition has to give, the latter must
+offer it at a rate more advantageous to England--at 18, or perhaps 19
+yards, for 10 of cloth? So that the division of the advantage becomes
+more and more favourable to a country, in proportion as the demand for
+its commodities increases in foreign countries.
+
+It is not even necessary that the country which takes its goods, should
+supply it with any commodity whatever. Suppose that a country should be
+opened to our merchants, disposed to buy from us in abundance, but which
+can sell to us scarcely anything, as every commodity which it affords
+could be got cheaper by us from some other quarter. Nevertheless, our
+trade with this country will enable us to obtain from all other
+countries their commodities at a lower price. At the first opening of
+this commerce of mere exportation, we must have received in payment a
+large quantity of money; for which our customer will have been
+indemnified by other countries, in exchange for her commodities. Prices
+must consequently be lower in all other countries, and higher with us,
+than before the opening of the new branch of trade; and we therefore
+obtain the commodities of other countries at a less cost, both as we pay
+less money for them, and as that money is lower in value.
+
+8. Another obvious application of the same principle will enable us to
+explain, and to bring within the dominion of strict science, the
+rivality of one exporting nation and another, or what is called, in the
+language of the mercantile system, _underselling_: a subject which
+political economists have taken little trouble to elucidate, from the
+habit before alluded to of disregarding almost entirely, in their purely
+scientific inquiries, those circumstances which affect the trade of a
+country by operating immediately upon the exports.
+
+Let us revert to our old example, and to our old figures. Suppose that
+the trade between England and Germany in cloth and linen is established,
+and that the rate of interchange is 10 yards of cloth for 17 of linen.
+Now suppose that there arises in another country, in Flanders, for
+example, a linen manufacture; and that the same causes, the working of
+which in England and Germany has made 10 yards exchange for 17, would in
+England and Flanders, putting Germany out of the question, have made the
+rate of interchange 10 for 18. It is evident that Germany also must give
+18 yards of linen for 10 of cloth, and so carry on the trade with a
+diminished share of the advantage, or lose it altogether. If the play of
+demand in England and Flanders had made the rate of interchange not 10
+for 18 but 10 for 21, (10 to 20 being in Germany the comparative cost of
+production,) it is evident that Germany could not have maintained the
+competition, and would have lost, not part of her share of the
+advantage, but all advantage, and the trade itself.
+
+It would be no answer to say, that Germany could probably still have
+found the means of importing cloth from England, by exporting something
+else. If she had purchased cloth with anything else, she would have
+purchased it dearer: as is proved by the fact, that having free choice,
+she found it most advantageous to purchase it with linen. When she could
+get 10 yards of cloth for 17 of linen, that was the mode in which she
+could get it with least labour. Being pressed by competition, she gave
+successively 17, 18, 18; but rather than give 19 yards of linen, she
+perhaps would prefer to give, as costing her rather less labour, 10
+yards of silk, (which we will suppose to be the quantity which in
+England will purchase 10 yards of cloth.) It is obvious that, although
+Germany has found the means of supplying herself with cloth, by
+exporting a different article from that in which she was undersold, yet
+the advantage of the trade between her and England is now shared in a
+proportion much less favourable to Germany.
+
+There is no difficulty in showing that the same series of consequences
+takes place in exactly the same manner through the agency of money. The
+trade in cloth and linen between England and Germany being supposed to
+exist as before, Flanders produces linen at a lower price than that at
+which Germany has hitherto afforded it. The exportation from Germany is
+suspended; and Germany, continuing to import cloth, pays for it in
+money. By so doing she lowers her own prices, and raises those in
+England: she has to pay more money for cloth, and to pay it in a
+currency of higher value. She thus suffers more and more as a consumer
+of cloth, until by the fall of her prices she can either afford to sell
+linen as cheap as Flanders, or to export some other commodity which she
+could not export before. In either case, her trade resumes its course,
+but with diminished advantage on her side. [4]
+
+It is in the mode just described, that those countries which formerly
+supplied Europe with manufactures, but which owed their power of doing
+so not to any natural and permanent advantages, but to their more
+advanced state of civilization as compared with other countries, have
+lost their pre-eminence as other countries successively attained an
+equal degree of civilization. Lombardy and Flanders, in the middle ages,
+produced some descriptions of clothing and ornament for all Europe:
+Holland, at a much later period, supplied ships, and almost all articles
+which came in ships, to most other parts of the world. All these
+countries have probably at this moment a much larger amount of capital
+than ever they had, but having been undersold by other countries, they
+have lost by far the greater part of the share which they had engrossed
+to themselves of the benefit which the world derives from commerce; and
+their capital yields to them in consequence a smaller proportional
+return. We are aware that other causes have contributed to the same
+effect, but we cannot doubt that this is a principal one.
+
+As much as is really true of the great returns alleged to have been made
+to capital during the last war, must have arisen from a similar cause.
+Our exclusive command of the sea excluded from the market all by whom we
+should have been undersold.
+
+The adoption by France, Russia, the Netherlands, and the United States,
+of a more severely restrictive commercial policy, subsequently to 1815,
+has done great injury undoubtedly to those countries; for the duties
+which they have established are intended to be, and really are, of the
+class termed _protecting_; that is to say, such as force the production
+of commodities by more costly processes at home, instead of suffering
+them to be imported from abroad. But these duties, though chiefly
+injurious to the countries imposing them, have also been highly
+injurious to England. By diminishing her exportation, or preventing it
+from increasing as it would otherwise have done, they have kept up the
+prices of all imported commodities in England, above what those prices
+would have fallen to if trade had been left free.
+
+By another obvious application of the same reasoning, it will be seen,
+that there is a real foundation for the notion, that a country may be
+benefited by receiving from another country the concession of what used
+to be termed commercial advantages, or by restraining its colonies from
+purchasing goods of any country except itself. In the figured
+illustration last used (p. 34) [not available, M.D.], it is evident,
+that if England had been bound by a treaty with Germany to buy linen
+exclusively from her, Germany would have retained the trade which we
+supposed her to lose, and would have continued to purchase cloth at a
+comparatively cheap rate from England, instead of producing it by a more
+costly process at home. Suppose that England had been a colony of
+Germany, and we see that by compelling colonies to deal at her shop, she
+may obtain a real advantage, though of a nature which we may hazard the
+assertion that the founders of our colonial policy little dreamt of.
+
+Such an advantage, however, being gained at the expense of another
+country, is, at the least, simply equivalent to a tax, or tribute. Now,
+if a country has just grounds, or deems superiority of power a
+sufficient ground, for exacting a tribute from another country, the most
+direct mode is the best. First, because it is the most intelligible, and
+has least of trick or disguise. Secondly, because it allows the people
+of the country paying the tribute, to raise the money in whatever way
+they consider least oppressive to themselves. Thirdly, because the
+indirect mode of taxing a country, by restrictions on its commerce,
+disturbs the distribution of industry most advantageous to the world at
+large, and occasions a greater loss to the restricted country, and to
+the other countries with which that country would have traded, than gain
+to the country in whose favour the restrictions are imposed. And lastly,
+because a country never could obtain such privileges from an independent
+nation, and has seldom been so undisguised an oppressor as to demand
+them even from its colonies, without subjecting itself to restrictions
+in some degree equivalent, for the benefit of those whom it has thus
+taxed. Each country, therefore, usually pays tribute to the other; and
+to produce this fruitless reciprocity of exaction, the industry and
+trade of both countries are diverted from the most advantageous
+channels, and the return to the labour and capital of both is
+diminished, in pure loss.
+
+9. The same principles which have led to the above conclusions, also
+suggest a remark of some importance with respect to the probable effect
+of a change from a restricted to a comparatively free trade.
+
+There is no doubt that our prohibiting the importation of a particular
+article, which, but for the prohibition, would have been imported,
+enables us to obtain our other imports at smaller cost. The article for
+which we have the greatest demand, and for which our demand is most
+increased by cheapness, is that which we should naturally import
+preferably to any other; now of this article we should import the
+quantity necessary to pay for our exports, on terms of interchange less
+advantageous to us than in the case of any other commodity. If our
+legislature prohibits this commodity, the other country will be obliged
+to offer any other article on easier terms, in order to force a
+sufficient demand for it to be an equivalent to what she purchases from
+us.
+
+The steps of the process, money being used, would be these:--We prohibit
+the importation of linen. The exportation of cloth continues, but is
+paid for in money. Our prices rise, those in Germany fall, until silk,
+or some other article, can be imported from Germany cheaper than it can
+be produced at home, and in sufficient abundance to balance the export
+of cloth. Thus by sacrificing the cheapness of one commodity, we gain
+the cheapness of another: but we sacrifice a greater cheapness to gain a
+less, and we sacrifice cheapness in the article which we most want, and
+would import by preference, while our compensation is cheapness in an
+article which we either could produce more advantageously at home, or
+which we have so little desire for, that it requires a species of bounty
+on the article to create a demand.
+
+Restrictions on importation do, however, tend to keep down the value and
+price of our remaining imports, and to keep up the nominal or money
+prices of all our other commodities, by retaining a greater quantity of
+money in the country than would otherwise be there. From this it
+obviously follows, that if the restrictions were removed, we should have
+to pay rather more for some of the articles which we now import, while
+those which we are now prevented from importing would cost us more than
+might be inferred from their _present_ price in the foreign market. And
+general prices would fall; to the benefit of those who have fixed sums
+to receive; to the disadvantage of those who have fixed sums to pay; and
+giving rise, as a general fall of prices always does, to an appearance,
+though a temporary and fallacious one, of general distress. [5]
+
+It is right to observe that the measures of the British Legislature
+which have been falsely characterised as measures of free trade, must,
+from their extremely insignificant extent, have produced far too little
+effect in increasing our importation, to have actually led, in any
+degree worth mentioning, to the results specified above.
+
+It is of greater importance to take notice, that these effects may be
+entirely obviated, if foreign countries can be prevailed upon
+simultaneously to relax their restrictive systems, so as to create an
+immediate increase of demand for our exports at the present prices. It
+is true that exports and imports must, in the end, balance one another,
+and if we increase our imports, our exports will of necessity increase
+too. But it is a forced increase, produced by an efflux of money and
+fall of prices; and this fall of prices being permanent, although it
+would be no evil at all in a country where credit is unknown, it may be
+a very serious one where large classes of persons, and the nation
+itself, are under engagements to pay fixed sums of money of large
+amount.
+
+10. The only remaining application of the principle set forth in this
+essay, which we think it of importance to notice specially, is the
+effect produced upon a country by the annual payment of a tribute or
+subsidy to a foreign power, or by the annual remittance of rents to
+absentee landlords, or of any other kind of income to its absent owners.
+Remittances to absentees are often very incorrectly likened in their
+general character to the payment of a tribute; from which they differ in
+this very material circumstance, that tribute, if not paid to a foreign
+country, is not paid at all, whereas rents are paid to the landlord, and
+consumed by him, even if he resides at home. The two kinds of payment,
+however, have a perfect resemblance to each other in such parts of their
+effects as we are about to point out.
+
+The tribute, subsidy, or remittance, is always in goods; for, unless the
+country possesses mines of the precious metals, and numbers those metals
+among its regular articles of export, it cannot go on, year after year,
+parting with them, and never receiving them back. When a nation has
+regular payments to make in a foreign country, for which it is not to
+receive any return, its exports must annually exceed its imports by the
+amount of the payments which it is bound so to make. In order to force a
+demand for its exports greater than its imports will suffice to pay for,
+it must offer them at a rate of interchange more favourable to the
+foreign country, and less so to itself, than if it had no payments to
+make beyond the value of its imports. It therefore carries on the trade
+with less advantage, in consequence of the obligations to which it is
+subject towards persons resident in foreign countries.
+
+The steps of the process are these. The exports and imports being in
+equilibrium, suppose a treaty to be concluded, by which the country
+binds itself to pay in tribute to another country, a certain sum
+annually. It makes, perhaps, the first payment by a remittance of money.
+This lowers prices in the paying country, and raises them in the
+receiving one: the exports of the tributary country increase, its
+imports diminish. When the efflux of money has altered prices in the
+requisite degree, the exports exceed the imports annually, by the amount
+of the tribute; and the latter, being added to the sum of the payments
+due, restores the balance of payments between the two countries. The
+result to the tributary country is a diminution of her share in the
+advantage of foreign trade. She pays dearer for her imports, in two
+ways, because she pays more money, and because that money is of higher
+value, the money incomes of her inhabitants being of smaller amount.
+
+Thus the imposition of a tribute is a double burthen to the country
+paying it, and a double gain to that which receives it. The tributary
+country pays to the other, first, the tax, whatever be its amount, and
+next, something more, which the one country loses in the increased cost
+of its imports, the other gains in the diminished cost of its own.
+
+Absenteeism, moreover, though not burthensome in the former of these
+ways, since the money is paid whether the receiver be an absentee or
+not, is yet disadvantageous in the second of the two modes which have
+been mentioned. Ireland pays dearer for her imports in consequence of
+her absentees; a circumstance which the assailants of Mr. M'Culloch,
+whether political economists or not, have not, we believe, hitherto
+thought of producing against him.
+
+11. If the question be now asked, which of the countries of the world
+gains most by foreign commerce, the following will be the answer.
+
+If by gain be meant advantage, in the most enlarged sense, that country
+will generally gain the most, which stands most in need of foreign
+commodities.
+
+But if by gain be meant saving of labour and capital in obtaining the
+commodities which the country desires to have, whatever they may be; the
+country will gain, not in proportion to its own need of foreign
+articles, but to the need which foreigners have of the articles which
+itself produces.
+
+Let us take, as an illustration of our meaning, the case of France and
+England. Those two nations, in consequence of the restrictions with
+which they have loaded their commercial intercourse, carry on so little
+trade with each other, as may almost, regard being had to the wealth and
+population of the two countries, be called none at all. If these fetters
+were at once taken off, which of the two countries would be the greatest
+gainer? England without doubt. There would instantly arise in France an
+immense demand for the cottons, woollens, and iron of England; while
+wines, brandies, and silks, the staple articles of France, are less
+likely to come into general demand here, nor would the consumption of
+such productions, it is probable, be so rapidly increased by the fall of
+price. The fall would probably be very great before France could obtain
+a vent in England for so much of her exports as would suffice to pay for
+the probable amount of her imports. There would be a considerable flow
+of the precious metals out of France into England. The English consumer
+of French wine would not merely save the amount of the duty which that
+wine now pays, but would find the wine itself falling-in prime cost,
+while his means of purchasing it would be increased by the augmentation
+of his own money income. The French consumer of English cottons, on the
+contrary, would not long continue to be able to purchase them at the
+price they now sell for in England. He would gain less, as the English
+would gain more, than might appear from a mere comparison between the
+present prices of commodities in the two countries.
+
+Various consequences would flow from opening the trade between France
+and England, which are not expected, either by the friends or by the
+opponents of the present restrictive system. The wine-growers of France,
+who imagine that free trade would relieve their distress by raising the
+price of their wine, might not improbably find that price actually
+lowered. On the other hand, our silk manufacturers would be surprised if
+they were told that the free admission of our cottons and hardware into
+the French market, would endanger _their_ branch of manufacture: yet
+such might very possibly be the effect. France, it is likely, could most
+advantageously pay us in silks for a portion of the large amount of
+cottons and hardware which we should sell to her; and though our silk
+manufacturers may now be able to compete advantageously, in some
+branches of the manufacture, with their French rivals, it by no means
+follows that they could do so when the efflux of money from France, and
+its influx into England, had lowered the price of silk goods in the
+French market, and increased all the expenses of production here.
+
+On the whole, England probably, of all the countries of Europe, draws to
+herself the largest share of the gains of international commerce:
+because her exportable articles are in universal demand, and are of such
+a kind that the demand increases rapidly as the price falls. Countries
+which export food, have the former advantage, but not the latter. But
+our own colonies, and the countries which supply us with the materials
+of our manufactures, maintain a hard struggle with us for an equal share
+of the advantages of their trade; for _their_ exports are also of a kind
+for which there exists a most extensive demand here, and a demand
+capable of almost indefinite extension by a fall of price. Contrary,
+therefore, to common opinion, it is probable that our trade with the
+colonies, and with the countries which send us the raw materials of our
+national industry, is not more but less advantageous to us, in
+proportion to its extent, than our trade with the continent of Europe.
+We mean in respect to the mere amount of the return to the labour and
+capital of the country; considered abstractedly from the usefulness or
+agreeableness of the particular articles on which the receivers may
+choose to expend it.
+
+
+NOTES:
+
+[1] _Elements of Political Economy_, by James Mill, Esq., 3rd
+edit., pp. 120-1.
+
+[2] The figures used are of course arbitrary, having no
+reference to any existing prices.
+
+[3] We have not deemed it necessary to enter minutely into all
+the circumstances which might modify the results mentioned in the text.
+For example, let us revert to the first case, that in which the demand
+for cloth in Germany is so little affected by the rise of price in
+consequence of the tax, that the quantity bought exceeds in pecuniary
+value what it was before. As the German consumers lay out more money in
+cloth, they have less to lay out in other things; other money prices
+will fall; among the rest that of linen; and this may so increase the
+demand for linen in England as to restore the equilibrium of exports and
+imports without any passage of money. But England's treasury will still
+gain from Germany the whole of the tax, and the English people will buy
+their linen cheaper besides. Again, in the opposite case, where the tax
+so diminishes the demand, that a smaller pecuniary value is required
+than before. The German consumers have, therefore, more to expend in
+other things; these, and among the rest linen, will rise; and this may
+so diminish the demand for linen in England, as to restore the
+equilibrium without the transmission of money. But the effect, as
+respects the division of the advantage, is still as stated in the text.
+
+[4] The world at large, sellers and buyers taken together, is
+always a gainer by underselling. If, in the case supposed, England were
+compelled by a commercial treaty to exclude the linen of Flanders from
+her market, the total wealth of the world, if affected at all, would be
+diminished.
+
+For, what is the cause which enables Flanders to undersell Germany? That
+Flanders, if she had the trade, would exchange linen for cloth at a rate
+of interchange more advantageous to England. And why can Flanders do so?
+It must be either because Flanders can produce the article with a less
+comparative quantity of labour than Germany, and therefore the total
+advantage to be divided between the two countries is greater in the case
+of Flanders than of Germany; or else because, though the total advantage
+is not greater, Flanders obtains a less share of it, her demand for
+cloth being greater, at the same rate of interchange, than that of
+Germany. In the former case, to exclude Flemish linen from England would
+be to prevent the world at large from making a greater saving of labour
+instead of a less. In the latter, the exclusion would be inefficacious
+for the only end it could be intended for, viz., the benefit of Germany,
+unless Flemish money were excluded from England as well as Flemish
+linen. For Flanders would buy English cloth, paying for it in money,
+until the fall of her prices enabled her to pay for it with something
+else: and the ultimate result would be that, by the rise of prices in
+England, Germany must pay a higher price for her cloth, and so lose a
+part of the advantage in spite of the treaty; while England would pay
+for German linen the same price indeed, but as the money incomes of her
+own people would be increased, the same money price would imply a
+smaller sacrifice.
+
+[5] This last possible effect of a sudden introduction of free
+trade, was pointed out in an able article on the Silk question, in a
+work of too short duration, the _Parliamentary Review_.

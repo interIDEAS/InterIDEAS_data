@@ -1,0 +1,909 @@
+CHAPTER II.
+
+SOCIOLOGICAL COMPARED WITH PHILOSOPHICAL THEORY.
+
+1. There is no doubt that Sociology and Social Philosophy have
+started, historically speaking, from different points of view. The
+object of the present chapter is to ascertain the nature and estimate
+the importance and probable permanence of the difference between
+them. I propose first to explain the difference in general; then to
+review the sources of social experience, which in other words are
+facets or aspects of social life, by which social theory has been
+influenced, and with which it has to deal; and, finally, to form some
+idea of the distinctive services which may be rendered by sociology
+and social philosophy respectively in view of the range of experience
+which it is the function of social theory to organize.
+
+Beginning with VicoÕs [1] _New Science_, there has been more than one
+attempt in modern Europe to inaugurate the Science of Society as a
+new departure. But the distinctive and modern spirit of what is known
+as Sociology, and under that {18} name has had a continuous growth
+of half a century at least, first found unmistakable expression in
+Auguste Comte. The conception which he impressed upon the science to
+which he first gave the name of sociology or social physics, was a
+characteristically modern conception. Its essence was the inclusion
+of human society among the objects of natural science; its watchwords
+were law and cause in the sense in which alone Positivism allowed
+causes to be thought of--and scientific prediction. [2] It is true
+that the large conception of unity which Comte embodied in his
+philosophy had very much in common with the principles insisted on
+by the Greek social philosophers. The close interdependence of all
+social phenomena among each other, the unity of man with nature, and
+the consequent correlation of moral and political theory with the
+organised hierarchy of mathematical and physical sciences, are ideas
+which Comte might have borrowed directly from Plato and Aristotle.
+Nevertheless the modern starting-point is wholly different from that
+of antiquity. The modern enquirer--the sociologist as such--was
+to ask himself, according to Comte, in the language of physical
+science, what are the laws and causes operative among aggregations
+of human beings, and what are their predictable effects? The ancient
+philosopher--the ethical and metaphysical theorist--had before
+him primarily the problem, Òwhat is the completest and most real
+life of the human soul?Ó The work of the latter has been revived
+by modern idealist philosophy dating from Rousseau and Hegel, and
+finding a second {19} home in Great Britain, as that of the former
+has developed itself within the peculiar limits and traditions of
+sociological research, flourishing more especially upon French and
+American soil. The continuance of these two streams of thought in
+independent courses, though not without signs of convergence, is a
+remarkable phenomenon of nineteenth century culture; and it will be
+one of the problems which the present chapter, and in a larger sense
+the whole of the present work, must deal with, to consider how far it
+is necessary or desirable that they should blend.
+
+
+2. Every science, no doubt, is to some extent, the playground
+of analogies; but the complexity and the unmateriality of human
+relations has forced this character upon social theory in an
+extraordinary degree. It is impossible to account for the tendencies
+of sociological as well as of philosophical thought without making
+some attempt to pursue the line of investigation suggested by Mr.
+Bagehot in his _Physics and Politics_. Predominant modes and types of
+experience necessarily colour the whole activity of the mind, and, as
+indicated above, this influence more especially affects a province of
+research which is not _prima facie_ accessible to direct experiment
+or sensuous observation. I must, therefore, endeavour to review, in
+a brief outline, the principal branches of experience which have
+furnished ideas for application to social theory, and to indicate
+the leanings in speculation upon society, which have been due to
+preoccupation with one or another special analogy.
+
+i. The Newtonian theory of gravitation is the entrance gate to the
+modern world of science. {20} ÒWhen the Newton of this subject
+shall be seated in his placeÓ [1] is the aspiration of the modern
+investigator in every matter capable of being known. It is not
+surprising, therefore, that the inclusion of human society within
+the range of matters capable of being definitely understood, should
+have been symbolized by demanding for social science a completeness
+of explanation and a power of prediction analogous to those displayed
+by astronomy or by mathematical physics. Representative of this
+conception is the title, Social Physics--for Comte the alternative
+and equivalent to the name Sociology. It is easy to see both the
+merits and the dangers of such an ideal, which, as the embodiment
+of perfection in a natural science, is presupposed by the attitude
+of sociology down to the present day. Is a science necessarily a
+natural science, and is a natural science necessarily an exact
+science?--these are the fundamental questions involved in the
+adoption of a mathematical ideal for the study of society. No fault
+can be found with it on the ground of its implying the highest degree
+of harmony and precision; the only question is whether an adequate
+type of comparison is afforded for, let us say, the growth of an
+institution, by the law of a curve. The general conception, indeed,
+of a continuity between human relations and the laws of the cosmic
+order is thoroughly in the spirit of Plato, and betokens a scientific
+enthusiasm worthy to be the parent of great things. And especially
+in the sphere of economic science, where certain relatively simple
+hypotheses have proved on the whole to be effective instruments {21}
+of explanation, an analysis of intricate phenomena has been effected,
+which in some degree justifies the aspiration after the ideal of an
+exact science.
+
+
+ii. But it has been recognised from the earliest days of political
+speculation that, within the general ideal of a perfect natural
+science, the more special analogy of the living organism had a
+peculiar bearing upon social phenomena. Beginning in the ancient
+world with the comparison between individuals as ÒmembersÓ of a
+social whole, and the parts or organs of a living body, or even the
+constituent elements of a mind, this analogy has been extended and
+reinforced in modern times by what amounts to the new creation of
+the biological and anthropological sciences. The sense of continuity
+thus intensified and implying all that is understood by the modern
+term evolution, has brought an immense material of suggestions to
+sociological research, but has imposed upon it at the same time a
+characteristic bias from which it is just, perhaps, beginning to
+shake itself free. This characteristic may be roughly stated as the
+explanation of the higher, by which I mean the more distinctly human
+phenomena, by the lower, or those more readily observed, or inferred,
+among savage nations, or in the animal world. Any one familiar with
+logic will be aware that there is a subtle and natural prejudice
+which tends to strengthen such a bias by claiming a higher degree of
+reality for that which, as coming earlier in temporal succession,
+I presents itself in the light of what is called a I Òcause.Ó So
+strong has been this bias among sociologists, that the student,
+primarily interested in the features and achievements of civilised
+society, is {22} tempted to say in his haste that the sociologist [1]
+as such seldom deals seriously with true social phenomena at all;
+but devotes his main attention to primitive man and to the lower
+animals, occasionally illustrating his studies in these regions by
+allusions, showing no great insight or mastery, to the facts of
+civilized society. Such a complaint becomes less and less justified
+as the years go by, and sociology recovers its balance as against the
+overwhelming influence of the sciences of lower life. How far the
+approach from this ÒlowerÓ or more purely natural side will remain in
+the end characteristic of sociological science, is an integral part
+of the main problem concerning its nature and destiny with which we
+have to deal in the present work. But it remains true to say and very
+important to observe, that no such serious successes have as yet been
+won in the name and by the special methods of sociology as have been
+achieved by many investigators approaching their problems directly
+and with an immediate interest; whether in the sphere of political
+economy proper, or in dealing with various questions of social
+and ethical importance, such as pauperism, charity, sanitation,
+education, the condition of the people, the comparative study of
+politics, or the analysis of material and geographical conditions in
+their reaction upon social and artistic development.
+
+
+On the other hand, there is no doubt that the {23} epoch and
+influence of which we speak has bequeathed a legacy of imperishable
+value to the theory of society. In a word, it has made us sensitive
+to the continuity of things, and therefore also to their unity. It
+has shown us the crowning achievements of the human race, their
+States, their Religion, their Fine Art, and their Science, as the
+high-water mark of tendencies that have their beginnings far back
+in the primitive organic world, and in their original sources have
+also a connection with each other--as in the practical aspects
+of religion,--which too easily escapes notice in their highest
+individual development. The Òreturn to natureÓ and the Ònoble savageÓ
+have been invested with a significance which can never be forgotten,
+and which criticism can never set aside. This is the sum and
+substance of the general contribution which the latter half of the
+eighteenth century and the greater part of the nineteenth have made
+to sociology through the science of life and of man.
+
+More particularly, it is necessary to notice the double operation of
+biological influence on sociology, according to the unit from which
+the analogy is drawn.
+
+a. The idea which still bulks most largely in the popular mind, as
+contributed by biology to social theory, is unquestionably that of
+the struggle for life or the survival of the fittest. It should be
+noticed that the social application of this analogy rests entirely
+on the comparison of a human society, not to the individual animal
+organism, and still less to the individual mind; but to a whole
+animal species or even to the aggregate of all animal species, so
+far as they or their members are in competition with one another.
+One whole side of the sociological {24} doctrine, which Mr. Spencer
+has advocated with unwearied persistence, is founded upon this
+application of the biological analogy, and the paradox which he
+has made his principle professes to be borrowed directly from the
+dealings of nature with the individuals of the animal species. This
+paradox, that benefits should be assigned inversely as services
+in infancy but directly as services among adults, is his ultimate
+sociological basis; the modification of which, to suit human society,
+by the introduction of benevolence or altruism, so to speak, on the
+top of it, only serves to display its inadequacy. But we may take it
+that the analogy of the struggle for life has made it clear that, in
+any given position, life can be maintained only in virtue of definite
+qualities adapted to that position. And formal as this principle is
+when taken by itself, its application in human society can never be
+unnecessary.
+
+b. A more recent school has insisted on the complementary analogy,
+which might be taken as resting upon the comparison of a society
+with an individual organism. Here, it must be remembered, lay the
+resemblance which, in this region of ideas, first caught the eye
+of social philosophers in antiquity. But it is alleged that the
+aspect of co-operation can be traced as between individual members
+of the animal world no less than between the parts of a single
+organism, and it is affirmed that the view which sees nothing but
+internecine competition in the animal kingdom has been too rough and
+too superficial in its reading of the facts. And therefore it is
+suggested that the phenomena of social fellowship, no less than those
+of individual competition, have their source {25} and root in the
+world of lower nature; and perhaps sociology is now not far from the
+recognition that competition and co-operation are simply the negative
+and positive aspect of the same general fact--the fact of the
+division of labour, of essentiality of function, and of uniqueness
+of true individual service. If it is suggested by the one organic
+analogy that life depends upon qualities adequate to the position
+which is to be filled, it is made obvious by the other that the
+qualities which satisfy the claims of a certain position are those,
+in general and in principle, by which a function is discharged in the
+service of the whole.
+
+In Mr. SpencerÕs doctrine the two sides above indicated have been
+brought into very marked relation by a suggestive criticism, [1]
+which he has taken special pains to answer. If human society
+corresponds to an individual organism--as is, in many ways, Mr.
+SpencerÕs well-known doctrine--how is it that the absolute central
+control in which the perfection of an organism consists is, for Mr.
+Spencer, a note of imperfection when it appears in a human society?
+And the answer is in effect that human society corresponds in many
+of its features rather to a local variety of a species than to an
+individual organism. It is essentially discrete, not individual, and
+at this point, therefore, the analogy of the individual organism
+gives way to that of the group or species.
+
+
+
+But Mr. Spencer does not really mean that a human society has
+no more intrinsic bond between its members than the local group
+of an animal species. To indicate its true nature he {26} gives
+us a good word--but a word only--the word Òsuper-organic.Ó [1]
+It is a significant term, and brings us perhaps to the limit of
+what biological sociology is able to suggest with regard to the
+unity of a human commonwealth, and points us to something beyond.
+It is remarkable that when the facts of true human society are
+more thoroughly realised than by Mr. Spencer, but the clue of the
+individual organism and the co-operative side of animal life is not
+followed up, there is a tendency to sever the links which unite man
+to ÒlowerÓ nature, and to represent the ethical and cosmic processes
+as absolutely opposed. We see this point of view decidedly adopted
+by Mr. Huxley, [2] and its adoption perhaps indicates the inception
+of an epoch in which sociology will cut itself free from a good deal
+of pseudo-scientific lumber. Nevertheless, a patient and careful
+study will continue to recognise the elements both of competition
+and of co-operation as ineradicable and inseparable moments in
+human society as in the animal world; the essential meaning of
+competition in its higher forms being the rejection and suppression
+of members who are unable to meet the ever advancing demand for
+co-operative character and capacity; and the study of parasitism
+[3] and of regressive selection will continue to {27} be a warning
+against the attempt to emancipate mankind from the sterner general
+conditions of the cosmic order. It will be recognised that there
+is an adaptation to conditions which consists in degradation; but
+the failure will be understood by comparison with the only true
+Òsurvival of the fittest,Ó [4] being that which reveals the full
+unity and significance of organism and environment. It is important
+to observe that, at least in the two eminent biologists just alluded
+to, the doctrine of the individual self--of the relation between
+self-assertion and self-restraint--is altogether of an uncivilised
+and anti-social type. Biological categories do not, in their case
+at least, appear to have afforded any suggestion for the treatment
+of the social self as more and greater, in a positive sense, than
+the self which is less bound up with social obligations. As for the
+denying spirits in PlatoÕs _Republic_, so for both Mr. Spencer and
+Mr. Huxley, ÒnatureÓ is essentially self-assertion, and ÒsocietyÓ
+self-restraint. [5] Here again we touch the same limitation which
+met us in Mr. SpencerÕs term Òsuper-organic,Ó and we feel that a
+different point of view must be brought to bear.
+
+
+iii. Political Economy existed before modern Sociology was born, and
+is still the only part of it which is obviously and indisputably
+successful as a science of explanation. The triumphant development
+of this theory reacted even upon HegelÕs political philosophy, by
+suggesting to him the distinction between ÒBourgeois SocietyÓ and
+ÒThe {28} State.Ó _A fortiori_, it could not but have a serious
+influence on the growing science of sociology itself, the ideal of
+which might not unfairly be regarded as the extension to society as
+a whole of that type of investigation which had proved so successful
+in economic matter. From this influence has arisen the tendency
+in sociological research which has been called by the name of the
+economic or materialist view of history and consequently of society.
+Primarily connected with the name of Marx, it may also be illustrated
+by many contentions of Buckle and Le Play, and has become, indeed,
+the formula of a school. In sum, the point of view amounts to this:
+that the fundamental structure of civilisation, the type of the
+family, for example, and the order relations and development of
+classes in society, have been and must be determined by the primary
+necessities of human existence, and the conditions of climate and
+nutrition under which these necessities are met. Economic facts
+alone, it is suggested, are real and causal; everything else is an
+appearance and an effect.
+
+Before saying a word as to the true importance of this point of
+view, we may profitably correct the commonplace idea of its nature.
+Materialism, in a strict philosophical sense, means the conviction
+that nothing is real but that which is solid, or, perhaps, which
+gravitates. By a not very convincing analogy from this idea, all
+those passions and necessities which we speak of in a quite loose and
+popular way as connected with the body, may be and often are regarded
+as ÒmaterialÓ in opposition to energies which it seems pleasanter
+{29} to ascribe to incorporeal mind. But it should be noted that
+this secondary usage, especially in a time when no one denies the
+physical correlation of all psychical activity, has no important
+ethical implication. Like the ÒfleshÓ or the ÒbodyÓ of St. PaulÕs
+religious language, the ÒbodilyÓ or ÒmaterialÓ needs and appetites
+of man are an element of mind, the rank and value of which must be
+determined on other grounds than the notion that they are connected
+in some peculiar degree with ÒphysicalÓ conditions. The economic
+view of history has been called and has called itself materialist
+partly because of the commonplace usage, which I have just described,
+by which certain passions and necessities, which it takes to be
+fundamental, are apt to be called material as opposed to ethical or
+ideal--a wholly unjustified opposition--and partly from the notion,
+which I referred to at the beginning of this chapter, that the
+success of political economy was in some way analogous to that of the
+mathematical science of abstract matter.
+
+Stripping off, then, the unjustified suggestion of philosophical
+materialism, [1] what we have in the economic view of history,
+amounts pretty much to what is expressed in the saying that while
+statesmen are arguing, love and hunger are governing mankind. Climate
+and natural resources make a {30} difference to history; occupations
+determine the type of the family; an agricultural and an industrial
+society will never exhibit the same relations between classes, and
+very vast commercial operations cannot be carried on by the same
+methods or by the same minds which sufficed for the retail trade of
+a petty shop. But when it is clearly seen that economic needs and
+devices are no detached, nor, so to speak, absolutely antecedent
+department of human life [2]--a fact which the epithet ÒmaterialistÓ
+has done something to obscure, for, in truth, in economics there is
+no question of genuine material causation--then it becomes obvious
+that we have not here any prior determining framework of social
+existence, but simply certain important aspects of the operations
+of the human mind, rather narrowly regarded in their isolation from
+all others. If we seriously consider the import of such an economic
+conception as the Òstandard of life,Ó it becomes plain that the
+contrast too commonly accepted [3] between the mechanical pressure
+of economic facts and the influence of ideas [4] stands in need of a
+completely fresh criticism and of entire restatement. Discounting,
+however, the exaggerations which have arisen from confused notions of
+materialism, and from the genuine achievements of economic science,
+we have remaining, in the point of view under consideration, a
+thoroughly just assertion of manÕs continuity with {31} the world
+around him. Undoubtedly man lives the life of his planet, his
+climate, and his locality, and is the utterance, so to speak, of the
+conditions under which his race and his nation have evolved. The only
+difficulty arises if, by some arbitrary line between man and his
+environment, the conditions which are the very material of his life
+come to be treated as alien influences upon it, with the result of
+representing him as being the slave of his surroundings rather than
+their concentrated idea and articulate expression. Do we think that
+Homer, Dante, and Shakespeare would have been greater or more free in
+their genius if one had not been the voice of Greece, another that of
+Italy, and the third that of England? The world in which man lives
+_is_ himself, but is constituted, of course, by presentation to a
+mind and not by strictly physical causation; and even where strictly
+physical causation plays a part, as in the bodily effects of a hot
+climate or of a certain kind of nutrition, still it cannot determine
+a type of human life except by passing into the world which a human
+being presents to himself.
+
+
+The exclusive importance which has been attached to considerations
+of this kind in recent social theory is partly due to an unfounded
+opinion of their novelty. It is somewhat striking, though following
+naturally enough from the sort of schism in the world of letters
+which modern sociology and ancient social philosophy represent,
+that the firm and well balanced handling of these problems which we
+owe to Plato and Aristotle is for the most part ignored by modern
+sociologists.
+
+{32} The entire social conception of those writers is a continued
+application of the principle, fundamental in their whole philosophy,
+that ÒformÓ is the inherent organising life of Òmatter,Ó so that
+the better life of a commonwealth can be nothing but the flower and
+crown of the possibilities inherent in its material conditions and
+industrial and economic organisation. The law which is ultimately
+to reveal itself as the spring of all righteousness in the State,
+has its most obvious and external symbol--so Plato tells us--in
+the economic exchange of services; and every circumstance of site,
+and industry, and trade, and the racial type of the citizen, helps
+to constitute, both for him and for Aristotle, the living organic
+possibility from which, in some appropriate individual form, the
+higher life is to spring. If we ask ourselves what then is the
+difference between the ancient view of economic causation, and that
+of the ÒmaterialistÓ historical school, we shall find the answer in
+the absence, from the former, of that unreal isolation upon which we
+observed above. The relation of ÒmatterÓ or ÒconditionsÓ to ÒformÓ
+or ÒpurposeÓ is not, for the Greek thinker, the pressure of an
+alien necessity, of a hostile environment, but the upspringing of a
+life, continuous in principle through all its phases. The thought
+of the legislator fixes in the shape of distinct consciousness and
+will, what the assemblage of conditions embodies as a physical or
+instinctive tendency, as the artist, to use an ancient simile, finds
+the statue in the marble. Working with this idea, the connection is
+far more thoroughly, because more sympathetically, traced than it
+can be when we think that our science is but laying bare the fetters
+of humanity. And following {33} in the spirit of the Greek thinkers
+themselves, modern students of antiquity have devoted themselves to
+eliciting the positive connection of conditions with history, up to
+a point of success of which the common run of modern sociologists
+appear to have no conception. When we reflect how typical and,
+comparatively speaking, how readily isolated and exhausted is the
+history of Ancient Greece in the greatest age, it seems extraordinary
+that the considerable and minute researches which have been bestowed
+upon its geographical, commercial, and economic conditions should
+not be commonly drawn into account with a view to the illustration
+of the relations between natural resources, commercial and economic
+development, and historical greatness. [1]
+
+
+However this may be, here at any rate, in the analysis of economic
+and quasi-economic conditions in their bearing upon the life of
+peoples, we get a real subject-matter which is perhaps, so far as
+can yet be seen, the territory least disputably belonging to the
+pure sociologist. It is not really a sphere of natural causation,
+but it is a sphere of certain simple and general conditions in
+psychical life, corresponding to external facts which admit of
+more or less precise statement, and, we may hope, of reduction to
+fairly trustworthy uniformities. Such for instance are M. DurkheimÕs
+investigations on the effect of {34} density of population upon the
+division of labour, [1] or Professor GiddingÕs observations upon the
+causes and limiting conditions of the aggregation of populations. [2]
+We now proceed to a branch of experience which seriously strains the
+working conceptions of the sociologist.
+
+
+iv. A completely new vista reveals itself to the student of social
+theory when he turns from biological analogies and economic
+conditions to consider the wealth of experience and of ideas which
+is furnished to him by Jurisprudence and the Science of Right. He
+knows, indeed, by this time, that the obvious aspect of a province
+of fact will not be the only one, and that a unity will certainly be
+traceable between all the facets of social existence. But none the
+less, he will be able to restrain the itch to explain things away,
+and he will fairly and candidly give weight to the significance and
+suggestiveness of the mass of history and of reflection which is now
+brought before him.
+
+_a_. For here, as the plainest and most unmistakable data of
+experience, we are confronted with _ideal facts_. The vast mass
+of documents which form the basis of the Science of Right--a more
+complete and comprehensive set of records, perhaps, than any other
+branch of social science can boast--bears witness in every case to
+one social phenomenon at least, to a formal act of mind and will,
+aimed at maintaining some relative right or {35} hindering some
+relative wrong, and stamped with what in some sense and in some
+degree amounts to a social recognition. Theorists have said too
+hastily, though with a sound meaning, that right is independent
+of fact. It would be as true to say that reason is independent of
+civilisation, or the soul independent of culture. Right is not
+exhausted in the facts of past history; but it is at every moment
+embodied in facts; and to comprehend that the social phenomena
+which are among the most solid and unyielding of our experiences,
+are nevertheless ideal in their nature, and consist of conscious
+recognitions, by intelligent beings, of the relations in which
+they stand, is to make a great step towards grasping the essential
+task of science in dealing with society. From the beginning of
+social theory the facts of law have been set in opposition to the
+idea of a natural growth. It has been observed that, as a definite
+institution maintained by formal acts of will, society is artificial,
+conventional, contractual. We all know to-day that there is much
+more than this to be said about the nature and principles of social
+growth. Nevertheless, it remains true that the social whole has an
+artificial aspect, an aspect of will and of design, of the agreement
+and mutual recognition of free conscious beings. And in so far as the
+history of law has resulted in the conception of natural right, this
+in no way derogates from the artificial or ideal character of society
+as above understood. For ÒnaturalÓ right belongs to a ÒnatureÓ which
+includes and does not exclude that action of intelligence in virtue
+of which society may be termed artificial; and is {36} merely the
+revelation of the principle towards which the social will is working,
+and which in some degree it has always embodied.
+
+Therefore the facts of Jurisprudence and the Science of Right, or
+of ÒNatural Right,Ó as the issue and outcome of Jurisprudence,
+necessarily counterbalance the extreme ideas of continuous growth and
+natural causation which social science derives from other analogies.
+We are reminded that, after all, we are dealing with a self-conscious
+purposive organism, which is aware of a better and a worse, and
+has members bound together by conscious intelligence, though, it
+may be, not by conscious intelligence alone. At one time the ideas
+of Jurisprudence, such as Sovereignty or Contract, were considered
+sufficient by themselves to equip a social theory. And if they are
+now seen to need completion from both sides,--from the side of lower
+nature, and from the side of the national spirit and culture,--this
+should not make us neglectful of the important truths which the facts
+of law and recognised obligation, more than any others, establish on
+solid ground.
+
+_b_. It is of course the case that Law has been treated from the
+standpoint of economic history in the same way as the other phenomena
+of civilised life. It may be taken simply as the form into which
+substantive relations crystallise, under the influence of economic
+conditions or of other elementary social forces. And obviously such
+a view has its truth. The social will, like the will of any one of
+us from day to day, is formed not _in vacuo_, but as the focus of
+all the influences which penetrate our being. It is a fair object of
+{37} research to ascertain the economic or other social meaning of
+the statutes which we find on the statute book; and it is because
+they have so much meaning that they are excellent object-lessons in
+the play of the social consciousness and sense of right. But this
+focussing of social influences makes the laws not less acts of social
+will, but more. To suppose the contrary would be like supposing
+that nothing is a true act of will which embodies an individualÕs
+distinctive purposes in life.
+
+I will explain by an illustration the relative value of sociological
+analysis in dealing with the facts of positive law. I am indebted
+for it to M. Durkheim, whose writings appear to me among the most
+original and suggestive works of modern sociology. I regret that my
+immediate purpose does not justify me in stating and appreciating the
+whole very interesting theory of repressive and contractual law from
+which the point in question is selected.
+
+An act is a crime, [1] we are told, for the pure sociologist, when
+it offends the strong and definite collective sentiments of society.
+This is the strictly causal view of the matter. The act is a crime
+because it offends; it does not offend because it is a crime. And the
+corollaries are valuable. It is idle to distinguish, on such a basis,
+between the reformatory, the retributive, and the deterrent views of
+the reaction which is punishment. [2] An offensive act is in itself
+at once an exhibition of character, an injury, and a menace. If a man
+{38} assaults me in the street, and I knock him down; how futile to
+ask if my action is meant to cure him of his insolence, to punish him
+for having hit me, or to prevent him from hitting me again! The real
+fact is that I am offended, and I react by way of injury and negation
+against that which offends me. Now, this view, I think, illuminates
+the subject. By going back to the simple operative cause, as it may
+be supposed to exist especially in the mind of a tribe in an early
+stage of development (M. Durkheim is chiefly referring to religious
+offences), we have got a plain type of mental reaction, easy to
+imagine and to understand. In this type we see at once the unity of
+aspects which the forms of law, and legal or philosophical theory,
+tend later to dissociate in a fictitious degree. And moreover we are
+reminded that a law must have something behind it; some positive
+sentiment or conviction, without which it would be unaccountable and
+unmeaning.
+
+
+But when all this is said, it must not be supposed that penal law
+has been reduced to the level of a strong and definite collective
+sentiment, or a crime to the level of an annoyance. The simplest
+penal law of a self-existent social group is different from the
+anger of a crowd or mob. There is in it some sense of permanence,
+and permanence means responsibility and generality--a distinction of
+right and wrong. The fact of formally constituting a crime, _i.e._
+of announcing a law, implies that mere distaste is no ground of
+punishment. The law means that there is something worth maintaining,
+and that this is recognised, and that to violate this recognition is
+not merely to be unpopular, but to {39} sin against the common good,
+and to break an obligation. With less than this there is no true
+crime.
+
+Thus, if I am right, the relation of pure ÒsociologicalÓ causation
+to juristic facts is the well-known relation of the more abstract
+to the more concrete sciences, usually illustrated in logic by
+the relation of the physical and the musical account of musical
+sound. For the pure physicist, a harmony and a discord are only two
+different combinations of shakings. For the musician they are not
+only opposite effects, but are causes of divergent consequences. So
+with the relation between a strong collective sentiment and a true
+law. A strong sentiment, as such, is a mere fact, a mere force; and
+as such the sociologist regards it. A law involves the pretension
+to will what is just, and is therefore a sentiment and something
+more, viz., the point of view of social good. It aims at a right and
+implies a wrong, and demands to be apprehended and judged on this
+ground. A mere force cannot by its reaction constitute a crime; for
+that a law is necessary. The ideal aspect of law as recognition of
+right is no less actual, no less solid and verifiable, than the facts
+of sentiment or necessity which may have suggested and sustained it.
+In this way the relation of sociological causation to the facts of
+Jurisprudence is typical of the whole relation of Sociology conceived
+as a natural science, to the larger facts with which social theory
+has to deal.
+
+v. But the ideas involved in mere legality, though they bear
+emphatic testimony to the conscious and artificial aspect of the
+social whole, have always {40} been regarded with some justice as
+the type of what is empty and formal. To treat a law as a command
+with a penalty annexed, or to enunciate the tendency of social
+progress as being from status to contract, may convey important
+meanings, but is obviously very far short of the whole truth. And,
+indeed, generalisations of this kind, though characteristic of a
+certain class of reflective Jurisprudence, do not at all represent
+the highest level which has been reached within the science of
+right itself. But yet, as we pass beyond these everyday working
+conceptions, we are beginning to leave the central ground of
+Jurisprudence, and to move towards a point of view which deals
+more completely with life and culture. The need and occasion for
+such a point of view may be measured by that revival of national
+individuality which was referred to in the last chapter as
+constituting the true ground and occasion for the rebirth of genuine
+political philosophy in modern times. MontesquieuÕs investigation
+into the Òspirit of laws,Ó and his treatment of a law as something
+deeper than a command, following upon the similar endeavours of
+Vico, was in fact a recognition of the fundamental unity of a
+national civilisation, which, on its political side, even Hobbes and
+Locke had already attempted to explain by help of the inadequate
+instruments furnished to them by legal theory. MontesquieuÕs and
+VicoÕs conceptions were only the forerunners of the many-sided
+study of civilisation which characterised the latter part of the
+eighteenth century, following up the problem which was enunciated in
+RousseauÕs paradox, that Òlaw itself must be created by the social
+spirit which it aims at creating.Ó To recognise the social spirit
+{41} of a people, as the central unity behind its law and culture
+and politics, was the principle of the various researches dealing
+with formative art, poetry, language, religion, and the state, which
+marked the close of the eighteenth century (compare WolfÕs theory of
+Homer as the utterance of a racial mind), and laid the foundation of
+nineteenth century idealism.
+
+The true Greek renaissance, initiated in the age of Winckelmann,
+forcing modern minds into contact with Hellenic ideas in their
+original form, and no longer through Latin intermediaries, furnished
+a type and focus for these researches by bringing before the thoughts
+of students the brilliant individuality of the ancient city-state,
+the crude traditions of which had already exercised the most powerful
+influence on Rousseau, and through him on the Revolution. At the
+same time the organic sciences were full of activity. The life-work
+of Goethe marks the parallelism of the two movements. It is plain
+that the doctrines of Comte were no more than a very one-sided
+attempt to formulate the significance of the fermentation around
+him, and that deeply as he felt the unity of the social being, his
+expression of it ignored half the lesson of the times. Thus the
+generalities of Jurisprudence are vitalised and completed by the
+work of the sciences of culture; and the conception of a national
+mind and character takes its unquestioned place in modern social
+theory. It may be well at this point also to call attention to the
+researches which later historians have directed to what may be called
+ÒComparative PoliticsÓ; the relations, that is, of communities under
+government with respect to the {42} mode in which they are governed.
+
+vi. ÒAnd so the whirligig of Time brings about his revenges.Ó French
+Sociology to-day is a psychological science, though its founder
+banished psychology from his sociological method. Nothing is more
+instructive than to watch the gradual pressure of the various points
+of view which are emphasised by the various departments of social
+experience, as they reveal, under criticism, their tendency to
+complete themselves and one another by suggesting the only category
+which is adequate to them as a whole. As every serious student of
+social matters knows by his own experience, it is impossible to touch
+a physical fact, or a statistical datum, or a legal enactment, in
+reference to its social bearing, without its at once, so to speak,
+coming alive in his hands, and attaching itself to an underlying
+relation of mind as the only unity which will make it intelligible,
+and correlate it with other experiences, by themselves no less
+fragmentary. In statistics, for example, you touch a moving creature,
+as if through the holes in a wall, at this point and the other, and
+write down where you have touched him. [1] But to see the creature
+as he is, and combine your information of all kinds in a just and
+complete idea, you {43} must get him into the open. And that,
+when the question is of a life, you can only do by reconstructing
+his mind, for even to see a social unit with your eyes gives you
+a fragment only, and not a whole. On Fridays, we are told, the
+passenger traffic returns of French railways, omnibuses, and steamers
+show a decline. [2] What dumb fact is this? People do not like to
+travel on Fridays, or prefer to travel upon other days. What is this
+preference? The only unity that can really afford an explanation,
+that can correlate this irregular fragment of fact with the whole
+to which it belongs, is the living mind and will of the society in
+which the phenomenon occurs. Explanation aims at referring things to
+a whole; and there is no true whole but mind. Necessarily, therefore,
+with widening experience and deepening criticism, mind has become the
+centre of the experiences focussed by sociology.
+
+
+We may note some significant points in this development, although,
+indeed, the whole course of modern sociology is one single
+illustration of what has just been said. Discussions of the problem
+in what the differentia of society consists, no longer deal with
+organic or economic conceptions, but with such ideas as the
+ÒConsciousness of kind,Ó [1] the ÒMind of a Crowd,Ó [2] ÒImitationÓ
+and ÒInvention,Ó [3] similarities and differences in the social
+consciousness, [4] ÒSocial logicÓ and society considered as a
+syllogism, [5] and the imitative and {44} inventive person. [6] The
+work of M. Tarde in particular is typical of the whole movement,
+and his phrases have largely been adopted whether in agreement or
+in controversy. For him the one fact coextensive with the social
+character is ÒImitationÓ--the means by which ideas and practices
+spread throughout groups and masses of intelligent beings. For the
+characteristic of knowable phenomena, in his view, is Repetition,
+and Imitation is the means and vehicle of Repetition in social
+matters. Here, however, we have accounted only for generalisation,
+and differentiation needs a separate origin. This will be supplied
+by the idea of ÒInvention;Ó Invention and Imitation, therefore, are
+the general form of all social process, the matter on the other hand
+being analysable as Belief and Desire. Every institution is a belief,
+[7] every activity is a want or desire. In the _Logique Sociale_
+these conceptions of the general medium and process of social life
+are pushed home into the actual formative operation of the social
+mind and will. Society, we are told, may be compared not indeed to
+an organism, but rather to a brain; it is a cooperative mind, a
+syllogism, in which the principles held by one part are modified
+and applied by another. M. TardeÕs extreme illustrative hypothesis
+corresponds strangely with one thrown out by Mr. Sidgwick. Mr.
+Sidgwick [8] has simplified an ethical question by supposing only a
+single sentient conscious being in the universe; for M. {45} Tarde
+there is, we might say, no single being at all; the typical social
+man is a hypnotical creature, a somnambulist acting under suggestions
+from others, though he does not know it, and is under the illusion
+that he is himself. [9] Nothing could be of higher interest than to
+see the necessities of social science thus working themselves out,
+on slippery and unfamiliar ground, by the sheer force of facts and
+experience. That a science of man must be a science of mind seems no
+longer disputable.
+
+On the substance of this development there is one observation which
+inevitably suggests itself to any critic who approaches the problem
+from the philosophical side.
+
+Necessarily, as the relation of the individual to society is the
+root of every social problem, psychological sociology consists to a
+great extent in exercises upon the theme of identity and difference.
+These exercises have hitherto been for the most part unconscious
+and involuntary. And the high degree of substantial truth which is
+attained by inquirers who have not thought the logic of identity
+worthy of a single glance, is the strongest possible confirmation of
+the common experience that it is safer to neglect theory than to be
+careless of facts. Nevertheless, it has now become apparent, that
+a point has been attained at which logical criticism is absolutely
+essential, or if not logical criticism, at least some reference to
+the familiar and well-established results of ancient or modern social
+philosophy.
+
+For it is a universal characteristic of the {46} sociological
+movement before us, that identity and difference are referred to
+different spheres, and the ÒoneÓ and the ÒotherÓ are regarded as
+reciprocally exclusive atoms. [1] The difficulties and fallacies
+which thus arise are innumerable. Thus we have the contagious common
+feeling of a crowd [2] taken as the true type of a collective mind,
+obviously because it is not understood how an identical structure can
+include the differences, the rational distinctions and relations,
+which really constitute the working mind of any society. So again
+we have one type of law marked off as corresponding to social
+similitude, [3] while a different type corresponds to the social
+division of labour; simply because the category of resemblance has
+been substituted for that of identity, and is treated as exclusive of
+differentiation; with the result of a really terrible distortion of
+facts in the attempt to separate the whole sphere of penal enactment
+from that which deals with industrial organisation. So with the
+entire set of notions of ÒImitation,Ó ÒRepetitionÓ and ÒInvention.Ó
+[4] The separation of Imitation and Invention is simply the popular
+exclusion of Difference from Identity; while the treatment of
+Repetition as the characteristic of knowable phenomena and the mode
+of utterance of social Imitation means the restriction of rational
+Identity to its barest form, and the exclusion from {47} social
+theory of absolutely every case of true cooperative structure. For
+true cooperative structure is never characterised by repetition, but
+always by identity in difference; it is the relation not of a screw
+to an exactly similar screw, but of the screw to the nut into which
+it fastens.
+
+In the discussions of Egoism and Altruism the difficulty comes to a
+head. Some writers think Egoism prior to Altruism; others--the more
+wary and enlightened--incline to treat Altruism as a phase earlier
+than Egoism; M. Durkheim, whose eye for a fact is very keen, seeing
+the absurdity of both these suppositions, is determined to include
+the two characters in question from the very beginning in the human
+consciousness, [1] but, of course, as contents belonging to different
+spheres and consisting of contrasted elements. The conception of a
+whole held together by its differences, its identity consisting in
+and being measured by their very profoundness and individuality, is
+not at the command of any of these writers, although the greater
+part of M. DurkheimÕs theory seems imperatively to demand such a
+conception.
+
+
+vii. Before considering, in conclusion, the relation of Sociology
+as influenced by the above-mentioned sources and points of view, to
+social philosophy proper, it will be well to devote a few words to
+emphasising the way in which these ÒsourcesÓ ought to be regarded.
+
+Every ÒsourceÓ of sociological science is at once a category, or
+point of view, and also a certain group of actual social conditions.
+This relation is effectively illustrated by the study of any social
+{48} unity which is such as to invite a thorough conspectus of
+its life from top to bottom of the social growth and underlying
+conditions. I repeat that the history and life of ancient Greece, a
+singularly complete working model of society on a very small scale,
+analysed with remarkable thoroughness, and individual throughout, is
+the prerogative example of such a treatment; but next to this, or in
+addition to it, a thoroughly careful study of local history, life,
+and conditions, in a limited region, [1] with which we are familiar
+from top to toe, is an essential propaedeutic to true social theory.
+To focus a number of groups of fact, and coordinate the points of
+view which they substantiate, into the conception of a living being,
+with its individual character and spiritual utterance, needs more
+than a merely literary or statistical study. But by making this
+effort we shall learn, as no economic charts or general scientific
+works can teach us, what a social life is, and in what sense it
+is true that all partial facts and experiences within it demand
+ultimate coordination in the category of mind. It is not meant that
+consciousness can make the weather hold up, but it is meant that no
+fact has a true social bearing except in as far as, sooner or later,
+it comes to form part of the world which a being capable of sociality
+and therefore intelligent, presents to himself as his theatre of
+action.
+
+
+3. Thus it may seem that by mere force of facts a necessary solution
+has been arrived at, and that psychological sociology must be one and
+the same science with social philosophy.
+
+{49} But this is not quite the case. Up to the present time these two
+sciences continue to approach their object-matter, as it were, from
+different ends, and whether the two views will ultimately amalgamate
+is perhaps mainly a problem of the personal division of labour.
+But a question of principle, with reference to the true nature of
+psychology, is indirectly involved. Only there seems no reason why
+two kinds of psychology should not exist.
+
+Psychology, as at present conceived by its best working
+representatives, is a positive, though not a physical science.
+ÒFor (the psychologist) the crude superstitions of Australian
+aborigines have as much interest and value as the developed and
+accurate knowledge of a Newton or a Faraday.Ó [1] Its aim is Òthe
+establishment of continuity among observed facts, by interpolating
+among them intermediate links which elude observation.Ó [2] If
+not a ÒphysicalÓ science, then, it is, in a common sense of the
+term, a ÒnaturalÓ science. It has the impartiality, and uses the
+watchwords--law, process, genesis--which belong to a natural science.
+And like every impartial science, to which process and genesis are
+watchwords, it tends to explain the higher by the lower. This springs
+from no malice aforethought, but from the conditions of the case. The
+lower is simpler, and usually comes first in time. It is naturally
+dwelt upon, as that into which it is hoped to resolve the more
+complex, and the explanation which is more adequate for the simple,
+is less adequate for the complex. No difference of higher {50} and
+lower is recognised by the impartial science, and its ideal, as a
+science, is inevitably the expression of the complex in terms of the
+simple; while, as far as genesis in time is insisted on, the bias
+towards temporal causation is pretty sure to operate by attaching a
+quasi-causal significance to the earlier phases.
+
+
+In all these characteristics psychology is at one with sociology.
+And, therefore, though it is a gain that other points of view should
+be resolved into the point of view of mind, yet the positive bias of
+sociology is not transcended simply by this resolution.
+
+Philosophy starts, we have said, as it were, from the other end. It
+is critical throughout; it desires to establish degrees of value,
+degrees of reality, degrees of completeness and coherence. Its
+purpose might be termed ÒEthical,Ó but for the extreme narrowness
+of the meaning of that term. Society, for it, is an achievement or
+utterance of human nature--of course not divorced from nature in
+general--having a certain degree of solidity, so to speak; that is
+to say, being able, up to a certain point, to endure the tests and
+answer the questionings which are suggested by the scrutiny of human
+life from the point of view of value and completeness. Is the social
+life the best, or the only life for a human soul? In what way through
+society, and in what characteristics of society, does the soul lay
+hold upon its truest self, or become, in short, the most that it has
+in it to be? How does the social life at its best compare with the
+life of art, of knowledge, or of religion, and can the same principle
+be shown to be active in all of them? And what have {51} they in
+common, or peculiar to each, which has an imperative claim on the
+mind of man?
+
+Now it was hinted above that there might be two kinds of psychology,
+or two tendencies within it. And if psychology were to be impelled,
+as it has been more than once in the past, by the recognition that
+where there is more of its object--of mind--its interest is greater
+and the rank of its object-matter is higher, then there would not
+be much to choose between the temper of psychology and that of
+philosophy. And as sociology has found itself driven forward into
+the territory of social Òlogic,Ó a name which at once suggests a
+critical and philosophical science, it may well be that sociological
+psychology will not remain wholly ÒpositiveÓ and impartial, but
+will assume, as in the hands of Professor Giddings, for example, it
+seems inclined to, at least a teleological attitude, testing social
+phenomena by the quantity and quality of life which they display.
+
+But, at any rate, the points of view of sociology, and of social
+philosophy as above described, will continue to supplement each
+other. Philosophy gives a significance to sociology; sociology
+vitalises philosophy. The idea of mind is deepened and extended by
+the unity and continuity which sociological analysis, throughout all
+its many-sided sources, vindicates for the principle of growth and
+order down to the roots and in all the fibres of the world. Every
+natural resource and condition must be thought of as drawing forth
+or constituting some new element in the mind which is the universal
+focus; just as every shape and colour of the trees in the landscape
+or every note of a melody finds its {52} definite and individual
+response in the contemplative consciousness. The error lies, not in
+identifying the mind and the environment, but in first uncritically
+separating them, and then substituting not merely the one for the
+other, but wretched fragments of the one for the whole in which alone
+either can be complete.
+
+Philosophy, on the other hand, in treating of society, has to deal
+with the problems which arise out of the nature of a whole and its
+parts, the relation of the individual to the universal, and the
+transformation by which the particular self is lost, to be found
+again in a more individual, and yet more universal form. In all
+these respects its view is what might be called teleological; that
+is to say, it recognises a difference of level or of degree in the
+completeness and reality of life, and endeavours to point out when
+and how, and how far by social aid, the human soul attains the most
+and best that it has in it to become. As long as these two points
+of view are clearly recognised, it is a matter of the mere personal
+division of labour whether they are brought to bear by the same
+thinkers and within the same treatises.
+
