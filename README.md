@@ -14,3 +14,5 @@ Copyright laws can vary from one country to another. For example, some countries
 For the remaining unpublished data, we are actively working on verifying the copyright status and obtaining the necessary permissions. We will continue to update our dataset as soon as we confirm the copyright status of each book and secure the appropriate permissions.
 
 # Data Format
+
+![Graph a simple data](LLM_DATA.png)
