@@ -45,3 +45,8 @@ The copyright status of philosophy books can vary significantly depending on sev
 Copyright laws can vary from one country to another. For example, some countries have extensions for certain types of works or authors.
 
 For the remaining unpublished data, we are actively working on verifying the copyright status and obtaining the necessary permissions. We will continue to update our dataset as soon as we confirm the copyright status of each book and secure the appropriate permissions.
+
+Dataset is licensed under CC BY 4.0
+
+## Contact Us
+If you have a any questions regarding the dataset or publication, please creat an issue in this git repository.
