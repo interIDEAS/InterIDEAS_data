@@ -1,5 +1,6 @@
 # InterIDEAS_data
 The formation and circulation of ideas in philosophy significantly impact pedagogical and scholarly practice. Yet traditional analyses often rely on subjective methodologies limited by human cognitive capacities. 
+![Graph a simple data](Demo.jpg)
 Addressing this challenge, we introduce InterIDEAS, a pioneering dataset that is the first to combine Large Language Models (LLMs) and human expertise in philosophy.
 This LLM and expert-enhanced dataset encompasses over 45,000 pages from key philosophical texts, covering major thoughts and schools from 1750 to 1950, and features more than 3,150 writers.
 By integrating theories of intertextuality from literary studies with bibliometric research techniques, InterIDEAS enhances the quantitative and qualitative mining of philosophical knowledge concerning social, historical, intellectual, and interpersonal relations underlying miscellaneous philosophical texts.
