@@ -1,7 +1,15 @@
 Links of language models:
 
-BERT: https://huggingface.co/google-bert/bert-base-uncased
-ALBERT: https://huggingface.co/tals/albert-xlarge-vitaminc-mnli
-BERTweet: https://huggingface.co/cardiffnlp/bertweet-base-sentiment
-RoBERTa: https://huggingface.co/cardiffnlp/twitter-roberta-base-sentiment
-XLNet: https://huggingface.co/TehranNLP/xlnet-base-cased-mnli
+PLMs:
+1. BERT: https://huggingface.co/google-bert/bert-base-uncased
+2. ALBERT: https://huggingface.co/tals/albert-xlarge-vitaminc-mnli
+3. BERTweet: https://huggingface.co/cardiffnlp/bertweet-base-sentiment
+4. RoBERTa: https://huggingface.co/cardiffnlp/twitter-roberta-base-sentiment
+5. XLNet: https://huggingface.co/TehranNLP/xlnet-base-cased-mnli
+
+LLMs:
+1. Llama 2: https://huggingface.co/Mikael110/llama-2-7b-guanaco-fp16
+2. Llama 3: https://huggingface.co/RLHFlow/ArmoRM-Llama3-8B-v0.1
+3. Mistral: https://huggingface.co/weqweasdas/RM-Mistral-7B 
+4. GPT-2: https://huggingface.co/michelecafagna26/gpt2-medium-finetuned-sst2-sentiment
+5. GPT-4o
