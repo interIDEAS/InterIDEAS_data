@@ -1,14 +1,14 @@
 <img src="logo2.png" width="750" height="280" alt="Graph a simple data">
 
-# 📚 InterIDEAS: A Philosophical Intertextuality Dataset        📚 📚 📚 
+# 📚 InterIDEAS: A Philosophical Intertextuality via LLMs        📚 📚 📚 
 
 ## 🔍 Project Overview
 
 The formation and circulation of ideas in philosophy significantly impact both pedagogical and scholarly practice. However, traditional analytical methods are often constrained by the **subjectivity and cognitive limitations** of human researchers.
 
-**InterIDEAS** addresses this challenge by introducing a pioneering dataset that is the **first to combine Large Language Models (LLMs) with human expertise** in philosophy.
+**InterIDEAS** addresses this challenge by introducing a pioneering LLM based study that is the **first to combine Large Language Models (LLMs) with human expertise** in philosophy.
 
-## 📘 Dataset Highlights
+## 📘 Highlights
 
 - **Scale**: Over **45,000 pages** of philosophical text.
 - **Scope**: Encompasses key works from **1750 to 1950**, across all major schools of thought.
