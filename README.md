@@ -1,4 +1,4 @@
-<img src="data_collection.png" width="800" height="500" alt="Graph a simple data">
+<img src="logo.png" width="800" height="500" alt="Graph a simple data">
 # InterIDEAS 
 The formation and circulation of ideas in philosophy significantly impact pedagogical and scholarly practice. Yet traditional analyses often rely on subjective methodologies limited by human cognitive capacities. 
 Addressing this challenge, we introduce InterIDEAS, a pioneering dataset that is the first to combine Large Language Models (LLMs) and human expertise in philosophy.
