@@ -11,7 +11,7 @@ The formation and circulation of ideas in philosophy significantly impact both p
 ### 📘 Highlights
 
 - **Scale**: Over **45,000 pages** of philosophical text.
-- **Scope**: Encompasses key works from **1750 to 1950**, across all major schools of thought.
+- **Scope**: Encompasses key works from **1750 to 1950**.
 - **Authors**: Covers contributions from over **3,150 philosophers**.
 - **Augmentation**: Enhanced with **intertextual theory** from literary studies and **bibliometric techniques** to contextualise philosophical references.
 - **Annotation**: Enriched with **intertextual function**, **content type**, and **sentiment** labels for each bibliographic reference.
