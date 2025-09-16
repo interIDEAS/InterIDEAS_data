@@ -44,7 +44,9 @@ We envision applications in:
 - **Interpretable AI**
 - **Cross-domain generalisation**
 - **Curriculum design for philosophy education**
-### Data Collection
+
+
+## 📊 Data Collection
 The figure below shows the workflow of our data collection approach.
 
 <img src="data_collection.png" width="900" height="500" alt="Graph a simple data">
