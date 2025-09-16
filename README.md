@@ -47,4 +47,4 @@ For the remaining unpublished data, we are actively working on verifying the cop
 Dataset is licensed under CC BY 4.0
 
 ## Contact Us
-If you have a any questions regarding the dataset or publication, please creat an issue in this git repository.
+If you have any questions regarding the dataset or publication, please creat an issue in this git repository.
