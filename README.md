@@ -1,6 +1,6 @@
-<img src="logo2.png" width="730" height="280" alt="Graph a simple data">
+<img src="logo2.png" width="680" height="250" alt="Graph a simple data">
 
-# 📚 InterIDEAS: A Philosophical Intertextuality via LLMs        📚 📚 📚 
+# 📚 InterIDEAS: A Philosophical Intertextuality via LLMs        📚  
 
 ## 🔍 Project Overview
 
